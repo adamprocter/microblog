@@ -1,3 +1,5 @@
-# README
+# Microblog with Jekyll
 
-Clone of my MicroBlog
+We'll add more information as it happens.
+
+A project by Garth Braithwaite and Tim Smith.
