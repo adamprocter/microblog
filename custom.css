@@ -1,0 +1,11 @@
+.footer{
+padding-top:10px;
+}
+
+.footer:after{
+  content: "All content on this site, unless otherwise stated, is released under creative commons attribution 1.0 england & wales."
+}
+
+.copyright{
+ display:none;
+}
