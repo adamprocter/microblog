@@ -1,0 +1,89 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Adam Procter",
+	"home_page_url": "http://discursive.adamprocter.co.uk/",
+	"feed_url": "http://discursive.adamprocter.co.uk/feed.json",
+	"items": [
+		
+		{
+			"id": "http://adamprocter.micro.blog/2017/08/18/jump-to-mins.html",
+	      	
+			"content_html": "<p>Jump to 33mins to hear recent Games Graduate Claudia Thomas talking Women in Gaming on BBC Radio 4 - Women’s Hour! <a href=\"http://dctr.pro/1zp\">dctr.pro/1zp</a> - Fantastic</p>\n",
+			"date_published": "2017-08-18T11:45:00+01:00",
+			"url": "http://discursive.adamprocter.co.uk/2017/08/18/jump-to-mins.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2017/08/18/episode-in-which.html",
+	      	
+			"content_html": "<p>Episode 2 in which @altshift_edu and I talk GDEN 2016 is out now. <a href=\"http://dctr.pro/1zo\">dctr.pro/1zo</a></p>\n",
+			"date_published": "2017-08-18T11:28:00+01:00",
+			"url": "http://discursive.adamprocter.co.uk/2017/08/18/episode-in-which.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2017/08/17/timecop-records-just.html",
+	      	
+			"content_html": "<p>Timecop 1983 records just scream Arcade retro nostalgia at me, love it, takes me back every time @iamtimecop1983 thanks</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/e01c52f3bd.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-08-17T23:38:00+01:00",
+			"url": "http://discursive.adamprocter.co.uk/2017/08/17/timecop-records-just.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2017/08/17/repost-gamesdesignart-getrepostfriday.html",
+	      	
+			"content_html": "<h1 id=\"repost-gamesdesignart-getrepost\">Repost @gamesdesignart (@get_repost)</h1>\n<p>・・・\nFriday 18th at 10am our recent graduate @<em>silverbeat</em> currently making a game with @sennepldn will be on @bbcradio4 Women’s hour talking about women and gaming! #excitingtimesatwsa</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/4cde18be13.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-08-17T22:34:00+01:00",
+			"url": "http://discursive.adamprocter.co.uk/2017/08/17/repost-gamesdesignart-getrepostfriday.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2017/08/17/friday-th-am.html",
+	      	
+			"content_html": "<p>Friday 18th 10am recent @gamesdesignart graduate @<em>silverbeat</em> is on @bbcradio4 Women’s hour talking women and gaming! #excitingtimesatwsa</p>\n",
+			"date_published": "2017-08-17T22:23:00+01:00",
+			"url": "http://discursive.adamprocter.co.uk/2017/08/17/friday-th-am.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2017/08/17/did-someone-say.html",
+	      	
+			"content_html": "<p>Did someone say JukeBox ✅ \nDid someone say GnR ✅✅ Lovely relaxed afternoon ☀️</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/50119b045a.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-08-17T18:15:00+01:00",
+			"url": "http://discursive.adamprocter.co.uk/2017/08/17/did-someone-say.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2017/08/17/design-kit-the.html",
+	      	
+			"content_html": "<p>Design Kit: The Course for Human-Centered Design - IDEO .org\nA free course from Acumen\nSeptember 12 - November 15, 2017\n<a href=\"http://dctr.pro/1zh\">dctr.pro/1zh</a></p>\n",
+			"date_published": "2017-08-17T17:36:00+01:00",
+			"url": "http://discursive.adamprocter.co.uk/2017/08/17/design-kit-the.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2017/08/17/what-the-heck.html",
+	      	
+			"content_html": "<p>What the heck! Forced to buy another @tfl Oyster Card chose £5 charged £10 I assume other £5 was for card NOT CLEAR!</p>\n",
+			"date_published": "2017-08-17T10:42:00+01:00",
+			"url": "http://discursive.adamprocter.co.uk/2017/08/17/what-the-heck.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2017/08/17/i-see-ulyssesapp.html",
+	      	
+			"content_html": "<p>I see @Ulyssesapp are considering a road map site. Perhaps an ideas list might be better, would be great to allow for subscribers/staff to upvote ideas publicly. Doesn’t mean all ideas make the app but would indicate demand &amp; maybe a wish list submission option too.</p>\n",
+			"date_published": "2017-08-17T09:27:00+01:00",
+			"url": "http://discursive.adamprocter.co.uk/2017/08/17/i-see-ulyssesapp.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2017/08/16/made-some-updates.html",
+	      	
+			"content_html": "<p>Made some updates to <a href=\"http://adamprocter.co.uk\">adamprocter.co.uk</a> was a bit old to say the least. Hopefully adding let’s encrypt later today. </p>\n",
+			"date_published": "2017-08-16T16:26:00+01:00",
+			"url": "http://discursive.adamprocter.co.uk/2017/08/16/made-some-updates.html"
+		}
+		
+	]
+}
