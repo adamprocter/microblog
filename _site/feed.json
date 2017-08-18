@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/08/18/my-thoughts-this.html",
+	      	
+			"content_html": "<p>My thoughts this week are with the people of Charlottesville, Barcelona, Cambrils and Turku 😥 Stay strong. </p>\n",
+			"date_published": "2017-08-18T17:48:00+01:00",
+			"url": "http://discursive.adamprocter.co.uk/2017/08/18/my-thoughts-this.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/08/18/jump-to-mins.html",
 	      	
 			"content_html": "<p>Jump to 33mins to hear recent Games Graduate Claudia Thomas talking Women in Gaming on BBC Radio 4 - Women’s Hour! <a href=\"http://dctr.pro/1zp\">dctr.pro/1zp</a> - Fantastic</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I see @Ulyssesapp are considering a road map site. Perhaps an ideas list might be better, would be great to allow for subscribers/staff to upvote ideas publicly. Doesn’t mean all ideas make the app but would indicate demand &amp; maybe a wish list submission option too.</p>\n",
 			"date_published": "2017-08-17T09:27:00+01:00",
 			"url": "http://discursive.adamprocter.co.uk/2017/08/17/i-see-ulyssesapp.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/08/16/made-some-updates.html",
-	      	
-			"content_html": "<p>Made some updates to <a href=\"http://adamprocter.co.uk\">adamprocter.co.uk</a> was a bit old to say the least. Hopefully adding let’s encrypt later today. </p>\n",
-			"date_published": "2017-08-16T16:26:00+01:00",
-			"url": "http://discursive.adamprocter.co.uk/2017/08/16/made-some-updates.html"
 		}
 		
 	]
