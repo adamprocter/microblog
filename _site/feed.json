@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/08/25/my-latest-infrequent.html",
+	      	
+			"content_html": "<p>My latest infrequent newsletter is out;\n<a href=\"http://dctr.pro/201\">dctr.pro/201</a> - games design, micro.blog, communication design &amp; more.</p>\n\n<p>Subscribe to future editions here;\n<a href=\"http://dctr.pro/1ae\">dctr.pro/1ae</a></p>\n",
+			"date_published": "2017-08-25T09:20:00+01:00",
+			"url": "http://discursive.adamprocter.co.uk/2017/08/25/my-latest-infrequent.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/08/23/sendy-is-out.html",
 	      	
 			"content_html": "<p>Sendy 3 is out. <a href=\"http://dctr.pro/79\">dctr.pro/79</a> A self hosted newsletter email service and alternative to mailchimp. I use this for <a href=\"http://periodical.adamprocter.co.uk\">periodical.adamprocter.co.uk</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Opensource trello alternative looks nice - not had a play yet but I think its next on my install list. Kanban Project Management Software - <a href=\"http://dctr.pro/1zw\">dctr.pro/1zw</a></p>\n",
 			"date_published": "2017-08-22T14:11:00+01:00",
 			"url": "http://discursive.adamprocter.co.uk/2017/08/22/opensource-trello-alternative.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/08/22/app-enhanced-family.html",
-	      	
-			"content_html": "<p>App enhanced family board games. Includes the wonderful beasts of balance. #digitalphysical #play #boardgames - <a href=\"http://dctr.pro/1zv\">dctr.pro/1zv</a></p>\n",
-			"date_published": "2017-08-22T10:40:00+01:00",
-			"url": "http://discursive.adamprocter.co.uk/2017/08/22/app-enhanced-family.html"
 		}
 		
 	]
