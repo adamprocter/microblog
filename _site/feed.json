@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/08/26/more-upgrades-to.html",
+	      	
+			"content_html": "<p>More upgrades to come for half of the Wendy house  pimped up by @manthyprocter into super rabbit house 🐰 2/2</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/674388d412.jpg\" width=\"600\" height=\"401\" /></p>\n",
+			"date_published": "2017-08-26T10:55:00+01:00",
+			"url": "http://discursive.adamprocter.co.uk/2017/08/26/more-upgrades-to.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2017/08/26/fyi-before-pimping.html",
+	      	
+			"content_html": "<p>FYI Before pimping each half into rabbit house and BBQ zone.</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/51933d2467.jpg\" width=\"480\" height=\"600\" /></p>\n",
+			"date_published": "2017-08-26T10:55:00+01:00",
+			"url": "http://discursive.adamprocter.co.uk/2017/08/26/fyi-before-pimping.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/08/26/testing-posting-website.html",
 	      	
 			"content_html": "<p>testing posting (website / firefox / macOS)</p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>Great article on Gender Bias and why we need to recognise it and make corrections. <a href=\"http://dctr.pro/1zz\">dctr.pro/1zz</a> 👩🏻‍🔬</p>\n",
 			"date_published": "2017-08-22T22:03:00+01:00",
 			"url": "http://discursive.adamprocter.co.uk/2017/08/22/great-article-on.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/08/22/frizzy-was-all.html",
-	      	
-			"content_html": "<p>Frizzy was all good. #chickenhandler </p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/bb083fa487.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-08-22T20:13:00+01:00",
-			"url": "http://discursive.adamprocter.co.uk/2017/08/22/frizzy-was-all.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/08/22/frizzy-was-pretty.html",
-	      	
-			"content_html": "<p>Frizzy was pretty cool. #chickenhandler</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/aac0d99851.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-08-22T20:00:00+01:00",
-			"url": "http://discursive.adamprocter.co.uk/2017/08/22/frizzy-was-pretty.html"
 		}
 		
 	]
