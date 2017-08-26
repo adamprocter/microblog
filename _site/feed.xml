@@ -4,8 +4,17 @@
     <title>Adam Procter</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/adamprocter&quot;&gt;@adamprocter on Micro.blog&lt;/a&gt;.</description>
     <link>http://discursive.adamprocter.co.uk/</link>
-    <pubDate>Sat, 26 Aug 2017 10:55:20 +0100</pubDate>
-    <lastBuildDate>Sat, 26 Aug 2017 10:55:20 +0100</lastBuildDate>
+    <pubDate>Sat, 26 Aug 2017 11:05:39 +0100</pubDate>
+    <lastBuildDate>Sat, 26 Aug 2017 11:05:39 +0100</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Not good not good at all @crashplan have ditched home users. Moving to @backblaze now. Mega initial upload pains (again) for the whole family. &lt;/p&gt;
+</description>
+        <pubDate>Sat, 26 Aug 2017 11:05:00 +0100</pubDate>
+        <link>http://discursive.adamprocter.co.uk/2017/08/26/not-good-not.html</link>
+        <guid isPermaLink="true">http://adamprocter.micro.blog/2017/08/26/not-good-not.html</guid>
+      </item>
     
       <item>
       	
@@ -513,15 +522,6 @@ September 12 - November 15, 2017
         <pubDate>Sun, 13 Aug 2017 17:30:00 +0100</pubDate>
         <link>http://discursive.adamprocter.co.uk/2017/08/13/search-inkubator-in.html</link>
         <guid isPermaLink="true">http://adamprocter.micro.blog/2017/08/13/search-inkubator-in.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Spent most of the afternoon not sucessfully fixing my discourse install, frustating. RHEL using devicemapper by mistake, but cant change to overlay2 as kernel too old, which also doesnt want to update and now it appears I need Docker EE not CE anymore which is not good 😫 &lt;/p&gt;
-</description>
-        <pubDate>Sun, 13 Aug 2017 16:40:00 +0100</pubDate>
-        <link>http://discursive.adamprocter.co.uk/2017/08/13/spent-most-of.html</link>
-        <guid isPermaLink="true">http://adamprocter.micro.blog/2017/08/13/spent-most-of.html</guid>
       </item>
     
   </channel>
