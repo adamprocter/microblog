@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/08/27/silicon-valley-siphons.html",
+	      	
+			"content_html": "<table>\n  <tbody>\n    <tr>\n      <td>Silicon Valley siphons our data like oil. But the deepest drilling has just begun</td>\n      <td>World news</td>\n      <td>The Guardian - <a href=\"http://dctr.pro/208\">dctr.pro/208</a></td>\n    </tr>\n  </tbody>\n</table>\n",
+			"date_published": "2017-08-27T13:35:00+01:00",
+			"url": "http://discursive.adamprocter.co.uk/2017/08/27/silicon-valley-siphons.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/08/27/looks-like-an.html",
 	      	
 			"content_html": "<p>Looks like an impressive research tool Milanote - <a href=\"http://dctr.pro/206\">dctr.pro/206</a> - has lots of ideas I like. Need to play more. Very interesting indeed. </p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Migration of 5 Macs from @Crashplan to @backblaze hell begins. </p>\n",
 			"date_published": "2017-08-26T11:18:00+01:00",
 			"url": "http://discursive.adamprocter.co.uk/2017/08/26/migration-of-macs.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/08/26/not-good-not.html",
-	      	
-			"content_html": "<p>Not good not good at all @crashplan have ditched home users. Moving to @backblaze now. Mega initial upload pains (again) for the whole family. </p>\n",
-			"date_published": "2017-08-26T11:05:00+01:00",
-			"url": "http://discursive.adamprocter.co.uk/2017/08/26/not-good-not.html"
 		}
 		
 	]
