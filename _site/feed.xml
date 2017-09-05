@@ -4,8 +4,17 @@
     <title>Adam Procter</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/adamprocter&quot;&gt;@adamprocter on Micro.blog&lt;/a&gt;.</description>
     <link>http://discursive.adamprocter.co.uk/</link>
-    <pubDate>Tue, 05 Sep 2017 19:45:15 +0100</pubDate>
-    <lastBuildDate>Tue, 05 Sep 2017 19:45:15 +0100</lastBuildDate>
+    <pubDate>Tue, 05 Sep 2017 21:28:29 +0100</pubDate>
+    <lastBuildDate>Tue, 05 Sep 2017 21:28:29 +0100</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Going to try out VueJS as a decent cross platform app building thing me thinks. Swift will be too limited and Go just wasn’t working out for me. Angular or React look wrong too. &lt;/p&gt;
+</description>
+        <pubDate>Tue, 05 Sep 2017 21:28:00 +0100</pubDate>
+        <link>http://discursive.adamprocter.co.uk/2017/09/05/going-to-try.html</link>
+        <guid isPermaLink="true">http://adamprocter.micro.blog/2017/09/05/going-to-try.html</guid>
+      </item>
     
       <item>
       	
@@ -517,15 +526,6 @@
         <pubDate>Mon, 21 Aug 2017 12:46:00 +0100</pubDate>
         <link>http://discursive.adamprocter.co.uk/2017/08/21/got-a-few.html</link>
         <guid isPermaLink="true">http://adamprocter.micro.blog/2017/08/21/got-a-few.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;5 Principles of good data visualisation, neat simple summary, worth keeping to hand - &lt;a href=&quot;http://dctr.pro/1zr&quot;&gt;dctr.pro/1zr&lt;/a&gt; &lt;/p&gt;
-</description>
-        <pubDate>Mon, 21 Aug 2017 10:48:00 +0100</pubDate>
-        <link>http://discursive.adamprocter.co.uk/2017/08/21/principles-of-good.html</link>
-        <guid isPermaLink="true">http://adamprocter.micro.blog/2017/08/21/principles-of-good.html</guid>
       </item>
     
   </channel>
