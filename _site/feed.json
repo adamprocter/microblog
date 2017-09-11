@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/09/11/authoring-academic-papers.html",
+	      	
+			"content_html": "<p>Authoring Academic Papers ? or just want a more interactive way of using text - Check out Liquid Author - free this week  <a href=\"http://dctr.pro/author\">dctr.pro/author</a>  </p>\n",
+			"date_published": "2017-09-11T21:16:00+01:00",
+			"url": "http://discursive.adamprocter.co.uk/2017/09/11/authoring-academic-papers.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/09/11/its-like-my.html",
 	      	
 			"content_html": "<p>It’s like my iPhone 6s knows a new phone is out tomorrow - slow to use and winding me up… looking forward to ios11 and new 📱 </p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Tim Burton’s The World of Stainboy: Watch the Complete Animated Series <a href=\"http://dctr.pro/20d\">dctr.pro/20d</a></p>\n",
 			"date_published": "2017-09-10T08:32:00+01:00",
 			"url": "http://discursive.adamprocter.co.uk/2017/09/10/tim-burtons-the.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/09/08/decline-and-return.html",
-	      	
-			"content_html": "<p>Decline and return of indie blogs. <a href=\"http://dctr.pro/20c\">dctr.pro/20c</a></p>\n",
-			"date_published": "2017-09-08T22:39:00+01:00",
-			"url": "http://discursive.adamprocter.co.uk/2017/09/08/decline-and-return.html"
 		}
 		
 	]
