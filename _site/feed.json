@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/09/15/very-impressed-with.html",
+	      	
+			"content_html": "<p>Very impressed with content at day 2 #del17 indeed. </p>\n",
+			"date_published": "2017-09-15T13:33:00+01:00",
+			"url": "http://discursive.adamprocter.co.uk/2017/09/15/very-impressed-with.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/09/15/103322.html",
 	      	
 			"content_html": "<p>Totally need to connect people like Thomas Castro @lustlab and The Future of text @winchesterart @liquidizer @lustnl</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Authoring Academic Papers ? or just want a more interactive way of using text - Check out Liquid Author - free this week  <a href=\"http://dctr.pro/author\">dctr.pro/author</a>  </p>\n",
 			"date_published": "2017-09-11T21:16:00+01:00",
 			"url": "http://discursive.adamprocter.co.uk/2017/09/11/authoring-academic-papers.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/09/11/its-like-my.html",
-	      	
-			"content_html": "<p>It’s like my iPhone 6s knows a new phone is out tomorrow - slow to use and winding me up… looking forward to ios11 and new 📱 </p>\n",
-			"date_published": "2017-09-11T20:51:00+01:00",
-			"url": "http://discursive.adamprocter.co.uk/2017/09/11/its-like-my.html"
 		}
 		
 	]
