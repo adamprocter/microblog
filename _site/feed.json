@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/09/15/103322.html",
+	      	
+			"content_html": "<p>Totally need to connect people like Thomas Castro @lustlab and The Future of text @winchesterart @liquidizer @lustnl</p>\n",
+			"date_published": "2017-09-15T11:33:00+01:00",
+			"url": "http://discursive.adamprocter.co.uk/2017/09/15/103322.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2017/09/15/totally-need-to.html",
+	      	
+			"content_html": "<p>Totally need to connect people like Thomas Castro @lustlab and The Future of text @winchesterart @liquidizer @lustnl</p>\n",
+			"date_published": "2017-09-15T11:28:00+01:00",
+			"url": "http://discursive.adamprocter.co.uk/2017/09/15/totally-need-to.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/09/15/testing-cross-posting.html",
 	      	
 			"content_html": "<p>Testing cross posting (ignore)</p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>It’s like my iPhone 6s knows a new phone is out tomorrow - slow to use and winding me up… looking forward to ios11 and new 📱 </p>\n",
 			"date_published": "2017-09-11T20:51:00+01:00",
 			"url": "http://discursive.adamprocter.co.uk/2017/09/11/its-like-my.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/09/11/fascinating-and-provocative.html",
-	      	
-			"content_html": "<p>Fascinating and provocative talk on teaching writing from @stcymsn of Tell Tell Games #ftext17</p>\n",
-			"date_published": "2017-09-11T11:11:00+01:00",
-			"url": "http://discursive.adamprocter.co.uk/2017/09/11/fascinating-and-provocative.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/09/11/woooo-ftext.html",
-	      	
-			"content_html": "<p>Woooo #ftext17</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/b8d470bba6.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-09-11T11:00:00+01:00",
-			"url": "http://discursive.adamprocter.co.uk/2017/09/11/woooo-ftext.html"
 		}
 		
 	]
