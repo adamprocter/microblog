@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/09/15/testing-cross-posting.html",
+	      	
+			"content_html": "<p>Testing cross posting (ignore)</p>\n",
+			"date_published": "2017-09-15T09:44:00+01:00",
+			"url": "http://discursive.adamprocter.co.uk/2017/09/15/testing-cross-posting.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/09/14/fantastic-projects-from.html",
 	      	
 			"content_html": "<p>Fantastic projects from the feminist internet headed up by @otheragent <a href=\"http://dctr.pro/20j\">dctr.pro/20j</a> from the awesome UAL futures studio <a href=\"http://dctr.pro/20k\">dctr.pro/20k</a> </p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Woooo #ftext17</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/b8d470bba6.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-09-11T11:00:00+01:00",
 			"url": "http://discursive.adamprocter.co.uk/2017/09/11/woooo-ftext.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/09/11/in-the-same.html",
-	      	
-			"content_html": "<p>In the same room as Vint Cerf 😎 cool</p>\n",
-			"date_published": "2017-09-11T09:36:00+01:00",
-			"url": "http://discursive.adamprocter.co.uk/2017/09/11/in-the-same.html"
 		}
 		
 	]
