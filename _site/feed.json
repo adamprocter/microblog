@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/09/16/two-museums-are.html",
+	      	
+			"content_html": "<p>Two museums are having a fight on Twitter and it’s gloriously informative - <a href=\"http://dctr.pro/20n\">dctr.pro/20n</a></p>\n",
+			"date_published": "2017-09-16T14:51:00+01:00",
+			"url": "http://discursive.adamprocter.co.uk/2017/09/16/two-museums-are.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/09/15/we-are-all.html",
 	      	
 			"content_html": "<p>We are all &gt;standing on the shoulders of giants. </p>\n\n<p>I just need to really really pick whose shoulders I stand on 😊👍</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Totally need to connect people like Thomas Castro @lustlab and The Future of text @winchesterart @liquidizer @lustnl</p>\n",
 			"date_published": "2017-09-15T11:28:00+01:00",
 			"url": "http://discursive.adamprocter.co.uk/2017/09/15/totally-need-to.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/09/15/testing-cross-posting.html",
-	      	
-			"content_html": "<p>Testing cross posting (ignore)</p>\n",
-			"date_published": "2017-09-15T09:44:00+01:00",
-			"url": "http://discursive.adamprocter.co.uk/2017/09/15/testing-cross-posting.html"
 		}
 		
 	]
