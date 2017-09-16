@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/09/16/empowering-humans.html",
+	      	
+			"title": "Empowering humans",
+			
+			"content_html": "<p>As we move towards the inevitably automated world. We must focus on what makes us human. Let the robots be robots. What we have that they can never have, we have the ability to be creative. As educators we need to teach humans to be creative. Let the Tesco’s and Amazon robots and drones package and deliver our goods, but let’s empower the humans first. </p>\n",
+			"date_published": "2017-09-16T16:08:00+01:00",
+			"url": "http://discursive.adamprocter.co.uk/2017/09/16/empowering-humans.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/09/16/two-museums-are.html",
 	      	
 			"content_html": "<p>Two museums are having a fight on Twitter and it’s gloriously informative - <a href=\"http://dctr.pro/20n\">dctr.pro/20n</a></p>\n",
@@ -75,14 +85,6 @@
 			"content_html": "<p>Totally need to connect people like Thomas Castro @lustlab and The Future of text @winchesterart @liquidizer @lustnl</p>\n",
 			"date_published": "2017-09-15T11:33:00+01:00",
 			"url": "http://discursive.adamprocter.co.uk/2017/09/15/103322.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/09/15/totally-need-to.html",
-	      	
-			"content_html": "<p>Totally need to connect people like Thomas Castro @lustlab and The Future of text @winchesterart @liquidizer @lustnl</p>\n",
-			"date_published": "2017-09-15T11:28:00+01:00",
-			"url": "http://discursive.adamprocter.co.uk/2017/09/15/totally-need-to.html"
 		}
 		
 	]
