@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/09/21/yay-the-wsa.html",
+	      	
+			"content_html": "<p>Yay the WSA Shuttle woooo @gamesdesignart @wsa_ba #excitingtimesatwsa</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/cf07eb54c6.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-09-21T17:45:00+01:00",
+			"url": "http://discursive.adamprocter.co.uk/2017/09/21/yay-the-wsa.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/09/21/working-on-updated.html",
 	      	
 			"content_html": "<p>Working on updated @decksetapp slides to explain to new @gamesdesignart students that university is not a level up but a game change in terms of educational experience. Woooo</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/b7be291a88.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>Back home great second day of talks at #del17 motivating myself to action and to capturing document more of our work @wsa_ba @gamesdesignart @winchesterart</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/f83c2b5556.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-09-15T23:45:00+01:00",
 			"url": "http://discursive.adamprocter.co.uk/2017/09/15/back-home-great.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/09/15/awesome-talk-from.html",
-	      	
-			"content_html": "<p>Awesome talk from Thomas Castro this morning / future of design education/ future of publishing / student makers. Fantastic #del17</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/42b4403773.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-09-15T23:45:00+01:00",
-			"url": "http://discursive.adamprocter.co.uk/2017/09/15/awesome-talk-from.html"
 		}
 		
 	]
