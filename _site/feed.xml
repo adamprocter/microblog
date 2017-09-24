@@ -4,8 +4,24 @@
     <title>Adam Procter</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/adamprocter&quot;&gt;@adamprocter on Micro.blog&lt;/a&gt;.</description>
     <link>http://discursive.adamprocter.co.uk/</link>
-    <pubDate>Sat, 23 Sep 2017 21:01:46 +0100</pubDate>
-    <lastBuildDate>Sat, 23 Sep 2017 21:01:46 +0100</lastBuildDate>
+    <pubDate>Sun, 24 Sep 2017 09:31:55 +0100</pubDate>
+    <lastBuildDate>Sun, 24 Sep 2017 09:31:55 +0100</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;An open letter to the W3C Director, CEO, team and membership&lt;/td&gt;
+      &lt;td&gt;Electronic Frontier Foundation - &lt;a href=&quot;http://dctr.pro/20q&quot;&gt;dctr.pro/20q&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Sun, 24 Sep 2017 09:31:00 +0100</pubDate>
+        <link>http://discursive.adamprocter.co.uk/2017/09/24/an-open-letter.html</link>
+        <guid isPermaLink="true">http://adamprocter.micro.blog/2017/09/24/an-open-letter.html</guid>
+      </item>
     
       <item>
       	
@@ -497,15 +513,6 @@ Our recent graduate @bobbie.allsop won a European Women in Games Award ! Well do
         <pubDate>Wed, 06 Sep 2017 08:39:00 +0100</pubDate>
         <link>http://discursive.adamprocter.co.uk/2017/09/06/todays-european-women.html</link>
         <guid isPermaLink="true">http://adamprocter.micro.blog/2017/09/06/todays-european-women.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Going to try out VueJS as a decent cross platform app building thing me thinks. Swift will be too limited and Go just wasn’t working out for me. Angular or React look wrong too. &lt;/p&gt;
-</description>
-        <pubDate>Tue, 05 Sep 2017 21:28:00 +0100</pubDate>
-        <link>http://discursive.adamprocter.co.uk/2017/09/05/going-to-try.html</link>
-        <guid isPermaLink="true">http://adamprocter.micro.blog/2017/09/05/going-to-try.html</guid>
       </item>
     
   </channel>
