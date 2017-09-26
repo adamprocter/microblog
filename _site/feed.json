@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/09/26/power-of-design.html",
+	      	
+			"content_html": "<h1 id=\"power-of-design-thinking\">Power of Design Thinking</h1>\n\n<ul>\n  <li>Ask Human Centred Questions</li>\n  <li>Create Movements not Mandates</li>\n  <li>Be Optimistic </li>\n</ul>\n\n<p>Sue Siddall #rsadesign</p>\n",
+			"date_published": "2017-09-26T19:07:00+01:00",
+			"url": "http://discursive.adamprocter.co.uk/2017/09/26/power-of-design.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2017/09/26/new-screen-in.html",
+	      	
+			"content_html": "<p>New screen in our @gamesdesignart studio 16 is coming in useful - 4K (Games) Design Thinking #rsadesign</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/e856e1f3a8.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-09-26T18:32:00+01:00",
+			"url": "http://discursive.adamprocter.co.uk/2017/09/26/new-screen-in.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/09/26/oh-my-word.html",
 	      	
 			"content_html": "<p>Oh my word Firefox Quantum is FAST! Its here now in Beta &amp; Developer Edition - The Mozilla Blog - <a href=\"http://dctr.pro/20t\">dctr.pro/20t</a></p>\n",
@@ -67,24 +83,6 @@
 			"content_html": "<p>Bah really…. what a joke. EFL ‘request AFC Wimbledon observations’ on reported failure to use Franchise full name\n<a href=\"http://www.bbc.co.uk/sport/football/41373267\">www.bbc.co.uk/sport/foo…</a></p>\n",
 			"date_published": "2017-09-23T21:01:00+01:00",
 			"url": "http://discursive.adamprocter.co.uk/2017/09/23/bah-really-what.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/09/22/milton-keynes-city.html",
-	      	
-			"title": "Milton Keynes City?",
-			
-			"content_html": "<p>Let’s continue to make it clear there was a club in Milton Keynes called MK City. Yet you didn’t show up for them,their status to lowly for you but when a club in financial crisis was ripped from its fans by greedy business men and placed in your town with a nice new ground paid for by Walmart and Ikea with a league position you suddenly started to turn up and yet you continue to get affronted that we don’t like you?</p>\n",
-			"date_published": "2017-09-22T21:14:00+01:00",
-			"url": "http://discursive.adamprocter.co.uk/2017/09/22/milton-keynes-city.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/09/22/uber-have-lost.html",
-	      	
-			"content_html": "<p>Uber have lost there license in London good news. 👍😊</p>\n",
-			"date_published": "2017-09-22T19:34:00+01:00",
-			"url": "http://discursive.adamprocter.co.uk/2017/09/22/uber-have-lost.html"
 		}
 		
 	]
