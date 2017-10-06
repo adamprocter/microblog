@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/10/06/videoing-lectures-has.html",
+	      	
+			"content_html": "<p>“Videoing lectures ‘has no impact’ on attendance, says study” - one of many studies that have concluded this - <a href=\"http://dctr.pro/210\">dctr.pro/210</a></p>\n",
+			"date_published": "2017-10-06T08:48:00+01:00",
+			"url": "http://discursive.adamprocter.co.uk/2017/10/06/videoing-lectures-has.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/10/05/this-ios-feature.html",
 	      	
 			"content_html": "<p>This iOS 11 feature has my name written all over it :) #enable</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/e3161ee52f.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<blockquote>\n  <p>We are on the edge of pushback against ad-supported, ginormous platforms. Once it flips, as it did against Uber, there will be an opening for real change. </p>\n</blockquote>\n\n<ul>\n  <li><a href=\"http://dctr.pro/20w\">dctr.pro/20w</a></li>\n</ul>\n",
 			"date_published": "2017-09-29T23:56:00+01:00",
 			"url": "http://discursive.adamprocter.co.uk/2017/09/29/we-are-on.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/09/29/hmm-cross-posting.html",
-	      	
-			"content_html": "<p>Hmm cross posting to Facebook has stopped working. <a href=\"https://micro.blog/manton\">@manton</a> Any clues? Before I delete and add again?</p>\n",
-			"date_published": "2017-09-29T23:51:00+01:00",
-			"url": "http://discursive.adamprocter.co.uk/2017/09/29/hmm-cross-posting.html"
 		}
 		
 	]
