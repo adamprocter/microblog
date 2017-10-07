@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/10/07/hey-hey-video.html",
+	      	
+			"content_html": "<p>Hey hey video is back working from ImgPlay. Year 3 - what do you desire ? Kick off launch workshop.</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/dcef31a5f2.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-10-07T09:24:00+01:00",
+			"url": "http://discursive.adamprocter.co.uk/2017/10/07/hey-hey-video.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2017/10/06/hmm-video-is.html",
+	      	
+			"content_html": "<p>Hmm video is working grrr</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/4815b3ab36.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-10-06T21:38:00+01:00",
+			"url": "http://discursive.adamprocter.co.uk/2017/10/06/hmm-video-is.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/10/06/ok-what-the.html",
 	      	
 			"content_html": "<p>Ok what the heck I’ve removed my iOS Beta profile and I’m still stuck with iPhone asking to update to 11.1 not 11.0.2 grrrr</p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>test - with expired notice…</p>\n",
 			"date_published": "2017-10-03T15:06:00+01:00",
 			"url": "http://discursive.adamprocter.co.uk/2017/10/03/test-with-expired.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/10/03/finally-found-mins.html",
-	      	
-			"content_html": "<p>Finally found 5 mins to test @sennepldn updates on #sennep_holes #holesgame was loving “Gravity G” #holeinone⛳️ good job @<em>silverbeat</em> @errorwilliams</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/a0ecd11f74.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-10-03T08:46:00+01:00",
-			"url": "http://discursive.adamprocter.co.uk/2017/10/03/finally-found-mins.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/09/30/barcham-off-what.html",
-	      	
-			"content_html": "<p>Barcham off what the heck!! @afcwimbledon</p>\n",
-			"date_published": "2017-09-30T16:35:00+01:00",
-			"url": "http://discursive.adamprocter.co.uk/2017/09/30/barcham-off-what.html"
 		}
 		
 	]
