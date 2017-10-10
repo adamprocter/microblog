@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/10/10/barbican-investigate-games.html",
+	      	
+			"content_html": "<ol>\n  <li>Barbican / 1.1 Investigate. Games Design Art. 2017. #excitingtimesatwsa</li>\n</ol>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/59accc9b70.jpg\" width=\"598\" height=\"600\" /></p>\n",
+			"date_published": "2017-10-10T12:24:00+01:00",
+			"url": "http://discursive.adamprocter.co.uk/2017/10/10/barbican-investigate-games.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/10/09/tired-now-completed.html",
 	      	
 			"content_html": "<p>Tired now. Completed Mega tutorial day with Year 1. Barbican trip tomorrow. Level Up. #makinggamesainteasyyouknow</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/517bc1e989.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Ok what the heck I’ve removed my iOS Beta profile and I’m still stuck with iPhone asking to update to 11.1 not 11.0.2 grrrr</p>\n",
 			"date_published": "2017-10-06T20:51:00+01:00",
 			"url": "http://discursive.adamprocter.co.uk/2017/10/06/ok-what-the.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/10/06/videoing-lectures-has.html",
-	      	
-			"content_html": "<p>“Videoing lectures ‘has no impact’ on attendance, says study” - one of many studies that have concluded this - <a href=\"http://dctr.pro/210\">dctr.pro/210</a></p>\n",
-			"date_published": "2017-10-06T08:48:00+01:00",
-			"url": "http://discursive.adamprocter.co.uk/2017/10/06/videoing-lectures-has.html"
 		}
 		
 	]
