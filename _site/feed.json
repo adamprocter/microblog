@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/10/15/best-ever-announcement.html",
+	      	
+			"content_html": "<p>Best ever announcement in Tescos today </p>\n\n<p>“this is a colleague announcement, would the back door man please return to the back door, a truck is waiting”</p>\n\n<p>You had one job back door man one job!</p>\n",
+			"date_published": "2017-10-15T18:55:00+01:00",
+			"url": "http://discursive.adamprocter.co.uk/2017/10/15/best-ever-announcement.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/10/12/did-someone-say.html",
 	      	
 			"content_html": "<p>Did someone say A History of Design for Games in 1hr45. Ok … Gutenberg to Jonathan Blow via Monks, modernism, Bauhaus, International Style, Rand, Rams, Sutherland, Englebert, Ive, Norman and landing in Post modernisn all done ✅ #excitingtimesatwsa #whattheyforgottotellyouatschool #year1</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/8a97c656d2.jpg\" width=\"559\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Decentralised technologies mean censorship-resistant websites. Some thoughts on IPFS, ZeroNet, and Bitnation - <a href=\"http://dctr.pro/213\">dctr.pro/213</a></p>\n",
 			"date_published": "2017-10-08T09:26:00+01:00",
 			"url": "http://discursive.adamprocter.co.uk/2017/10/08/decentralised-technologies-mean.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/10/08/ios-s-misleading.html",
-	      	
-			"content_html": "<p>iOS 11’s Misleading “Off-ish” Setting for Bluetooth &amp; Wi-Fi is Bad for User Security, Electronic Frontier Foundation <a href=\"https://www.eff.org/deeplinks/2017/10/ios-11s-misleading-ish-setting-bluetooth-and-wi-fi-bad-user-security\">www.eff.org/deeplinks…</a></p>\n",
-			"date_published": "2017-10-08T09:19:00+01:00",
-			"url": "http://discursive.adamprocter.co.uk/2017/10/08/ios-s-misleading.html"
 		}
 		
 	]
