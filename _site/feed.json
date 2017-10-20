@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/10/20/etherpad-presentation-while.html",
+	      	
+			"content_html": "<p>Etherpad presentation. While each student presents theme ideas everyone else contributes to the pad with quick fire of the top of the head comments and avenues of pursuit. Hard but good. Think fast. We then upvote presented themes with emoji (although emoji broke today)</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/24f1e85b01.jpg\" width=\"600\" height=\"526\" /></p>\n",
+			"date_published": "2017-10-20T21:34:00+01:00",
+			"url": "http://discursive.adamprocter.co.uk/2017/10/20/etherpad-presentation-while.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/10/20/friday-favourites-is.html",
 	      	
 			"content_html": "<p>Friday Favourites is a great idea <a href=\"https://micro.blog/douglane\">@douglane</a> , Ill try and do it next week</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Out Now - Episode 1 of <a href=\"http://fragmentum.adamprocter.co.uk/episode-1-microcasting-and-godot/\">Fragmentum</a></p>\n",
 			"date_published": "2017-10-18T17:46:00+01:00",
 			"url": "http://discursive.adamprocter.co.uk/2017/10/18/164604.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/10/18/out-now-episode.html",
-	      	
-			"content_html": "<p>Out now - Episode 1 – Microcasting and Godot fragmentum.adamprocter.co.uk</p>\n",
-			"date_published": "2017-10-18T17:43:00+01:00",
-			"url": "http://discursive.adamprocter.co.uk/2017/10/18/out-now-episode.html"
 		}
 		
 	]
