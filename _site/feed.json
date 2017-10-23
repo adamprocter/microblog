@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/10/23/yes-indeed-this.html",
+	      	
+			"content_html": "<p>Yes indeed this is a great Pie shop, Piecaramba, Winchester, UK - <a href=\"https://www.theguardian.com/lifeandstyle/2017/oct/22/piecaramba-winchester-bloody-good-pie-shop-restaurant-review-jay-rayner?CMP=share_btn_tw\">www.theguardian.com/lifeandst…</a></p>\n",
+			"date_published": "2017-10-23T11:47:00+01:00",
+			"url": "http://discursive.adamprocter.co.uk/2017/10/23/yes-indeed-this.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/10/20/etherpad-presentation-while.html",
 	      	
 			"content_html": "<p>Etherpad presentation. While each student presents theme ideas everyone else contributes to the pad with quick fire of the top of the head comments and avenues of pursuit. Hard but good. Think fast. We then upvote presented themes with emoji (although emoji broke today)</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/24f1e85b01.jpg\" width=\"600\" height=\"526\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Ok in theory my microcast has started although initial upload cut off the start! hahahaha Subscribe in <a href=\"https://overcast.fm/itunes1297004999/fragmentum\">overcast</a></p>\n",
 			"date_published": "2017-10-18T17:50:00+01:00",
 			"url": "http://discursive.adamprocter.co.uk/2017/10/18/ok-in-theory.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/10/18/164604.html",
-	      	
-			"content_html": "<p>Out Now - Episode 1 of <a href=\"http://fragmentum.adamprocter.co.uk/episode-1-microcasting-and-godot/\">Fragmentum</a></p>\n",
-			"date_published": "2017-10-18T17:46:00+01:00",
-			"url": "http://discursive.adamprocter.co.uk/2017/10/18/164604.html"
 		}
 		
 	]
