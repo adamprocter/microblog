@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/10/24/i-love-the.html",
+	      	
+			"content_html": "<p>I love the idea of electric cars &amp; less cars but please unless there is a major upgrade to the UK public transport system and support to help people buy new electric cars this will only favour the well off city dwellers. </p>\n",
+			"date_published": "2017-10-24T23:50:00+01:00",
+			"url": "http://discursive.adamprocter.co.uk/2017/10/24/i-love-the.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/10/24/my-microcast-fragmentum.html",
 	      	
 			"content_html": "<p>my microcast Fragmentum Episode 4 is out now - Pixave App - <a href=\"http://fragmentum.adamprocter.co.uk/episode-4-pixave-app/\">fragmentum.adamprocter.co.uk/episode-4…</a> - Enjoy! 😀</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Etherpad presentation. While each student presents theme ideas everyone else contributes to the pad with quick fire of the top of the head comments and avenues of pursuit. Hard but good. Think fast. We then upvote presented themes with emoji (although emoji broke today)</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/24f1e85b01.jpg\" width=\"600\" height=\"526\" /></p>\n",
 			"date_published": "2017-10-20T21:34:00+01:00",
 			"url": "http://discursive.adamprocter.co.uk/2017/10/20/etherpad-presentation-while.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/10/20/friday-favourites-is.html",
-	      	
-			"content_html": "<p>Friday Favourites is a great idea <a href=\"https://micro.blog/douglane\">@douglane</a> , Ill try and do it next week</p>\n",
-			"date_published": "2017-10-20T20:46:00+01:00",
-			"url": "http://discursive.adamprocter.co.uk/2017/10/20/friday-favourites-is.html"
 		}
 		
 	]
