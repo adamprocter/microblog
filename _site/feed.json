@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/10/27/wonderful-o-payments.html",
+	      	
+			"content_html": "<p>Wonderful o2 payments system took 7 payments for my new iPhone X let’s just say fraud department and @o2 are not talking about why wiping my account out is not very nice. Oh and of course any refund can’t be as quick ! Unbelievable </p>\n",
+			"date_published": "2017-10-27T16:49:00+01:00",
+			"url": "http://discursive.adamprocter.co.uk/2017/10/27/wonderful-o-payments.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/10/27/iphone-x-space.html",
 	      	
 			"content_html": "<p>iPhone X 256 space grey ordered after 1hr 15 messing about with cards and baskets. In theory it originally said 1 week aka launch but who knows. Also got card charged more than once 😔 o2 not too much fun but phone ordered!</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>my microcast Fragmentum Episode 4 is out now - Pixave App - <a href=\"http://fragmentum.adamprocter.co.uk/episode-4-pixave-app/\">fragmentum.adamprocter.co.uk/episode-4…</a> - Enjoy! 😀</p>\n",
 			"date_published": "2017-10-24T20:54:00+01:00",
 			"url": "http://discursive.adamprocter.co.uk/2017/10/24/my-microcast-fragmentum.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/10/24/i-just-registered.html",
-	      	
-			"content_html": "<p>I just registered for MozFest 2017 <a href=\"https://ti.to/Mozilla/mozfest-2017\">ti.to/Mozilla/m…</a></p>\n",
-			"date_published": "2017-10-24T15:03:00+01:00",
-			"url": "http://discursive.adamprocter.co.uk/2017/10/24/i-just-registered.html"
 		}
 		
 	]
