@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-08-15 11:46 +0100
+date: 2017-08-15 10:46 -0000
 guid: http://adamprocter.micro.blog/2017/08/15/field-trip-barbican.html
 ---
 Field trip - Barbican and sci-fi technically not for work but here anyway.
