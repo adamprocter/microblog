@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-08-16 10:35 +0100
+date: 2017-08-16 09:35 -0000
 guid: http://adamprocter.micro.blog/2017/08/16/beazley-design-award.html
 ---
 Beazley design award nominee Where's Wally-style ad campaign highlights lack of women in the Egyptian workforce - [dctr.pro/1zg](http://dctr.pro/1zg)
