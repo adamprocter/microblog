@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-08-27 13:17 +0100
+date: 2017-08-27 12:17 -0000
 guid: http://adamprocter.micro.blog/2017/08/27/looks-like-an.html
 ---
 Looks like an impressive research tool Milanote - [dctr.pro/206](http://dctr.pro/206) - has lots of ideas I like. Need to play more. Very interesting indeed. 
