@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-07-25 23:30 +0100
+date: 2017-07-25 22:30 -0000
 guid: http://adamprocter.micro.blog/2017/07/25/impressive-jarvis-richard.html
 ---
 Impressive Jarvis, Richard Hawley, Susanne Sundfør, and John Grant's celebration of Scott Walker's music @bbcproms #ScottWalkerProm  using @firefox @bbcradio3 experiment [dctr.pro/1yp](http://dctr.pro/1yp) for super high lossless audio
