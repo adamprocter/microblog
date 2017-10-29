@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-08-17 17:36 +0100
+date: 2017-08-17 16:36 -0000
 guid: http://adamprocter.micro.blog/2017/08/17/design-kit-the.html
 ---
 Design Kit: The Course for Human-Centered Design - IDEO .org
