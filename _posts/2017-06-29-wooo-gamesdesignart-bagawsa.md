@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-06-29 21:46 +0100
+date: 2017-06-29 20:46 -0000
 guid: http://adamprocter.micro.blog/2017/06/29/wooo-gamesdesignart-bagawsa.html
 ---
 Wooo @gamesdesignart @ba_ga_wsa #frameworks17
