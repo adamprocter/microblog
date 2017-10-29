@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-10-19 12:25 +0100
+date: 2017-10-19 11:25 -0000
 guid: http://adamprocter.micro.blog/2017/10/19/launched-my-new.html
 ---
 Launched my new microcast. [fragmentum.adamprocter.co.uk](http://fragmentum.adamprocter.co.uk)
