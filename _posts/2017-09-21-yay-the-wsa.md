@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-09-21 17:45 +0100
+date: 2017-09-21 16:45 -0000
 guid: http://adamprocter.micro.blog/2017/09/21/yay-the-wsa.html
 ---
 Yay the WSA Shuttle woooo @gamesdesignart @wsa_ba #excitingtimesatwsa
