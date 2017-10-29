@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-07-20 08:46 +0100
+date: 2017-07-20 07:46 -0000
 guid: http://adamprocter.micro.blog/2017/07/20/two-things-the.html
 ---
 Two things 
