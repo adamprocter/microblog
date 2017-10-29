@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-10-15 18:55 +0100
+date: 2017-10-15 17:55 -0000
 guid: http://adamprocter.micro.blog/2017/10/15/best-ever-announcement.html
 ---
 Best ever announcement in Tescos today 
