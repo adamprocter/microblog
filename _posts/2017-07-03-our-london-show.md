@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-07-03 23:42 +0100
+date: 2017-07-03 22:42 -0000
 guid: http://adamprocter.micro.blog/2017/07/03/our-london-show.html
 ---
 Our London show is done. We managed to record some more video interviews. Short documentary with @mindthefilm about first graduates from @gamesdesignart should be out next week too. #excitingtimesatwsa
