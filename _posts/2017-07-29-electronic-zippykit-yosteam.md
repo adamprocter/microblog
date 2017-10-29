@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-07-29 12:30 +0100
+date: 2017-07-29 11:30 -0000
 guid: http://adamprocter.micro.blog/2017/07/29/electronic-zippykit-yosteam.html
 ---
 Electronic #zippykit #yosteam
