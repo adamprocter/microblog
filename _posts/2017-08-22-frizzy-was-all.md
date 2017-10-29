@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-08-22 20:13 +0100
+date: 2017-08-22 19:13 -0000
 guid: http://adamprocter.micro.blog/2017/08/22/frizzy-was-all.html
 ---
 Frizzy was all good. #chickenhandler 
