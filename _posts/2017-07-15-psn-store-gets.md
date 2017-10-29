@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-07-15 17:48 +0100
+date: 2017-07-15 16:48 -0000
 guid: http://adamprocter.micro.blog/2017/07/15/psn-store-gets.html
 ---
 PSN store gets on my nerves. It's always cheaper to go and order a box or drive to the shop. Why come on Sony sort it out!
