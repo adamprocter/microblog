@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-08-10 17:45 +0100
+date: 2017-08-10 16:45 -0000
 guid: http://adamprocter.micro.blog/2017/08/10/podcast-up-now.html
 ---
 Podcast up now. @altshift_edu and myself talking GDEN 2016. Episode 1/2 - [dctr.pro/1zb](http://dctr.pro/1zb) 
