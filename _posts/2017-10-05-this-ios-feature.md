@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-10-05 20:23 +0100
+date: 2017-10-05 19:23 -0000
 guid: http://adamprocter.micro.blog/2017/10/05/this-ios-feature.html
 ---
 This iOS 11 feature has my name written all over it :) #enable
