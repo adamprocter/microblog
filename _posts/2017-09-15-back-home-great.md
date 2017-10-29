@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-09-15 23:45 +0100
+date: 2017-09-15 22:45 -0000
 guid: http://adamprocter.micro.blog/2017/09/15/back-home-great.html
 ---
 Back home great second day of talks at #del17 motivating myself to action and to capturing document more of our work @wsa_ba @gamesdesignart @winchesterart
