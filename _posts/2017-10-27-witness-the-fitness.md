@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-10-27 22:39 +0100
+date: 2017-10-27 21:39 -0000
 guid: http://adamprocter.micro.blog/2017/10/27/witness-the-fitness.html
 ---
 Witness the Fitness. ROOTS MANUVA
