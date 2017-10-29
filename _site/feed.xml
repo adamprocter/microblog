@@ -4,8 +4,17 @@
     <title>Adam Procter</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/adamprocter&quot;&gt;@adamprocter on Micro.blog&lt;/a&gt;.</description>
     <link>http://discursive.adamprocter.co.uk/</link>
-    <pubDate>Sat, 28 Oct 2017 22:05:24 +0100</pubDate>
-    <lastBuildDate>Sat, 28 Oct 2017 22:05:24 +0100</lastBuildDate>
+    <pubDate>Sun, 29 Oct 2017 09:12:39 +0000</pubDate>
+    <lastBuildDate>Sun, 29 Oct 2017 09:12:39 +0000</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Hmm testing but I think micro blog has not turned back the UK clock from BST to GMT &lt;a href=&quot;https://micro.blog/manton&quot;&gt;@manton&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 29 Oct 2017 10:12:00 +0100</pubDate>
+        <link>http://discursive.adamprocter.co.uk/2017/10/29/hmm-testing-but.html</link>
+        <guid isPermaLink="true">http://adamprocter.micro.blog/2017/10/29/hmm-testing-but.html</guid>
+      </item>
     
       <item>
       	
@@ -505,15 +514,6 @@ Amazingly informative Architecture tours as part of todays trip to the Barbican 
         <pubDate>Sun, 08 Oct 2017 12:13:00 +0100</pubDate>
         <link>http://discursive.adamprocter.co.uk/2017/10/08/how-blade-runner.html</link>
         <guid isPermaLink="true">http://adamprocter.micro.blog/2017/10/08/how-blade-runner.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Decentralised technologies mean censorship-resistant websites. Some thoughts on IPFS, ZeroNet, and Bitnation - &lt;a href=&quot;http://dctr.pro/213&quot;&gt;dctr.pro/213&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 08 Oct 2017 09:26:00 +0100</pubDate>
-        <link>http://discursive.adamprocter.co.uk/2017/10/08/decentralised-technologies-mean.html</link>
-        <guid isPermaLink="true">http://adamprocter.micro.blog/2017/10/08/decentralised-technologies-mean.html</guid>
       </item>
     
   </channel>
