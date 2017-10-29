@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-08-02 21:45 +0100
+date: 2017-08-02 20:45 -0000
 guid: http://adamprocter.micro.blog/2017/08/02/as-a-footballer.html
 ---
 As a footballer / actor once said - "it's been emotional" 2017/18 academic year won't be the same
