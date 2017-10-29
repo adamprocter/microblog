@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-07-16 23:46 +0100
+date: 2017-07-16 22:46 -0000
 guid: http://adamprocter.micro.blog/2017/07/16/virtual-reality-wont.html
 ---
 Virtual Reality Won’t Work Without Great UX Designers | UX Booth - [www.uxbooth.com/articles/...](http://www.uxbooth.com/articles/virtual-reality-wont-work-without-great-ux-designers/) 
