@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-08-28 15:15 +0100
+date: 2017-08-28 14:15 -0000
 guid: http://adamprocter.micro.blog/2017/08/28/checked-in-at.html
 ---
 Checked in at our Glamping Airbnb location in Margate ☀️👾
