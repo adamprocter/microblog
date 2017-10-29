@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-09-07 09:45 +0100
+date: 2017-09-07 08:45 -0000
 guid: http://adamprocter.micro.blog/2017/09/07/todays-agenda-for.html
 ---
 Today's agenda for #ideasofrevolt conference excited. Watch out for sketch notes later 📝
