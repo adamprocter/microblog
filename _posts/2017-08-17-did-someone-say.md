@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-08-17 18:15 +0100
+date: 2017-08-17 17:15 -0000
 guid: http://adamprocter.micro.blog/2017/08/17/did-someone-say.html
 ---
 Did someone say JukeBox ✅ 
