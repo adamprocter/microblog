@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-08-15 13:46 +0100
+date: 2017-08-15 12:46 -0000
 guid: http://adamprocter.micro.blog/2017/08/15/into-the-unknown.html
 ---
 Into the Unknown.
