@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-09-27 20:46 +0100
+date: 2017-09-27 19:46 -0000
 guid: http://adamprocter.micro.blog/2017/09/27/characters.html
 ---
 139 characters 💥
