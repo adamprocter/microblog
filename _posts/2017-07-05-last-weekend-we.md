@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-07-05 14:59 +0100
+date: 2017-07-05 13:59 -0000
 guid: http://adamprocter.micro.blog/2017/07/05/last-weekend-we.html
 ---
 Last weekend we opened our first @gamesdesignart show in Hoxton was super exciting. See [winchester.games](http://winchester.games) for info on all the projects
