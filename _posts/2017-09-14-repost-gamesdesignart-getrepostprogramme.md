@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-09-14 17:00 +0100
+date: 2017-09-14 16:00 -0000
 guid: http://adamprocter.micro.blog/2017/09/14/repost-gamesdesignart-getrepostprogramme.html
 ---
 #Repost @gamesdesignart (@get_repost)
