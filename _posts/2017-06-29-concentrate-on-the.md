@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-06-29 23:34 +0100
+date: 2017-06-29 22:34 -0000
 guid: http://adamprocter.micro.blog/2017/06/29/concentrate-on-the.html
 ---
 Concentrate on the game @hurryhurryhealme #frameworks17
