@@ -28,4 +28,4 @@ github_username: "adamprocter"
 instagram_username: "adamprocter"
 paginate: 20
 paginate_path: "/page/:num/"
-timezone: "WET"
+timezone: "Zulu"
