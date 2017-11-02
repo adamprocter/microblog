@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/11/02/sounds-like-could.html",
+	      	
+			"content_html": "<p>Sounds like could be 2-3 weeks for my iPhone X nothing on @o2 site &amp; live chat said up to 3 weeks ☹️ after all get up early and pre auth payment stress I was hopeful, just me &amp; 6S this weekend by the looks of it</p>\n",
+			"date_published": "2017-11-02T22:49:00Z",
+			"url": "http://discursive.adamprocter.co.uk/2017/11/02/sounds-like-could.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/11/02/not-collecting-iphone.html",
 	      	
 			"content_html": "<p>Not collecting iPhone X in store… but no shipping details from @o2 yet, disappointing at the moment especially with the 7x pre authorisation money pains, microcast on iPhone X maybe delayed </p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Made a little demo of my edutech app in this very very early prototype stage using vue.js - <a href=\"http://dctr.pro/21g\">dctr.pro/21g</a> (discourse feedback welcome) 😀</p>\n",
 			"date_published": "2017-10-30T19:38:00Z",
 			"url": "http://discursive.adamprocter.co.uk/2017/10/30/made-a-little.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/10/29/ill-probably-as.html",
-	      	
-			"content_html": "<p>I’ll probably as per usual screenshot all my screens of iPhone apps and spend the weekend installing the current ones I really need to get up and running. </p>\n",
-			"date_published": "2017-10-29T21:03:00Z",
-			"url": "http://discursive.adamprocter.co.uk/2017/10/29/ill-probably-as.html"
 		}
 		
 	]
