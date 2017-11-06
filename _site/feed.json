@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/11/06/im-still-waiting.html",
+	      	
+			"content_html": "<p>I’m still waiting for my Phone but for everyone else … The Best Games for the New iPhone X TouchArcade <a href=\"http://dctr.pro/21i\">dctr.pro/21i</a></p>\n",
+			"date_published": "2017-11-06T21:24:00Z",
+			"url": "http://discursive.adamprocter.co.uk/2017/11/06/im-still-waiting.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/11/06/the-blurring-between.html",
 	      	
 			"content_html": "<p>The Blurring Between Design Thinking and Agile - Marvel Blog <a href=\"http://dctr.pro/21h\">dctr.pro/21h</a> </p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>ah man I had hoped micro.blog supported animated gifs already… not yet… I guess its coming 😀 <a href=\"https://micro.blog/manton\">@manton</a></p>\n",
 			"date_published": "2017-10-31T16:56:00Z",
 			"url": "http://discursive.adamprocter.co.uk/2017/10/31/ah-man-i.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/10/31/adding-support-for.html",
-	      	
-			"content_html": "<p>Adding support for margin notes to my internal PhD (upgrade) blog. Trying to make the document as readable as possible but provide depth, this is the same functionality as on researchnot.es uses bigfoot plug in. I think it could be a good way to do this.</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/c61138dda0.jpg\" width=\"600\" height=\"396\" /></p>\n",
-			"date_published": "2017-10-31T16:54:00Z",
-			"url": "http://discursive.adamprocter.co.uk/2017/10/31/adding-support-for.html"
 		}
 		
 	]
