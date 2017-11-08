@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/11/08/wow-this-is.html",
+	      	
+			"content_html": "<p>Wow this is terrible. Tracking everything your staff do ! Talk about no trust! So glad at work we had an awesome meeting about data &amp; privacy &amp; of course the right to erasure 😊 - <a href=\"http://dctr.pro/21k\">dctr.pro/21k</a></p>\n",
+			"date_published": "2017-11-08T08:24:00Z",
+			"url": "http://discursive.adamprocter.co.uk/2017/11/08/wow-this-is.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/11/08/a-set-of.html",
 	      	
 			"content_html": "<p>A set of DIY tools to help trigger &amp; support social innovation. <a href=\"http://dctr.pro/21j\">dctr.pro/21j</a> </p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>After a nightmare morning, I am now just waiting for Jonathan Topf to arrive he was the director &amp; lead artist on Monument Valley 2 &amp; has his own IP game TrickShot is also amazing, excited to catch up and hear his talk + discussions with @gamesdesignart students</p>\n",
 			"date_published": "2017-11-02T11:22:00Z",
 			"url": "http://discursive.adamprocter.co.uk/2017/11/02/after-a-nightmare.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/10/31/nyc-stay-strong.html",
-	      	
-			"content_html": "<p>NYC stay strong. 😞</p>\n",
-			"date_published": "2017-10-31T22:06:00Z",
-			"url": "http://discursive.adamprocter.co.uk/2017/10/31/nyc-stay-strong.html"
 		}
 		
 	]
