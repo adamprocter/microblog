@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/11/14/what-sort-of.html",
+	      	
+			"content_html": "<p>What sort of TEF do students really want? - <a href=\"http://dctr.pro/21n\">dctr.pro/21n</a></p>\n",
+			"date_published": "2017-11-14T20:30:00Z",
+			"url": "http://discursive.adamprocter.co.uk/2017/11/14/what-sort-of.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/11/11/innovation-will-come.html",
 	      	
 			"content_html": "<blockquote>\n  <p>Innovation will come from a good understanding of the digital &amp; physical form-factor and from what needs to be one or the other or both.</p>\n</blockquote>\n\n<p><a href=\"http://dctr.pro/21m\">dctr.pro/21m</a></p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>After last nights attempt to change upload size on WordPress failed today @cloudabove gave me the GUI way! And so <a href=\"http://fragmentum.adamprocter.co.uk/episode-6-mozfest/\">Fragmentum 6</a> is out - Mozfest </p>\n",
 			"date_published": "2017-11-09T16:56:00Z",
 			"url": "http://discursive.adamprocter.co.uk/2017/11/09/after-last-nights.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/11/08/wow-this-is.html",
-	      	
-			"content_html": "<p>Wow this is terrible. Tracking everything your staff do ! Talk about no trust! So glad at work we had an awesome meeting about data &amp; privacy &amp; of course the right to erasure 😊 - <a href=\"http://dctr.pro/21k\">dctr.pro/21k</a></p>\n",
-			"date_published": "2017-11-08T08:24:00Z",
-			"url": "http://discursive.adamprocter.co.uk/2017/11/08/wow-this-is.html"
 		}
 		
 	]
