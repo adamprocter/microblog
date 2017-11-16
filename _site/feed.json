@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/11/16/to-all-those.html",
+	      	
+			"content_html": "<p>To all those people flipping iPhone X’s on eBay grrrrr… I actually want one as my phone, just like ticket touts your are basically not good people.</p>\n",
+			"date_published": "2017-11-16T08:40:00Z",
+			"url": "http://discursive.adamprocter.co.uk/2017/11/16/to-all-those.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2017/11/15/to-all-those.html",
+	      	
+			"content_html": "<p>To all those people flipping iPhone X’s on eBay screw you… I actually want one as my phone, just like ticket touts your are basically not good people.</p>\n",
+			"date_published": "2017-11-15T22:08:00Z",
+			"url": "http://discursive.adamprocter.co.uk/2017/11/15/to-all-those.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/11/14/what-sort-of.html",
 	      	
 			"content_html": "<p>What sort of TEF do students really want? - <a href=\"http://dctr.pro/21n\">dctr.pro/21n</a></p>\n",
@@ -67,24 +83,6 @@
 			"content_html": "<p>7 day micro blog photo challenge  <a href=\"http://micro.douglane.com/2017/11/09/microblog-photo-challenge.html\">micro.douglane.com</a></p>\n",
 			"date_published": "2017-11-09T19:00:00Z",
 			"url": "http://discursive.adamprocter.co.uk/2017/11/09/day-micro-blog.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/11/09/magic-voodoo-gestures.html",
-	      	
-			"title": "magic voodoo gestures ",
-			
-			"content_html": "<p>Just spend 10mins looking for the repeat song option in Apple Music on iPad and iPhone, No idea what you call it but the “now playing card” has not clues you can scroll it. Affordance no where to be seen. In fact due to the way it animates in it doesn’t indicate that it is scrollable element, it feels like a card that is showing you everything. Seriously when are we going to move away from these magic hidden gestures. Snap chat I’m looking at you too.  I fear iPhone X (still on preorder) will wind me up in this regards… Come on Apple this is not great UX</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/836faa94ca.jpg\" width=\"600\" height=\"600\" /><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/e5d4558b8e.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-11-09T18:58:00Z",
-			"url": "http://discursive.adamprocter.co.uk/2017/11/09/magic-voodoo-gestures.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/11/09/after-last-nights.html",
-	      	
-			"content_html": "<p>After last nights attempt to change upload size on WordPress failed today @cloudabove gave me the GUI way! And so <a href=\"http://fragmentum.adamprocter.co.uk/episode-6-mozfest/\">Fragmentum 6</a> is out - Mozfest </p>\n",
-			"date_published": "2017-11-09T16:56:00Z",
-			"url": "http://discursive.adamprocter.co.uk/2017/11/09/after-last-nights.html"
 		}
 		
 	]
