@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/11/20/margaret-hamilton-lead.html",
+	      	
+			"content_html": "<p>Margaret Hamilton, Lead Software Engineer of the Apollo Project, Stands Next to Her Code That Took Us to the Moon (1969) <a href=\"http://bit.ly/2wJkk0U\">bit.ly/2wJkk0U</a></p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/48c2c1ae92.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-11-20T00:42:00Z",
+			"url": "http://discursive.adamprocter.co.uk/2017/11/20/margaret-hamilton-lead.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/11/19/spent-the-day.html",
 	      	
 			"content_html": "<p><a href=\"https://itunes.apple.com/gb/album/spent-the-day-in-bed/1282060987?i=1282061681\">Spent the day in Bed - Morrisey</a> new LP is out now, when I heard this song on @bbc6music super impressed &amp; LP is very good too</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Posting from iPhone X 😊 also happy to have a fresh phone though would like to have migrated messages only….</p>\n",
 			"date_published": "2017-11-17T20:01:00Z",
 			"url": "http://discursive.adamprocter.co.uk/2017/11/17/posting-from-iphone.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/11/17/people-are-being.html",
-	      	
-			"content_html": "<blockquote>\n  <p>People are being distorted by very finely trained AIs that figure out how to distract them. </p>\n</blockquote>\n\n<ul>\n  <li><a href=\"http://dctr.pro/21o\">dctr.pro/21o</a></li>\n</ul>\n\n<p>Tim Berners-Lee on the future of the web: ‘The system is failing’</p>\n",
-			"date_published": "2017-11-17T08:56:00Z",
-			"url": "http://discursive.adamprocter.co.uk/2017/11/17/people-are-being.html"
 		}
 		
 	]
