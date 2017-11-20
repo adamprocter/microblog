@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/11/20/doesthishashtagcross-post-to.html",
+	      	
+			"content_html": "<h1 id=\"doesthishashtag\">doesthishashtag</h1>\n<p>cross Post to twitter - test please ignore 😊</p>\n",
+			"date_published": "2017-11-20T19:25:00Z",
+			"url": "http://discursive.adamprocter.co.uk/2017/11/20/doesthishashtagcross-post-to.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2017/11/20/making-grids-for.html",
+	      	
+			"content_html": "<p>Making grids for UI that has to respond to numerous screen sizes, accessibility features and more in our digital age. Good tips and resources for interaction and games designers. </p>\n\n<ul>\n  <li><a href=\"http://dctr.pro/21q\">dctr.pro/21q</a></li>\n</ul>\n",
+			"date_published": "2017-11-20T19:18:00Z",
+			"url": "http://discursive.adamprocter.co.uk/2017/11/20/making-grids-for.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/11/20/margaret-hamilton-lead.html",
 	      	
 			"content_html": "<p>Margaret Hamilton, Lead Software Engineer of the Apollo Project, Stands Next to Her Code That Took Us to the Moon (1969) <a href=\"http://bit.ly/2wJkk0U\">bit.ly/2wJkk0U</a></p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/48c2c1ae92.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<h1 id=\"repost-gamesdesignart-getrepost\">Repost @gamesdesignart (@get_repost)</h1>\n<p>・・・\nWe got that Friday feeling in games. Neat little animation from @_lewis_hill Year 1 (sound UP!) #excitingtimesatwsa #gamesdesign #gdafam #gda #winchester</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/900dce05ec.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-11-17T21:43:00Z",
 			"url": "http://discursive.adamprocter.co.uk/2017/11/17/repost-gamesdesignart-getrepostwe.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/11/17/im-late-to.html",
-	      	
-			"content_html": "<p>I’m late to the party but wow iPhone X is impressive </p>\n",
-			"date_published": "2017-11-17T21:34:00Z",
-			"url": "http://discursive.adamprocter.co.uk/2017/11/17/im-late-to.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/11/17/posting-from-iphone.html",
-	      	
-			"content_html": "<p>Posting from iPhone X 😊 also happy to have a fresh phone though would like to have migrated messages only….</p>\n",
-			"date_published": "2017-11-17T20:01:00Z",
-			"url": "http://discursive.adamprocter.co.uk/2017/11/17/posting-from-iphone.html"
 		}
 		
 	]
