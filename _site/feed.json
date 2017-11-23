@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/11/23/for-me-iphone.html",
+	      	
+			"content_html": "<p>For me iPhone X battery life is off the chart excellent. Ok I did a clean start and have been slowly installing the apps I need, but I have to say I am very impressed.</p>\n",
+			"date_published": "2017-11-23T00:39:00Z",
+			"url": "http://discursive.adamprocter.co.uk/2017/11/23/for-me-iphone.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/11/22/yesterdays-felt-like.html",
 	      	
 			"content_html": "<p>Yesterday’s (felt like) unproductive day has manifested into a productive next day. Had to get this blog post down. Some finessing to do but will post ASAP #procterphd</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/d81a9825b1.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Margaret Hamilton, Lead Software Engineer of the Apollo Project, Stands Next to Her Code That Took Us to the Moon (1969) <a href=\"http://bit.ly/2wJkk0U\">bit.ly/2wJkk0U</a></p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/48c2c1ae92.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-11-20T00:42:00Z",
 			"url": "http://discursive.adamprocter.co.uk/2017/11/20/margaret-hamilton-lead.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/11/19/spent-the-day.html",
-	      	
-			"content_html": "<p><a href=\"https://itunes.apple.com/gb/album/spent-the-day-in-bed/1282060987?i=1282061681\">Spent the day in Bed - Morrisey</a> new LP is out now, when I heard this song on @bbc6music super impressed &amp; LP is very good too</p>\n",
-			"date_published": "2017-11-19T23:53:00Z",
-			"url": "http://discursive.adamprocter.co.uk/2017/11/19/spent-the-day.html"
 		}
 		
 	]
