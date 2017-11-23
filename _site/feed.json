@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/11/23/update-blog-post.html",
+	      	
+			"content_html": "<p>Update blog post on some of the stuff I’ve been making around spatial hypertext networked learning objects. (Well that’s what I’m calling them for now) </p>\n\n<ul>\n  <li><a href=\"http://researchnot.es/13_MoreProto\">researchnot.es/13_MorePr…</a></li>\n</ul>\n\n<p>Public discussion welcome on discourse link at the bottom of Post 😊</p>\n",
+			"date_published": "2017-11-23T09:13:00Z",
+			"url": "http://discursive.adamprocter.co.uk/2017/11/23/update-blog-post.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/11/23/thinking-about-jakehttpsmicroblogjakes.html",
 	      	
 			"content_html": "<p>Thinking about <a href=\"https://micro.blog/jake\">@jake</a>’s <a href=\"https://www.baty.net/2017/on-having-too-many-blogs/\">to many blogs</a> post &amp; thought if you ensure every blog service you sign up for provides an RSS feed you could use <a href=\"http://vuejs.org\">Vue.js</a> to make a web RSS app that pulls in a netvibes style dashboard</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<h1 id=\"doesthishashtag\">doesthishashtag</h1>\n<p>cross Post to twitter - test please ignore 😊</p>\n",
 			"date_published": "2017-11-20T19:25:00Z",
 			"url": "http://discursive.adamprocter.co.uk/2017/11/20/doesthishashtagcross-post-to.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/11/20/making-grids-for.html",
-	      	
-			"content_html": "<p>Making grids for UI that has to respond to numerous screen sizes, accessibility features and more in our digital age. Good tips and resources for interaction and games designers. </p>\n\n<ul>\n  <li><a href=\"http://dctr.pro/21q\">dctr.pro/21q</a></li>\n</ul>\n",
-			"date_published": "2017-11-20T19:18:00Z",
-			"url": "http://discursive.adamprocter.co.uk/2017/11/20/making-grids-for.html"
 		}
 		
 	]
