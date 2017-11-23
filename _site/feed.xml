@@ -4,8 +4,17 @@
     <title>Adam Procter</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/adamprocter&quot;&gt;@adamprocter on Micro.blog&lt;/a&gt;.</description>
     <link>http://discursive.adamprocter.co.uk/</link>
-    <pubDate>Thu, 23 Nov 2017 00:39:16 +0000</pubDate>
-    <lastBuildDate>Thu, 23 Nov 2017 00:39:16 +0000</lastBuildDate>
+    <pubDate>Thu, 23 Nov 2017 00:59:32 +0000</pubDate>
+    <lastBuildDate>Thu, 23 Nov 2017 00:59:32 +0000</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Thinking about &lt;a href=&quot;https://micro.blog/jake&quot;&gt;@jake&lt;/a&gt;’s &lt;a href=&quot;https://www.baty.net/2017/on-having-too-many-blogs/&quot;&gt;to many blogs&lt;/a&gt; post &amp;amp; thought if you ensure every blog service you sign up for provides an RSS feed you could use &lt;a href=&quot;http://vuejs.org&quot;&gt;Vue.js&lt;/a&gt; to make a web RSS app that pulls in a netvibes style dashboard&lt;/p&gt;
+</description>
+        <pubDate>Thu, 23 Nov 2017 00:59:00 -0000</pubDate>
+        <link>http://discursive.adamprocter.co.uk/2017/11/23/thinking-about-jakehttpsmicroblogjakes.html</link>
+        <guid isPermaLink="true">http://adamprocter.micro.blog/2017/11/23/thinking-about-jakehttpsmicroblogjakes.html</guid>
+      </item>
     
       <item>
       	
@@ -515,15 +524,6 @@ U.F.O #sennepholes #sennep_holes #testing #gamesdesign #Alumni @gamesdesignart&l
         <pubDate>Tue, 31 Oct 2017 19:01:00 -0000</pubDate>
         <link>http://discursive.adamprocter.co.uk/2017/10/31/expect-pumpkins-to.html</link>
         <guid isPermaLink="true">http://adamprocter.micro.blog/2017/10/31/expect-pumpkins-to.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;ah man I had hoped micro.blog supported animated gifs already… not yet… I guess its coming 😀 &lt;a href=&quot;https://micro.blog/manton&quot;&gt;@manton&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 31 Oct 2017 16:56:00 -0000</pubDate>
-        <link>http://discursive.adamprocter.co.uk/2017/10/31/ah-man-i.html</link>
-        <guid isPermaLink="true">http://adamprocter.micro.blog/2017/10/31/ah-man-i.html</guid>
       </item>
     
   </channel>
