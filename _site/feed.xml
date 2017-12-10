@@ -4,8 +4,25 @@
     <title>Adam Procter</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/adamprocter&quot;&gt;@adamprocter on Micro.blog&lt;/a&gt;.</description>
     <link>http://discursive.adamprocter.co.uk/</link>
-    <pubDate>Sun, 10 Dec 2017 09:59:38 +0000</pubDate>
-    <lastBuildDate>Sun, 10 Dec 2017 09:59:38 +0000</lastBuildDate>
+    <pubDate>Sun, 10 Dec 2017 13:24:32 +0000</pubDate>
+    <lastBuildDate>Sun, 10 Dec 2017 13:24:32 +0000</lastBuildDate>
+    
+      <item>
+      	
+        <title>Why should everyone learn to Code?</title>
+        
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;“Very few people grow up to be professional writers, but we teach everyone to write because it’s a way of communicating with others—of organizing your thoughts and expressing your ideas. I think the reasons for learning to code are the same as the reasons for learning to write. When we learn to write, we are learning how to organize, express, and share ideas. And when we learn to code, we are learning how to organize, express, and share ideas in new ways, in a new medium.” — Mitch Resnick&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://dctr.pro/22f&quot;&gt;dctr.pro/22f&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 10 Dec 2017 13:24:00 -0000</pubDate>
+        <link>http://discursive.adamprocter.co.uk/2017/12/10/why-should-everyone.html</link>
+        <guid isPermaLink="true">http://adamprocter.micro.blog/2017/12/10/why-should-everyone.html</guid>
+      </item>
     
       <item>
       	
@@ -548,15 +565,6 @@ Out now
         <pubDate>Thu, 23 Nov 2017 09:13:00 -0000</pubDate>
         <link>http://discursive.adamprocter.co.uk/2017/11/23/update-blog-post.html</link>
         <guid isPermaLink="true">http://adamprocter.micro.blog/2017/11/23/update-blog-post.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Thinking about &lt;a href=&quot;https://micro.blog/jake&quot;&gt;@jake&lt;/a&gt;’s &lt;a href=&quot;https://www.baty.net/2017/on-having-too-many-blogs/&quot;&gt;to many blogs&lt;/a&gt; post &amp;amp; thought if you ensure every blog service you sign up for provides an RSS feed you could use &lt;a href=&quot;http://vuejs.org&quot;&gt;Vue.js&lt;/a&gt; to make a web RSS app that pulls in a netvibes style dashboard&lt;/p&gt;
-</description>
-        <pubDate>Thu, 23 Nov 2017 00:59:00 -0000</pubDate>
-        <link>http://discursive.adamprocter.co.uk/2017/11/23/thinking-about-jakehttpsmicroblogjakes.html</link>
-        <guid isPermaLink="true">http://adamprocter.micro.blog/2017/11/23/thinking-about-jakehttpsmicroblogjakes.html</guid>
       </item>
     
   </channel>
