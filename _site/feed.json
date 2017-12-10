@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/12/10/why-should-everyone.html",
+	      	
+			"title": "Why should everyone learn to Code?",
+			
+			"content_html": "<blockquote>\n  <p>“Very few people grow up to be professional writers, but we teach everyone to write because it’s a way of communicating with others—of organizing your thoughts and expressing your ideas. I think the reasons for learning to code are the same as the reasons for learning to write. When we learn to write, we are learning how to organize, express, and share ideas. And when we learn to code, we are learning how to organize, express, and share ideas in new ways, in a new medium.” — Mitch Resnick</p>\n</blockquote>\n\n<ul>\n  <li><a href=\"http://dctr.pro/22f\">dctr.pro/22f</a></li>\n</ul>\n",
+			"date_published": "2017-12-10T13:24:00Z",
+			"url": "http://discursive.adamprocter.co.uk/2017/12/10/why-should-everyone.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/12/10/living-in-the.html",
 	      	
 			"content_html": "<p>Living in the crossfire of an ‘attention war’\nvia <a href=\"https://micro.blog/jamesshelley\">@jamesshelley</a> - <a href=\"http://dctr.pro/22e\">dctr.pro/22e</a></p>\n",
@@ -77,14 +87,6 @@
 			"content_html": "<p>GUIdebook: Graphical User Interface gallery - <a href=\"http://dctr.pro/22c\">dctr.pro/22c</a></p>\n",
 			"date_published": "2017-12-06T21:25:00Z",
 			"url": "http://discursive.adamprocter.co.uk/2017/12/06/guidebook-graphical-user.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/12/06/this-weeks-new.html",
-	      	
-			"content_html": "<p>This weeks new book YAY #procterphd</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/aa46b25625.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-12-06T11:48:00Z",
-			"url": "http://discursive.adamprocter.co.uk/2017/12/06/this-weeks-new.html"
 		}
 		
 	]
