@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/12/10/projects-passion-peers.html",
+	      	
+			"title": "Projects, Passion, Peers and Play",
+			
+			"content_html": "<p>Great way to sum up excellent curriculum development. </p>\n\n<blockquote>\n  <p>These days I talk about our approach in terms of these four words that begin with the letter p: projects, passion, peers, and play. So that’s the approach I would take with coding, but also with any other learning: getting students to work on projects, based on their passion, in collaboration with peers, in a playful spirit. — Mitch Resnick</p>\n</blockquote>\n\n<ul>\n  <li><a href=\"http://dctr.pro/22f\">dctr.pro/22f</a></li>\n</ul>\n",
+			"date_published": "2017-12-10T13:38:00Z",
+			"url": "http://discursive.adamprocter.co.uk/2017/12/10/projects-passion-peers.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/12/10/why-should-everyone.html",
 	      	
 			"title": "Why should everyone learn to Code?",
@@ -79,14 +89,6 @@
 			"content_html": "<p>My Microcast Episode 10 out – PhD upgrade <a href=\"http://fragmentum.adamprocter.co.uk/episode-10-phd-upgrade/\">Fragmentum</a></p>\n",
 			"date_published": "2017-12-07T12:56:00Z",
 			"url": "http://discursive.adamprocter.co.uk/2017/12/07/my-microcast-episode.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/12/06/guidebook-graphical-user.html",
-	      	
-			"content_html": "<p>GUIdebook: Graphical User Interface gallery - <a href=\"http://dctr.pro/22c\">dctr.pro/22c</a></p>\n",
-			"date_published": "2017-12-06T21:25:00Z",
-			"url": "http://discursive.adamprocter.co.uk/2017/12/06/guidebook-graphical-user.html"
 		}
 		
 	]
