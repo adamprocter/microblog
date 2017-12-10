@@ -20,7 +20,7 @@ relative_permalinks: false
 author: "Adam Procter"
 name: "Adam Procter"
 gravatar_hash: "54d390c79764a5cc89c985c80fdd2faa"
-avatar: "https://www.gravatar.com/avatar/54d390c79764a5cc89c985c80fdd2faa?s=160"
+avatar: "https://micro.blog/adamprocter/avatar.jpg"
 full_name: "Adam Procter"
 bio: ""
 twitter_username: "adamprocter"
@@ -29,3 +29,4 @@ instagram_username: "adamprocter"
 paginate: 20
 paginate_path: "/page/:num/"
 timezone: "Zulu"
+site_id: ["SITE_ID"]
