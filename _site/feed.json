@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/12/12/spent-most-of.html",
+	      	
+			"content_html": "<p>Spent most of the #procterphd morning NOT working out how to get Go Lang to sort by date in my markdown files  - any coders out there feel free to help! ☹️ - <a href=\"https://play.golang.org/p/bBR8wfcZfb\">play.golang.org/p/bBR8wfc…</a></p>\n",
+			"date_published": "2017-12-12T11:56:00Z",
+			"url": "http://discursive.adamprocter.co.uk/2017/12/12/spent-most-of.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/12/11/episode-of-my.html",
 	      	
 			"content_html": "<p>Episode 11 of my microcast is out. A brief chat on my new LG 4K screen, learning Godot 3 and that I 💛 micro.blog all recorded in a car park straight onto my MacBook Pro…</p>\n\n<ul>\n  <li><a href=\"http://fragmentum.adamprocter.co.uk/episode-11-microcarcast/\">fragmentum.adamprocter.co.uk/episode-1…</a></li>\n</ul>\n",
@@ -79,16 +87,6 @@
 			"content_html": "<p>Spot #rosiethecat 😊</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/7a13dd957b.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-12-09T18:40:00Z",
 			"url": "http://discursive.adamprocter.co.uk/2017/12/09/spot-rosiethecat.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/12/08/vc-pay-is.html",
-	      	
-			"title": "VC Pay is fair",
-			
-			"content_html": "<p>This ongoing atttack against university pay specifically against Vice Chancellors is unfair. High quality education is a must, this is what pushes forward a civilisation, but the fact that there seems to be a miss connection with renumerating those that lead in Universities, this is a non issue, the biggest issue is not fees paying VC wages but the fees themselves. </p>\n\n<p>Higher Education should be available for all no matter your economic background, the ability to pass the entry requirements for any University should be within the power of anyone. What’s wrong is the ability for those that want to attend HE being put off by fees NOT Vice Chancellor wages. </p>\n\n<p>Everyone should be fairly renumerated for the work they undertake and Universities not paying living wages should take a hard look at themselves.</p>\n",
-			"date_published": "2017-12-08T23:27:00Z",
-			"url": "http://discursive.adamprocter.co.uk/2017/12/08/vc-pay-is.html"
 		}
 		
 	]
