@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/12/13/post-digital-art.html",
+	      	
+			"content_html": "<p>Post Digital Art School Report (PDF) - UAL / Fred Deakin / Charlotte Webb  - <a href=\"http://dctr.pro/22i\">dctr.pro/22i</a> </p>\n",
+			"date_published": "2017-12-13T10:54:00Z",
+			"url": "http://discursive.adamprocter.co.uk/2017/12/13/post-digital-art.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/12/12/delightful-in-a.html",
 	      	
 			"title": "Delightful in a nice way",
@@ -79,16 +87,6 @@
 			"content_html": "<p>Great way to sum up excellent curriculum development. </p>\n\n<blockquote>\n  <p>These days I talk about our approach in terms of these four words that begin with the letter p: projects, passion, peers, and play. So that’s the approach I would take with coding, but also with any other learning: getting students to work on projects, based on their passion, in collaboration with peers, in a playful spirit. — Mitch Resnick</p>\n</blockquote>\n\n<ul>\n  <li><a href=\"http://dctr.pro/22f\">dctr.pro/22f</a></li>\n</ul>\n",
 			"date_published": "2017-12-10T13:38:00Z",
 			"url": "http://discursive.adamprocter.co.uk/2017/12/10/projects-passion-peers.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/12/10/why-should-everyone.html",
-	      	
-			"title": "Why should everyone learn to Code?",
-			
-			"content_html": "<blockquote>\n  <p>“Very few people grow up to be professional writers, but we teach everyone to write because it’s a way of communicating with others—of organizing your thoughts and expressing your ideas. I think the reasons for learning to code are the same as the reasons for learning to write. When we learn to write, we are learning how to organize, express, and share ideas. And when we learn to code, we are learning how to organize, express, and share ideas in new ways, in a new medium.” — Mitch Resnick</p>\n</blockquote>\n\n<ul>\n  <li><a href=\"http://dctr.pro/22f\">dctr.pro/22f</a></li>\n</ul>\n",
-			"date_published": "2017-12-10T13:24:00Z",
-			"url": "http://discursive.adamprocter.co.uk/2017/12/10/why-should-everyone.html"
 		}
 		
 	]
