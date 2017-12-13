@@ -1,0 +1,7 @@
+---
+layout: post
+microblog: true
+date: 2017-12-13 10:54 -0000
+guid: http://adamprocter.micro.blog/2017/12/13/post-digital-art.html
+---
+Post Digital Art School Report (PDF) - UAL / Fred Deakin / Charlotte Webb  - [dctr.pro/22i](http://dctr.pro/22i) 
