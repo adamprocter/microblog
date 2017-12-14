@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/12/14/oooohhh-glitchy-graphics.html",
+	      	
+			"content_html": "<p>Oooohhh Glitchy Graphics 💛</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/2de46e36ee.jpg\" width=\"600\" height=\"573\" /></p>\n",
+			"date_published": "2017-12-14T22:43:00Z",
+			"url": "http://discursive.adamprocter.co.uk/2017/12/14/oooohhh-glitchy-graphics.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2017/12/14/somerset-house-loading.html",
+	      	
+			"content_html": "<p>Somerset house loading bay excitement.</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/17a84a2a48.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-14T21:05:00Z",
+			"url": "http://discursive.adamprocter.co.uk/2017/12/14/somerset-house-loading.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/12/14/with-gamesdesignart-today.html",
 	      	
 			"content_html": "<p>With @gamesdesignart today tour of @somersethousestudios and @sennepldn finished off with a nice pizza well done all #gamesdesign #gamemaker #excitingtimesatwsa</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/b56a4f4e76.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -71,22 +87,6 @@
 			"content_html": "<p>Previously this blog was hidden that was a mistake, this opens up all my PhD research which is the right thing to do, this is WIP aka not finished <a href=\"http://dlls.adamprocter.co.uk\">dlls.adamprocter.co.uk</a> </p>\n",
 			"date_published": "2017-12-12T13:17:00Z",
 			"url": "http://discursive.adamprocter.co.uk/2017/12/12/previously-this-blog.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/12/12/spent-most-of.html",
-	      	
-			"content_html": "<p>Spent most of the #procterphd morning NOT working out how to get Go Lang to sort by date in my markdown files  - any coders out there feel free to help! ☹️ - <a href=\"https://play.golang.org/p/bBR8wfcZfb\">play.golang.org/p/bBR8wfc…</a></p>\n",
-			"date_published": "2017-12-12T11:56:00Z",
-			"url": "http://discursive.adamprocter.co.uk/2017/12/12/spent-most-of.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/12/11/episode-of-my.html",
-	      	
-			"content_html": "<p>Episode 11 of my microcast is out. A brief chat on my new LG 4K screen, learning Godot 3 and that I 💛 micro.blog all recorded in a car park straight onto my MacBook Pro…</p>\n\n<ul>\n  <li><a href=\"http://fragmentum.adamprocter.co.uk/episode-11-microcarcast/\">fragmentum.adamprocter.co.uk/episode-1…</a></li>\n</ul>\n",
-			"date_published": "2017-12-11T23:32:00Z",
-			"url": "http://discursive.adamprocter.co.uk/2017/12/11/episode-of-my.html"
 		}
 		
 	]
