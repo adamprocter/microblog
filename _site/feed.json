@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/12/15/the-digital-phase.html",
+	      	
+			"content_html": "<p>The Digital Phase Vocoder - Sound Mutation (Mad as Hell Speech) - <a href=\"https://youtu.be/O3_ihwhjHUw\">youtu.be/O3_ihwhjH…</a></p>\n",
+			"date_published": "2017-12-15T21:22:00Z",
+			"url": "http://discursive.adamprocter.co.uk/2017/12/15/the-digital-phase.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/12/14/oooohhh-glitchy-graphics.html",
 	      	
 			"content_html": "<p>Oooohhh Glitchy Graphics 💛</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/2de46e36ee.jpg\" width=\"600\" height=\"573\" /></p>\n",
@@ -79,14 +87,6 @@
 			"content_html": "<p>Long day will record PhD microcast report tomorrow morning. Morning mainly not getting Go Lang blog to <a href=\"https://play.golang.org/p/bBR8wfcZfb\">sort</a> as I want. Midday awesome chat with @dajbelshaw about MoodleNet. More on that soon hopefully! 😊 and then afternoon mainly on delightful design and what it is and why it’s important not to “Nudge” but to empower. Which was hard going on fact. </p>\n\n<h1 id=\"procterphd\">procterphd</h1>\n\n<blockquote>\n  <p>The short-term, dopamine-driven feedback loops that we have created are destroying how society works. No civil discourse, no cooperation, misinformation, mistruth.</p>\n</blockquote>\n",
 			"date_published": "2017-12-12T19:50:00Z",
 			"url": "http://discursive.adamprocter.co.uk/2017/12/12/delightful-in-a.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/12/12/previously-this-blog.html",
-	      	
-			"content_html": "<p>Previously this blog was hidden that was a mistake, this opens up all my PhD research which is the right thing to do, this is WIP aka not finished <a href=\"http://dlls.adamprocter.co.uk\">dlls.adamprocter.co.uk</a> </p>\n",
-			"date_published": "2017-12-12T13:17:00Z",
-			"url": "http://discursive.adamprocter.co.uk/2017/12/12/previously-this-blog.html"
 		}
 		
 	]
