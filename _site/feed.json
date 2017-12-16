@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/12/16/bestof-seems-to.html",
+	      	
+			"content_html": "<h1 id=\"best9of2017-seems-to-be-a-lot-of-pictures-of-myself-oh-dear-\">best9of2017 seems to be a lot of pictures of myself! Oh dear. 😂😜</h1>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/1d8f5a4d32.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-16T09:05:00Z",
+			"url": "http://discursive.adamprocter.co.uk/2017/12/16/bestof-seems-to.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/12/15/the-digital-phase.html",
 	      	
 			"content_html": "<p>The Digital Phase Vocoder - Sound Mutation (Mad as Hell Speech) - <a href=\"https://youtu.be/O3_ihwhjHUw\">youtu.be/O3_ihwhjH…</a></p>\n",
@@ -77,16 +85,6 @@
 			"content_html": "<p>Post Digital Art School Report (PDF) - UAL / Fred Deakin / Charlotte Webb  - <a href=\"http://dctr.pro/22i\">dctr.pro/22i</a> </p>\n",
 			"date_published": "2017-12-13T10:54:00Z",
 			"url": "http://discursive.adamprocter.co.uk/2017/12/13/post-digital-art.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/12/12/delightful-in-a.html",
-	      	
-			"title": "Delightful in a nice way",
-			
-			"content_html": "<p>Long day will record PhD microcast report tomorrow morning. Morning mainly not getting Go Lang blog to <a href=\"https://play.golang.org/p/bBR8wfcZfb\">sort</a> as I want. Midday awesome chat with @dajbelshaw about MoodleNet. More on that soon hopefully! 😊 and then afternoon mainly on delightful design and what it is and why it’s important not to “Nudge” but to empower. Which was hard going on fact. </p>\n\n<h1 id=\"procterphd\">procterphd</h1>\n\n<blockquote>\n  <p>The short-term, dopamine-driven feedback loops that we have created are destroying how society works. No civil discourse, no cooperation, misinformation, mistruth.</p>\n</blockquote>\n",
-			"date_published": "2017-12-12T19:50:00Z",
-			"url": "http://discursive.adamprocter.co.uk/2017/12/12/delightful-in-a.html"
 		}
 		
 	]
