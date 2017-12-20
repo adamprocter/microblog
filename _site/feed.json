@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/12/20/nice-medium-blog.html",
+	      	
+			"content_html": "<p>Nice medium blog post on teaching typography and design, totally agree with his teaching approach, neat way to get up to speed in current thinking around design teaching if your new to it - <a href=\"http://dctr.pro/22p\">dctr.pro/22p</a></p>\n",
+			"date_published": "2017-12-20T09:45:00Z",
+			"url": "https://discursive.adamprocter.co.uk/2017/12/20/nice-medium-blog.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/12/20/interesting-if-you.html",
 	      	
 			"content_html": "<p>Interesting if you have an older iPhone 6s or 7 replacing the battery could drastically improve performance of the device as Apple maybe slowing down older devices in response to battery degradation- <a href=\"http://dctr.pro/22n\">dctr.pro/22n</a></p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>To be fair now my micro.blog is working so well is connecting to other services I will not moan about football and other general less wide issues here going forward. I don’t need to connect to Trolls. That’s what makes twitter rubbish. And not what the web is about. Sorry about that but I get worked up about football. I’ll notify people on specific major miles stones at AFC Wimbledon as an owner but I’ll keep my personal complaints to myself and not bore you to death 💀 👍😜</p>\n",
 			"date_published": "2017-12-17T20:07:00Z",
 			"url": "https://discursive.adamprocter.co.uk/2017/12/17/general-moaning-has.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/12/17/good-to-see.html",
-	      	
-			"content_html": "<p>Good to see Wigan Fans on twitter and attempt troll me hehehehe nice. 😜</p>\n",
-			"date_published": "2017-12-17T19:46:00Z",
-			"url": "https://discursive.adamprocter.co.uk/2017/12/17/good-to-see.html"
 		}
 		
 	]
