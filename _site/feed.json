@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/12/25/great-interview-with.html",
+	      	
+			"content_html": "<p>Great interview with @aral in Offscreen 18. Well worth the purchase price alone. In-depth yet neat summarisation on the current huge surveillance capatalism issue. #indieweb #ownyourdata #cyborgshaverights</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/2361f29f35.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-25T13:19:00Z",
+			"url": "https://discursive.adamprocter.co.uk/2017/12/25/great-interview-with.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/12/24/i-really-like.html",
 	      	
 			"content_html": "<p>I really like GT Sport but when a Triple A title has no way to save progress locally and sync to servers at a later date and instead relies on an always up connection to provide a huge junk of the game play and can’t provide at least 99.9999% up time this is a problem. </p>\n",
@@ -79,14 +87,6 @@
 			"content_html": "<p>2017 Music Year End List Aggregate - <a href=\"http://dctr.pro/22t\">dctr.pro/22t</a> </p>\n",
 			"date_published": "2017-12-21T17:20:00Z",
 			"url": "https://discursive.adamprocter.co.uk/2017/12/21/music-year-end.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/12/21/licklader-mancomputer-symbiosis.html",
-	      	
-			"content_html": "<p>Licklader, 1960, Man-Computer Symbiosis imagined a world in which networked computers would save the most valuable resource time. Little did he imagine social media would reverse his great thinking. -  <a href=\"http://dctr.pro/22s\">dctr.pro/22s</a></p>\n",
-			"date_published": "2017-12-21T09:41:00Z",
-			"url": "https://discursive.adamprocter.co.uk/2017/12/21/licklader-mancomputer-symbiosis.html"
 		}
 		
 	]
