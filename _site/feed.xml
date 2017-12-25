@@ -4,8 +4,21 @@
     <title>Adam Procter</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/adamprocter&quot;&gt;@adamprocter on Micro.blog&lt;/a&gt;.</description>
     <link>https://discursive.adamprocter.co.uk/</link>
-    <pubDate>Mon, 25 Dec 2017 13:19:54 +0000</pubDate>
-    <lastBuildDate>Mon, 25 Dec 2017 13:19:54 +0000</lastBuildDate>
+    <pubDate>Mon, 25 Dec 2017 13:33:40 +0000</pubDate>
+    <lastBuildDate>Mon, 25 Dec 2017 13:33:40 +0000</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;This should work… in theory this micro.blog post will now appear in my mastodon.cloud as well via my cross post to twitter. &lt;/p&gt;
+
+&lt;p&gt;Using &lt;a href=&quot;https://crossposter.masto.donte.com.br/&quot;&gt;crossposter.masto.donte.com.br&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Of course my canonical location for followers should be discursive.adamprocter.co.uk 😉&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 Dec 2017 13:33:00 -0000</pubDate>
+        <link>https://discursive.adamprocter.co.uk/2017/12/25/this-should-work.html</link>
+        <guid isPermaLink="true">http://adamprocter.micro.blog/2017/12/25/this-should-work.html</guid>
+      </item>
     
       <item>
       	
@@ -517,15 +530,6 @@
         <pubDate>Tue, 12 Dec 2017 13:17:00 -0000</pubDate>
         <link>https://discursive.adamprocter.co.uk/2017/12/12/previously-this-blog.html</link>
         <guid isPermaLink="true">http://adamprocter.micro.blog/2017/12/12/previously-this-blog.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Spent most of the #procterphd morning NOT working out how to get Go Lang to sort by date in my markdown files  - any coders out there feel free to help! ☹️ - &lt;a href=&quot;https://play.golang.org/p/bBR8wfcZfb&quot;&gt;play.golang.org/p/bBR8wfc…&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 12 Dec 2017 11:56:00 -0000</pubDate>
-        <link>https://discursive.adamprocter.co.uk/2017/12/12/spent-most-of.html</link>
-        <guid isPermaLink="true">http://adamprocter.micro.blog/2017/12/12/spent-most-of.html</guid>
       </item>
     
   </channel>
