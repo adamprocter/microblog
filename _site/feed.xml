@@ -4,8 +4,41 @@
     <title>Adam Procter</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/adamprocter&quot;&gt;@adamprocter on Micro.blog&lt;/a&gt;.</description>
     <link>https://discursive.adamprocter.co.uk/</link>
-    <pubDate>Mon, 25 Dec 2017 13:33:40 +0000</pubDate>
-    <lastBuildDate>Mon, 25 Dec 2017 13:33:40 +0000</lastBuildDate>
+    <pubDate>Tue, 26 Dec 2017 11:04:54 +0000</pubDate>
+    <lastBuildDate>Tue, 26 Dec 2017 11:04:54 +0000</lastBuildDate>
+    
+      <item>
+      	
+        <title>Spatial UI</title>
+        
+        <description>&lt;p&gt;One of the areas of investigation for my PhD project revolves around spatial user interfaces and connected to this the concept of spatial hypertext. I will be writing in more detail about this however there is little that seems to have advanced in this regard since the mid 2000’s and so I would like to pin down some more current and interesting examples. A key thing is that a spatial interface is not to be confused with a concept map, although there are similarities, a spatial interface is a way to arrange collections of different objects and draw connections between them visually and spatially. I am concerned with a thinking tool to help work out relational information design. Here is a piece on information design I previously &lt;a href=&quot;http://researchnot.es/7_information_design&quot;&gt;wrote&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Two keys texts are the following;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Marshall, C.C. &amp;amp; Frank M Shipman, I., 1999.&lt;a href=&quot;http://cs.brown.edu/memex/ACM%5C_HypertextTestbed/papers/37.html&quot;&gt; Spatial Hypertext: An Alternative to Navigational and Semantic Links&lt;/a&gt;. pp.1–5.&lt;/li&gt;
+  &lt;li&gt;Bernstein, M., 2013. &lt;a href=&quot;http://students.ecs.soton.ac.uk/mwra1g13/msc/comp6045/pdfs/Bernstein%20-%20Can%20We%20Talk%20about%20Spatial%20Hypertext.pdf&quot;&gt;Can We Talk about Spatial Hypertext?&lt;/a&gt;, pp.1–10.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;However what I am keen to gather in the first instance is more examples of spatial interfaces. Here are my starters.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Aquanet&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://csdl.tamu.edu/~marshall/viki-sidebar.html&quot;&gt;VIKI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.eastgate.com/Tinderbox/&quot;&gt;Tinderbox&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nuclino.com/&quot;&gt;Nuclino&lt;/a&gt; &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://graphcommons.com/&quot;&gt;Graph Commons&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Please join the &lt;a href=&quot;http://discursive.adamprocter.co.uk/2017/12/26/spatial-ui.html&quot;&gt;discussion here&lt;/a&gt; and post any interesting spatial interfaces.&lt;/p&gt;
+
+&lt;p&gt;As an aside, Frode Hegland also undertaking a web science PhD is also undertaking some work in this field with what he calls &lt;a href=&quot;https://www.youtube.com/watch?v=vcs6umMYg9k&quot;&gt;liquid views&lt;/a&gt;. This is an interactive way to work with a text document as a researcher.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 26 Dec 2017 11:02:00 -0000</pubDate>
+        <link>https://discursive.adamprocter.co.uk/2017/12/26/spatial-ui.html</link>
+        <guid isPermaLink="true">http://adamprocter.micro.blog/2017/12/26/spatial-ui.html</guid>
+      </item>
     
       <item>
       	
@@ -521,15 +554,6 @@
         <pubDate>Tue, 12 Dec 2017 19:50:00 -0000</pubDate>
         <link>https://discursive.adamprocter.co.uk/2017/12/12/delightful-in-a.html</link>
         <guid isPermaLink="true">http://adamprocter.micro.blog/2017/12/12/delightful-in-a.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Previously this blog was hidden that was a mistake, this opens up all my PhD research which is the right thing to do, this is WIP aka not finished &lt;a href=&quot;http://dlls.adamprocter.co.uk&quot;&gt;dlls.adamprocter.co.uk&lt;/a&gt; &lt;/p&gt;
-</description>
-        <pubDate>Tue, 12 Dec 2017 13:17:00 -0000</pubDate>
-        <link>https://discursive.adamprocter.co.uk/2017/12/12/previously-this-blog.html</link>
-        <guid isPermaLink="true">http://adamprocter.micro.blog/2017/12/12/previously-this-blog.html</guid>
       </item>
     
   </channel>
