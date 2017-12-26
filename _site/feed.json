@@ -6,21 +6,21 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2017/12/26/190544.html",
+	      	
+			"title": "Spatial UI",
+			
+			"content_html": "<p>One of the areas of investigation for my PhD project revolves around spatial user interfaces and connected to this the concept of spatial hypertext. I will be writing in more detail about this however there is little that seems to have advanced in this regard since the mid 2000’s and so I would like to pin down some more current and interesting examples. A key thing is that a spatial interface is not to be confused with a concept map, although there are similarities, a spatial interface is a way to arrange collections of different objects and draw connections between them visually and spatially. I am concerned with a thinking tool to help work out relational information design. Here is a piece on information design I previously <a href=\"http://researchnot.es/7_information_design\">wrote</a>.</p>\n\n<p>Two keys texts are the following;</p>\n\n<ul>\n  <li>Marshall, C.C. &amp; Frank M Shipman, I., 1999.<a href=\"http://cs.brown.edu/memex/ACM%5C_HypertextTestbed/papers/37.html\"> Spatial Hypertext: An Alternative to Navigational and Semantic Links</a>. pp.1–5.</li>\n  <li>Bernstein, M., 2013. <a href=\"http://students.ecs.soton.ac.uk/mwra1g13/msc/comp6045/pdfs/Bernstein%20-%20Can%20We%20Talk%20about%20Spatial%20Hypertext.pdf\">Can We Talk about Spatial Hypertext?</a>, pp.1–10.</li>\n</ul>\n\n<p>However what I am keen to gather in the first instance is more examples of spatial interfaces. Here are my starters.</p>\n\n<ul>\n  <li>Aquanet</li>\n  <li><a href=\"http://csdl.tamu.edu/~marshall/viki-sidebar.html\">VIKI</a></li>\n  <li><a href=\"http://www.eastgate.com/Tinderbox/\">Tinderbox</a></li>\n  <li><a href=\"https://www.nuclino.com/\">Nuclino</a> </li>\n  <li><a href=\"https://graphcommons.com/\">Graph Commons</a></li>\n</ul>\n\n<p>Please join the <a href=\"http://discursive.adamprocter.co.uk/2017/12/26/spatial-ui.html\">discussion here</a> and post any interesting spatial interfaces.</p>\n\n<p>As an aside, Frode Hegland in his web science PhD is also undertaking some work in this field with what he calls <a href=\"https://www.youtube.com/watch?v=vcs6umMYg9k\">liquid views</a>. This is an interactive way to work with a text document as a researcher.</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/e15cfc7c38.jpg\" width=\"600\" height=\"212\" /><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/e79e9b6286.jpg\" width=\"600\" height=\"295\" /><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/6dfa67885a.jpg\" width=\"600\" height=\"341\" /></p>\n",
+			"date_published": "2017-12-26T19:05:00Z",
+			"url": "https://discursive.adamprocter.co.uk/2017/12/26/190544.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2017/12/26/mega-burger-afcwimbledon.html",
 	      	
 			"content_html": "<p>Mega burger @afcwimbledon @officialpompey #boxingdayfootball #coyd</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/6adffd74df.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-12-26T13:48:00Z",
 			"url": "https://discursive.adamprocter.co.uk/2017/12/26/mega-burger-afcwimbledon.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/12/26/spatial-ui.html",
-	      	
-			"title": "Spatial UI",
-			
-			"content_html": "<p>One of the areas of investigation for my PhD project revolves around spatial user interfaces and connected to this the concept of spatial hypertext. I will be writing in more detail about this however there is little that seems to have advanced in this regard since the mid 2000’s and so I would like to pin down some more current and interesting examples. A key thing is that a spatial interface is not to be confused with a concept map, although there are similarities, a spatial interface is a way to arrange collections of different objects and draw connections between them visually and spatially. I am concerned with a thinking tool to help work out relational information design. Here is a piece on information design I previously <a href=\"http://researchnot.es/7_information_design\">wrote</a>.</p>\n\n<p>Two keys texts are the following;</p>\n\n<ul>\n  <li>Marshall, C.C. &amp; Frank M Shipman, I., 1999.<a href=\"http://cs.brown.edu/memex/ACM%5C_HypertextTestbed/papers/37.html\"> Spatial Hypertext: An Alternative to Navigational and Semantic Links</a>. pp.1–5.</li>\n  <li>Bernstein, M., 2013. <a href=\"http://students.ecs.soton.ac.uk/mwra1g13/msc/comp6045/pdfs/Bernstein%20-%20Can%20We%20Talk%20about%20Spatial%20Hypertext.pdf\">Can We Talk about Spatial Hypertext?</a>, pp.1–10.</li>\n</ul>\n\n<p>However what I am keen to gather in the first instance is more examples of spatial interfaces. Here are my starters.</p>\n\n<ul>\n  <li>Aquanet</li>\n  <li><a href=\"http://csdl.tamu.edu/~marshall/viki-sidebar.html\">VIKI</a></li>\n  <li><a href=\"http://www.eastgate.com/Tinderbox/\">Tinderbox</a></li>\n  <li><a href=\"https://www.nuclino.com/\">Nuclino</a> </li>\n  <li><a href=\"https://graphcommons.com/\">Graph Commons</a></li>\n</ul>\n\n<p>Please join the <a href=\"http://discursive.adamprocter.co.uk/2017/12/26/spatial-ui.html\">discussion here</a> and post any interesting spatial interfaces.</p>\n\n<p>As an aside, Frode Hegland in his web science PhD is also undertaking some work in this field with what he calls <a href=\"https://www.youtube.com/watch?v=vcs6umMYg9k\">liquid views</a>. This is an interactive way to work with a text document as a researcher.</p>\n\n",
-			"date_published": "2017-12-26T11:02:00Z",
-			"url": "https://discursive.adamprocter.co.uk/2017/12/26/spatial-ui.html"
 		},
 		
 		{
