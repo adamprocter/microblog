@@ -22,5 +22,5 @@ However what I am keen to gather in the first instance is more examples of spati
 
 Please join the [discussion here](http://discursive.adamprocter.co.uk/2017/12/26/spatial-ui.html) and post any interesting spatial interfaces.
 
-As an aside, Frode Hegland also undertaking a web science PhD is also undertaking some work in this field with what he calls [liquid views](https://www.youtube.com/watch?v=vcs6umMYg9k). This is an interactive way to work with a text document as a researcher.
+As an aside, Frode Hegland in his web science PhD is also undertaking some work in this field with what he calls [liquid views](https://www.youtube.com/watch?v=vcs6umMYg9k). This is an interactive way to work with a text document as a researcher.
 
