@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2018/01/02/spoke-to-soon.html",
+	      	
+			"content_html": "<p>Spoke to soon it is now … WORKING!!!! Wooo. Open Source code online at gitlab.adamprocter.co.uk Free v1 app online soon. #procterphd</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/e5e084624f.jpg\" width=\"600\" height=\"415\" /></p>\n",
+			"date_published": "2018-01-02T19:18:00Z",
+			"url": "https://discursive.adamprocter.co.uk/2018/01/02/spoke-to-soon.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/01/02/able-to-screen.html",
+	      	
+			"content_html": "<p>Able to screen capture from an iOS device now and thus preview front camera but not scaling the input or landscape yet ☹️close #procterphd</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/54953238a4.jpg\" width=\"600\" height=\"454\" /></p>\n",
+			"date_published": "2018-01-02T19:08:00Z",
+			"url": "https://discursive.adamprocter.co.uk/2018/01/02/able-to-screen.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2018/01/02/noticing-less-bugs.html",
 	      	
 			"content_html": "<p>Noticing less bugs ok your windscreen these days? Well the answer is simple, a massive decline in insects 🕷 and that’s not good 🐞 - <a href=\"http://dctr.pro/230\">dctr.pro/230</a></p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>Trying to make a little Swift app to support my YouTube channel in Ikea so Mother in law happy too. #procterphd subscribe to my YouTube at dctr.pro/youtube</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2017/472c9bb592.jpg\" width=\"600\" height=\"508\" /></p>\n",
 			"date_published": "2017-12-30T19:38:00Z",
 			"url": "https://discursive.adamprocter.co.uk/2017/12/30/trying-to-make.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/12/30/have-managed-to.html",
-	      	
-			"content_html": "<p>Have managed to get simple Swift macOS App using Facetime camera but I want to use the iPhone X camera connected via USB…. is this possible or should I use Airplay ? <a href=\"https://stackoverflow.com/questions/47927191/macos-app-using-iphone-camera\">stackoverflow.com/questions…</a></p>\n",
-			"date_published": "2017-12-30T17:53:00Z",
-			"url": "https://discursive.adamprocter.co.uk/2017/12/30/have-managed-to.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/12/30/please-subscribe-to.html",
-	      	
-			"content_html": "<p>Please subscribe to my new youtube channel. \nShort clips about my ui/ux/ design thinking research and games design.</p>\n\n<p><a href=\"http://dctr.pro/youtube\">dctr.pro/youtube</a>\nAdam Procter - designer-practitioner-researcher</p>\n",
-			"date_published": "2017-12-30T14:12:00Z",
-			"url": "https://discursive.adamprocter.co.uk/2017/12/30/please-subscribe-to.html"
 		}
 		
 	]
