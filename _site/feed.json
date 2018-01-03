@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2018/01/03/game-plan-board.html",
+	      	
+			"content_html": "<p>Game Plan - Board Games Rediscovered. (at @SeaCityMuseum in Southampton, Hampshire) <a href=\"https://www.swarmapp.com/c/c7RqWcwbvpb\">www.swarmapp.com/c/c7RqWcw…</a> #gameplan</p>\n",
+			"date_published": "2018-01-03T14:06:00Z",
+			"url": "https://discursive.adamprocter.co.uk/2018/01/03/game-plan-board.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2018/01/03/yesterday-found-someone.html",
 	      	
 			"content_html": "<p>Yesterday found someone on Apple developer forum with exactly the same bug I have. Replied to see if they had found a fix… cannot locate said message grrrrr. It’s odd to say the least. <a href=\"https://gitlab.adamprocter.co.uk/adamprocter/DeviceMonitor/issues/3\">gitlab.adamprocter.co.uk/adamproct…</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Decentralisation round up of projects 2017 - <a href=\"http://dctr.pro/22y\">dctr.pro/22y</a></p>\n",
 			"date_published": "2017-12-31T12:15:00Z",
 			"url": "https://discursive.adamprocter.co.uk/2017/12/31/decentralisation-round-up.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2017/12/31/excellent-gdc-talk.html",
-	      	
-			"content_html": "<p>Excellent GDC talk on why we need game hardware emulation to archive and save amazing games - <a href=\"http://dctr.pro/22x\">dctr.pro/22x</a></p>\n",
-			"date_published": "2017-12-31T11:26:00Z",
-			"url": "https://discursive.adamprocter.co.uk/2017/12/31/excellent-gdc-talk.html"
 		}
 		
 	]
