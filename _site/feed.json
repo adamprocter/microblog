@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2018/01/03/sept-videogames-a.html",
+	      	
+			"content_html": "<h1 id=\"sept-2018\">Sept 2018</h1>\n<p>Videogames: A major exhibition revealing the complexity of videogames as one of the most important design fields of our time. V&amp;A London - <a href=\"http://dctr.pro/232\">dctr.pro/232</a></p>\n",
+			"date_published": "2018-01-03T22:23:00Z",
+			"url": "https://discursive.adamprocter.co.uk/2018/01/03/sept-videogames-a.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2018/01/03/swift-macos-friends.html",
 	      	
 			"content_html": "<p>Swift macOS friends would you like to look at weird bug? I need to have QuickTime open to get iOS device “seen” to mirror in my own app? - <a href=\"https://gitlab.adamprocter.co.uk/adamprocter/DeviceMonitor\">gitlab.adamprocter.co.uk/adamproct…</a> / <a href=\"[gitlab.adamprocter.co.uk/adamproct...](https://gitlab.adamprocter.co.uk/adamprocter/DeviceMonitor)/issues/3\">issue</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Noticing less bugs ok your windscreen these days? Well the answer is simple, a massive decline in insects 🕷 and that’s not good 🐞 - <a href=\"http://dctr.pro/230\">dctr.pro/230</a></p>\n",
 			"date_published": "2018-01-02T14:20:00Z",
 			"url": "https://discursive.adamprocter.co.uk/2018/01/02/noticing-less-bugs.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/01/02/need-to-make.html",
-	      	
-			"content_html": "<p>Need to make a concerted effort to get micro blog favourites with links into Pinboard. Last week of holiday so need to try and be productive. Also mega tip run required. </p>\n",
-			"date_published": "2018-01-02T11:04:00Z",
-			"url": "https://discursive.adamprocter.co.uk/2018/01/02/need-to-make.html"
 		}
 		
 	]
