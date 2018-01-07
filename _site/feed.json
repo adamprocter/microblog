@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2018/01/07/facebook-et-al.html",
+	      	
+			"content_html": "<p>Facebook et al. It’s not advertising, it’s statistical behaviour-modification - <a href=\"http://dctr.pro/236\">dctr.pro/236</a> via @thoughtshrapnal</p>\n",
+			"date_published": "2018-01-07T11:22:00Z",
+			"url": "https://discursive.adamprocter.co.uk/2018/01/07/facebook-et-al.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2018/01/07/come-on-you.html",
 	      	
 			"content_html": "<p>Come on you Dons - Off to Wembley. #coyd @afc_wimbledon</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/ec39fadf90.jpg\" width=\"393\" height=\"403\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<h1 id=\"sept-2018\">Sept 2018</h1>\n<p>Videogames: A major exhibition revealing the complexity of videogames as one of the most important design fields of our time. V&amp;A London - <a href=\"http://dctr.pro/232\">dctr.pro/232</a></p>\n",
 			"date_published": "2018-01-03T22:23:00Z",
 			"url": "https://discursive.adamprocter.co.uk/2018/01/03/sept-videogames-a.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/01/03/swift-macos-friends.html",
-	      	
-			"content_html": "<p>Swift macOS friends would you like to look at weird bug? I need to have QuickTime open to get iOS device “seen” to mirror in my own app? - <a href=\"https://gitlab.adamprocter.co.uk/adamprocter/DeviceMonitor\">gitlab.adamprocter.co.uk/adamproct…</a> / <a href=\"[gitlab.adamprocter.co.uk/adamproct...](https://gitlab.adamprocter.co.uk/adamprocter/DeviceMonitor)/issues/3\">issue</a></p>\n",
-			"date_published": "2018-01-03T16:49:00Z",
-			"url": "https://discursive.adamprocter.co.uk/2018/01/03/swift-macos-friends.html"
 		}
 		
 	]
