@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2018/01/09/lyon-m-hafner.html",
+	      	
+			"content_html": "<p>Lyon, M., &amp; Hafner, K. (1999). Where Wizards Stay Up Late. Simon and Schuster.</p>\n\n<p>If your interested in the history of the internet this book is excellent. 📚 </p>\n\n",
+			"date_published": "2018-01-09T21:57:00Z",
+			"url": "https://discursive.adamprocter.co.uk/2018/01/09/lyon-m-hafner.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2018/01/09/control-of-the.html",
 	      	
 			"title": "Control of the web disguised as speeding up the web. Google AMP",
@@ -77,14 +85,6 @@
 			"content_html": "<p>Facebook et al. It’s not advertising, it’s statistical behaviour-modification - <a href=\"http://dctr.pro/236\">dctr.pro/236</a> via @thoughtshrapnal</p>\n",
 			"date_published": "2018-01-07T11:22:00Z",
 			"url": "https://discursive.adamprocter.co.uk/2018/01/07/facebook-et-al.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/01/07/come-on-you.html",
-	      	
-			"content_html": "<p>Come on you Dons - Off to Wembley. #coyd @afc_wimbledon</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/ec39fadf90.jpg\" width=\"393\" height=\"403\" /></p>\n",
-			"date_published": "2018-01-07T09:12:00Z",
-			"url": "https://discursive.adamprocter.co.uk/2018/01/07/come-on-you.html"
 		}
 		
 	]
