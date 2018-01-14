@@ -1,0 +1,7 @@
+---
+layout: post
+microblog: true
+date: 2018-01-14 21:33 -0000
+guid: http://adamprocter.micro.blog/2018/01/14/barcelona-to-go.html
+---
+Barcelona to go open source by 2019 - [dctr.pro/23b](http://dctr.pro/23b)
