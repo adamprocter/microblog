@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2018/01/17/thanks-to-danielashton.html",
+	      	
+			"content_html": "<p>Thanks to @DanielAshton for inviting me to talk @winchesterart about “research with a small r” &amp; embedding creativity in practice based ba games design &amp; art. Etherpad document (welcome comment/input) with links to slides, recording and resources here - <a href=\"http://dctr.pro/smallr\">dctr.pro/smallr</a></p>\n",
+			"date_published": "2018-01-17T17:34:00Z",
+			"url": "https://discursive.adamprocter.co.uk/2018/01/17/thanks-to-danielashton.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2018/01/16/so-frustrated-with.html",
 	      	
 			"content_html": "<p>So frustrated with new @bbciplayer layout on PS4. Just can’t find anything anymore :( </p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>Within BA (Hons) Games Design &amp; Art in Winchester, UK each year we host numerous user testing events dressed up as parties for anyone to come, test &amp; see what our students get up to. View the list for <a href=\"https://medium.com/p/ba-hons-games-design-art-events-2018-bd81bab15e2a\">2018</a></p>\n",
 			"date_published": "2018-01-09T18:31:00Z",
 			"url": "https://discursive.adamprocter.co.uk/2018/01/09/within-ba-hons.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/01/09/mainly-patching-my.html",
-	      	
-			"content_html": "<p>Mainly patching my servers, services and my Macs today to kick off #procterphd day <a href=\"https://spectreattack.com/\">spectreattack.com</a></p>\n",
-			"date_published": "2018-01-09T10:51:00Z",
-			"url": "https://discursive.adamprocter.co.uk/2018/01/09/mainly-patching-my.html"
 		}
 		
 	]
