@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2018/01/20/godot-engine-dev.html",
+	      	
+			"content_html": "<p><a href=\"https://godotengine.org/article/dev-snapshot-godot-3-0-rc-2\">Godot Engine - Dev snapshot: Godot 3.0 RC 2</a></p>\n",
+			"date_published": "2018-01-20T21:15:00Z",
+			"url": "https://discursive.adamprocter.co.uk/2018/01/20/godot-engine-dev.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2018/01/20/from-edutech-data.html",
 	      	
 			"content_html": "<p>From Edutech Data to Eugenics. We should be worried about data driven education agendas &amp; Silicon Valley - <a href=\"http://researchnot.es/14_EdutechData\">researchnot.es/14_Edutec…</a> cc @aral</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>2018 conferences left of “mildly critical of capitalism” - <a href=\"http://dctr.pro/23d\">dctr.pro/23d</a></p>\n",
 			"date_published": "2018-01-15T21:28:00Z",
 			"url": "https://discursive.adamprocter.co.uk/2018/01/15/conferences-left-of.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/01/14/barcelona-to-go.html",
-	      	
-			"content_html": "<p>Barcelona to go open source by 2019 - <a href=\"http://dctr.pro/23b\">dctr.pro/23b</a></p>\n",
-			"date_published": "2018-01-14T21:33:00Z",
-			"url": "https://discursive.adamprocter.co.uk/2018/01/14/barcelona-to-go.html"
 		}
 		
 	]
