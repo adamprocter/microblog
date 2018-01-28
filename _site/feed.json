@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2018/01/28/facebooks-suggested-posts.html",
+	      	
+			"content_html": "<p>Facebooks suggested posts are getting more &amp; more creepy. The latest seem to know private Apple message conversations. Need to try and work out where and when they are actually scrapping data. It’s very odd. </p>\n",
+			"date_published": "2018-01-28T13:37:00Z",
+			"url": "https://discursive.adamprocter.co.uk/2018/01/28/facebooks-suggested-posts.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2018/01/27/its-important-to.html",
 	      	
 			"content_html": "<p>It’s important to rememeber that WallMart only started to care about organic food when it made profit sense. Not because they care. Facebook is doing a similar thing right now. </p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Was only away for 1.5 days. Cats seem to have missed me #rosiethecat #marmaladethecat</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/91240b4dcc.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-21T18:08:00Z",
 			"url": "https://discursive.adamprocter.co.uk/2018/01/21/was-only-away.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/01/21/need-to-think.html",
-	      	
-			"content_html": "<p>Need to think more on this but the age of distraction could well hinder real progress. We must get off and away from our devices regularly &amp; let our minds wander, to pause in thought, to ruminate on something, this is not about mindfulness, this is about distraction free thinking</p>\n",
-			"date_published": "2018-01-21T11:09:00Z",
-			"url": "https://discursive.adamprocter.co.uk/2018/01/21/need-to-think.html"
 		}
 		
 	]
