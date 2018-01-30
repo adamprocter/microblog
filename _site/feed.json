@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2018/01/30/bozarth-j-show.html",
+	      	
+			"content_html": "<p>Bozarth, J., 2014. Show Your Work, John Wiley &amp; Sons.  📚</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/e62c73b85b.jpg\" width=\"600\" height=\"538\" /></p>\n",
+			"date_published": "2018-01-30T15:49:00Z",
+			"url": "https://discursive.adamprocter.co.uk/2018/01/30/bozarth-j-show.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/01/30/what-i-learned.html",
+	      	
+			"content_html": "<p>“What I learned from the first HCI Designer at Apple” - <a href=\"http://dctr.pro/23s\">dctr.pro/23s</a></p>\n",
+			"date_published": "2018-01-30T09:09:00Z",
+			"url": "https://discursive.adamprocter.co.uk/2018/01/30/what-i-learned.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/01/30/the-laws-of.html",
+	      	
+			"content_html": "<p><strong>The Laws of UX</strong>. Neat collection of UX maxims and principles that designers can consider when building user interfaces.\n- <a href=\"http://dctr.pro/23r\">dctr.pro/23r</a></p>\n",
+			"date_published": "2018-01-30T09:05:00Z",
+			"url": "https://discursive.adamprocter.co.uk/2018/01/30/the-laws-of.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2018/01/30/godot-game-engine.html",
 	      	
 			"content_html": "<p>Godot 3 (game engine) RC3 is out. Give it a try as it might be the last RC before stable.</p>\n\n<ul>\n  <li><a href=\"https://godotengine.org/article/dev-snapshot-godot-3-0-rc-3\">godotengine.org/article/d…</a></li>\n</ul>\n",
@@ -61,30 +85,6 @@
 			"content_html": "<p>It’s important to rememeber that WallMart only started to care about organic food when it made profit sense. Not because they care. Facebook is doing a similar thing right now. </p>\n",
 			"date_published": "2018-01-27T22:08:00Z",
 			"url": "https://discursive.adamprocter.co.uk/2018/01/27/its-important-to.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/01/26/225248.html",
-	      	
-			"content_html": "<p>Google home - Evil</p>\n\n<p>Alexa - Evil</p>\n\n<p>HomePod - Siri</p>\n\n<p>Come on when we gonna get a good choice !</p>\n",
-			"date_published": "2018-01-26T22:52:00Z",
-			"url": "https://discursive.adamprocter.co.uk/2018/01/26/225248.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/01/26/of-course-ive.html",
-	      	
-			"content_html": "<p>Of course I’ve just been wearing this “random” games tshirt since I picked it up at Women in Games event. Today grabbed it random and it was the day to wear it. kudos from students until I was like “oh it’s monster hunter hahaha didn’t know” and don’t even talk to me about the fall out top mistake. #gamesgamesgames 😂</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/2b288d68e0.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-26T22:19:00Z",
-			"url": "https://discursive.adamprocter.co.uk/2018/01/26/of-course-ive.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/01/26/unsure-how-manthyprocter.html",
-	      	
-			"content_html": "<p>Unsure how @manthyprocter can locate the most insane modes on our TV. However I have set up a step by step web guide to use our TVs. Hehehe</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/23a4f40a36.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-26T21:24:00Z",
-			"url": "https://discursive.adamprocter.co.uk/2018/01/26/unsure-how-manthyprocter.html"
 		}
 		
 	]
