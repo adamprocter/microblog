@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2018/01/30/testing-sunlit-beta.html",
+	      	
+			"title": "Testing Sunlit Beta swarm Location",
+			
+			"content_html": "<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/fc9ff1d121.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" /></p>\n\n<p>Ravensbourne College: Arrived as External Advisor on revalidation of two courses.</p>\n\n",
+			"date_published": "2018-01-30T21:45:00Z",
+			"url": "https://discursive.adamprocter.co.uk/2018/01/30/testing-sunlit-beta.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2018/01/30/bozarth-j-show.html",
 	      	
 			"content_html": "<p>Bozarth, J., 2014. Show Your Work, John Wiley &amp; Sons.  📚</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/e62c73b85b.jpg\" width=\"600\" height=\"538\" /></p>\n",
@@ -77,14 +87,6 @@
 			"content_html": "<p>Facebooks suggested posts are getting more &amp; more creepy. The latest seem to know private Apple message conversations. Need to try and work out where and when they are actually scrapping data. It’s very odd. </p>\n",
 			"date_published": "2018-01-28T13:37:00Z",
 			"url": "https://discursive.adamprocter.co.uk/2018/01/28/facebooks-suggested-posts.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/01/27/its-important-to.html",
-	      	
-			"content_html": "<p>It’s important to rememeber that WallMart only started to care about organic food when it made profit sense. Not because they care. Facebook is doing a similar thing right now. </p>\n",
-			"date_published": "2018-01-27T22:08:00Z",
-			"url": "https://discursive.adamprocter.co.uk/2018/01/27/its-important-to.html"
 		}
 		
 	]
