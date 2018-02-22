@@ -6,6 +6,24 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2018/02/22/trending-is-nonsense.html",
+	      	
+			"content_html": "<p>Trending is nonsense. People with ill motives game the system. Be that sell you stuff or promote for there own financial gains. <a href=\"https://micro.inessential.com/2018/02/22/pixel-envy-nick.html\">micro.inessential.com</a></p>\n",
+			"date_published": "2018-02-22T21:45:00Z",
+			"url": "https://discursive.adamprocter.co.uk/2018/02/22/trending-is-nonsense.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/02/22/short-internal-phd.html",
+	      	
+			"title": "Short internal PhD Presentation Feb 2018",
+			
+			"content_html": "<iframe src=\"//slides.com/adamprocter/deck-1/embed\" width=\"576\" height=\"420\" scrolling=\"no\" frameborder=\"0\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" allowfullscreen=\"\"></iframe>\n<p>Slidedeck from my short 15min presentation on my PhD Progress so far.\nSpecific discussion and feedback welcome on my discourse <a href=\"https://discourse.adamprocter.co.uk/t/short-phd-presentation-feb-2018/188\">here</a></p>\n\n<h2 id=\"audio\">Audio</h2>\n<ul>\n  <li>MP4 Audio <a href=\"http://go.inkubator.io/video/presentation/present_audio.mp4\">recording</a> from the session.</li>\n</ul>\n\n<h2 id=\"links-from-final-slide\">Links from final slide</h2>\n<ul>\n  <li><a href=\"[discursive.adamprocter.co.uk](http://discursive.adamprocter.co.uk)]\">discursive.adamprocter.co.uk</a> - micro.blog</li>\n  <li><a href=\"http://fragmentum.adamprocter.co.uk\">fragmentum.adamprocter.co.uk</a> - microcast</li>\n  <li><a href=\"http://researchnot.es\">researchnot.es</a> – writings</li>\n  <li><a href=\"[dlls.adamprocter.co.uk](http://dlls.adamprocter.co.uk)]\">dlls.adamprocter.co.uk</a> - 12 month report</li>\n  <li><a href=\"http://periodical.adamprocter.co.uk\">periodical.adamprocter.co.uk</a> – newsletter</li>\n</ul>\n",
+			"date_published": "2018-02-22T11:36:00Z",
+			"url": "https://discursive.adamprocter.co.uk/2018/02/22/short-internal-phd.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2018/02/20/sunlit-beta-and.html",
 	      	
 			"content_html": "<p>Sunlit (beta) and micro.blog could be the future for me. At $5 per month they smash Instagram and Twitter out of the water. </p>\n\n<ul>\n  <li><a href=\"http://micro.blog\">micro.blog</a></li>\n  <li><a href=\"http://www.manton.org/2017/06/preview-of-sunlit-2-0.html\">www.manton.org/2017/06/p…</a></li>\n</ul>\n",
@@ -189,22 +207,6 @@
 			"content_html": "<p>Day of NSS. #gamesdesign #shapethefuture #takingovertheworldonegameatatime @ploopyie @isikogame</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/f8ee9c924f.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-02-09T12:08:00Z",
 			"url": "https://discursive.adamprocter.co.uk/2018/02/09/day-of-nss.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/02/07/yes-yes-yes.html",
-	      	
-			"content_html": "<p>Yes yes yes - I hope to be counted among these people soon as should <a href=\"https://micro.blog/manton\">@manton</a> already ! </p>\n\n<table>\n  <tbody>\n    <tr>\n      <td>The punk rock internet – how DIY ​​rebels ​are working to ​replace the tech giants</td>\n      <td>Technology</td>\n      <td>The Guardian <a href=\"http://dctr.pro/245\">dctr.pro/245</a> #procterphd</td>\n    </tr>\n  </tbody>\n</table>\n",
-			"date_published": "2018-02-07T19:12:00Z",
-			"url": "https://discursive.adamprocter.co.uk/2018/02/07/yes-yes-yes.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/02/07/super-fun-breakdown.html",
-	      	
-			"content_html": "<p>Super fun breakdown of website redesign for lynnandtonic.com. Lynn really pushes the CSS grid and concepts of responsive web design in a neat way check it out. <a href=\"http://dctr.pro/244\">dctr.pro/244</a></p>\n",
-			"date_published": "2018-02-07T09:39:00Z",
-			"url": "https://discursive.adamprocter.co.uk/2018/02/07/super-fun-breakdown.html"
 		}
 		
 	]
