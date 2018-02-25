@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2018/02/25/at-irish-dancing.html",
+	      	
+			"content_html": "<p>At Irish Dancing</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/e18b6fc6e1.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-25T17:20:00Z",
+			"url": "https://discursive.adamprocter.co.uk/2018/02/25/at-irish-dancing.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2018/02/25/creative-people-have.html",
 	      	
 			"content_html": "<blockquote>\n  <p>Creative people have to be protected. They have to be isolated in a way, from all the other stuff that comes up during a work day. They can’t be called into meetings that are unrelated to this serious problem that they’re trying to address.  </p>\n</blockquote>\n\n<ul>\n  <li><a href=\"http://dctr.pro/24e\">dctr.pro/24e</a></li>\n</ul>\n",
@@ -201,14 +209,6 @@
 			"content_html": "<p>Lost 2-4 away not good. Could have been 4-4 by the sounds of it with one offside &amp; a saved penalty 😞 I think this will be the battle for the rest of this season and (if we stay up) next season as well. New stadium please ⚽️ <a href=\"http://afcdons.net\">afcdons.net</a> @afcwimbledon #coyd</p>\n",
 			"date_published": "2018-02-13T22:27:00Z",
 			"url": "https://discursive.adamprocter.co.uk/2018/02/13/lost-away-not.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/02/13/join-me-in.html",
-	      	
-			"content_html": "<p>Join me in following this newsletter? 👀  <a href=\"https://www.getrevue.co/profile/vuenewsletter\">www.getrevue.co/profile/v…</a> via @revue </p>\n",
-			"date_published": "2018-02-13T12:56:00Z",
-			"url": "https://discursive.adamprocter.co.uk/2018/02/13/join-me-in.html"
 		}
 		
 	]
