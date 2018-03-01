@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2018/03/01/snow-day-excitingtimesatwsa.html",
+	      	
+			"content_html": "<p>Snow day #excitingtimesatwsa</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/ce25d7becd.jpg\" width=\"600\" height=\"449\" /></p>\n",
+			"date_published": "2018-03-01T21:26:00Z",
+			"url": "https://discursive.adamprocter.co.uk/2018/03/01/snow-day-excitingtimesatwsa.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/03/01/work-closed-slide.html",
+	      	
+			"content_html": "<p>Work closed slide home and parked at the bottom of the hill. ⛄️ 🚙 </p>\n",
+			"date_published": "2018-03-01T16:41:00Z",
+			"url": "https://discursive.adamprocter.co.uk/2018/03/01/work-closed-slide.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/03/01/warm-i-am.html",
+	      	
+			"content_html": "<p>“Warm I am, yes” #snowday photo via @ririrocket</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/fba3037eda.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-01T15:13:00Z",
+			"url": "https://discursive.adamprocter.co.uk/2018/03/01/warm-i-am.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2018/03/01/snow-yoda.html",
 	      	
 			"content_html": "<p>Snow yoda.</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/e68db1461f.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -183,30 +207,6 @@
 			"content_html": "<iframe src=\"//slides.com/adamprocter/deck-1/embed\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" allowfullscreen=\"\"></iframe>\n<p>Slidedeck from my short 15min presentation on my PhD Progress so far.\nSpecific discussion and feedback welcome on my discourse <a href=\"https://discourse.adamprocter.co.uk/t/short-phd-presentation-feb-2018/188\">here</a></p>\n\n<h2 id=\"audio\">Audio</h2>\n<ul>\n  <li>MP4 Audio <a href=\"http://go.inkubator.io/video/presentation/present_audio.mp4\">recording</a> from the session.</li>\n</ul>\n\n<h2 id=\"links-from-final-slide\">Links from final slide</h2>\n<ul>\n  <li><a href=\"http://discursive.adamprocter.co.uk\">discursive.adamprocter.co.uk</a> - micro.blog</li>\n  <li><a href=\"http://fragmentum.adamprocter.co.uk\">fragmentum.adamprocter.co.uk</a> - microcast</li>\n  <li><a href=\"http://researchnot.es\">researchnot.es</a> – writings</li>\n  <li><a href=\"http://dlls.adamprocter.co.uk\">dlls.adamprocter.co.uk</a> - 12 month report</li>\n  <li><a href=\"http://periodical.adamprocter.co.uk\">periodical.adamprocter.co.uk</a> – newsletter</li>\n</ul>\n",
 			"date_published": "2018-02-22T11:36:00Z",
 			"url": "https://discursive.adamprocter.co.uk/2018/02/22/short-internal-phd.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/02/20/sunlit-beta-and.html",
-	      	
-			"content_html": "<p>Sunlit (beta) and micro.blog could be the future for me. At $5 per month they smash Instagram and Twitter out of the water. </p>\n\n<ul>\n  <li><a href=\"http://micro.blog\">micro.blog</a></li>\n  <li><a href=\"http://www.manton.org/2017/06/preview-of-sunlit-2-0.html\">www.manton.org/2017/06/p…</a></li>\n</ul>\n",
-			"date_published": "2018-02-20T09:20:00Z",
-			"url": "https://discursive.adamprocter.co.uk/2018/02/20/sunlit-beta-and.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/02/19/repost-gamesdesignart-with.html",
-	      	
-			"content_html": "<h1 id=\"repost-gamesdesignart-with-getrepost\">Repost @gamesdesignart with @get_repost</h1>\n<p>・・・\nEarly animation test from Elateth local competitive space fun @tendersbyelateth is now prototyping in #godotengine 3. Pretty #excitingtimesatwsa for sure #indiedev #gamesdesignart #WSAxARCADE</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/f27b39b096.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-19T23:57:00Z",
-			"url": "https://discursive.adamprocter.co.uk/2018/02/19/repost-gamesdesignart-with.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/02/18/march.html",
-	      	
-			"content_html": "<p>March 😊</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/e0aabefa91.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-18T19:01:00Z",
-			"url": "https://discursive.adamprocter.co.uk/2018/02/18/march.html"
 		}
 		
 	]
