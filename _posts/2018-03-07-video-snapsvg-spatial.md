@@ -1,0 +1,9 @@
+---
+layout: post
+microblog: true
+date: 2018-03-07 22:02 -0000
+guid: http://adamprocter.micro.blog/2018/03/07/video-snapsvg-spatial.html
+---
+VIDEO : SnapSVG spatial interface still some bugs but I quite like how quick it came together.  #procterphd #spatialinterface #hypermedia #spatialhypertext #knowledgegraph
+
+<img src="http://discursive.adamprocter.co.uk/uploads/2018/3ba4ce76f8.jpg" width="600" height="600" />
