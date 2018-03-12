@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-11-19 21:50 -0000
 guid: http://adamprocter.micro.blog/2017/11/19/good-week-for.html
 ---
