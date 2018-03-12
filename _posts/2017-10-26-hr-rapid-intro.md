@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-10-26 22:56 -0000
 guid: http://adamprocter.micro.blog/2017/10/26/hr-rapid-intro.html
 ---
