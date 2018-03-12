@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-02-27 18:13 -0000
 guid: http://adamprocter.micro.blog/2018/02/27/thanks-again-adamrosserradio.html
 ---
