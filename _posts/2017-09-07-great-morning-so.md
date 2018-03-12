@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-09-07 13:23 -0000
 guid: http://adamprocter.micro.blog/2017/09/07/great-morning-so.html
 ---
