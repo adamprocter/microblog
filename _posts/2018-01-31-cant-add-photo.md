@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-31 22:49 -0000
 guid: http://adamprocter.micro.blog/2018/01/31/cant-add-photo.html
 ---
