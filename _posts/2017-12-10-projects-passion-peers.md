@@ -2,6 +2,7 @@
 layout: post
 title: "Projects, Passion, Peers and Play"
 microblog: false
+audio: 
 date: 2017-12-10 13:38 -0000
 guid: http://adamprocter.micro.blog/2017/12/10/projects-passion-peers.html
 ---
