@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-12-06 21:25 -0000
 guid: http://adamprocter.micro.blog/2017/12/06/guidebook-graphical-user.html
 ---
