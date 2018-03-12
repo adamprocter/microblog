@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-03-10 19:55 -0000
 guid: http://adamprocter.micro.blog/2018/03/10/new-stand-for.html
 ---
