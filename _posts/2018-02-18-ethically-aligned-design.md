@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-02-18 14:15 -0000
 guid: http://adamprocter.micro.blog/2018/02/18/ethically-aligned-design.html
 ---
