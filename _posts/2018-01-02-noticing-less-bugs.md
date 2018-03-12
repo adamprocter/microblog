@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-02 14:20 -0000
 guid: http://adamprocter.micro.blog/2018/01/02/noticing-less-bugs.html
 ---
