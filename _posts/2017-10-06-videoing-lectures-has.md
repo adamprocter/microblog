@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-10-06 07:48 -0000
 guid: http://adamprocter.micro.blog/2017/10/06/videoing-lectures-has.html
 ---
