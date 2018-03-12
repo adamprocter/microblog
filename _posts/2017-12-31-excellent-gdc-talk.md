@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-12-31 11:26 -0000
 guid: http://adamprocter.micro.blog/2017/12/31/excellent-gdc-talk.html
 ---
