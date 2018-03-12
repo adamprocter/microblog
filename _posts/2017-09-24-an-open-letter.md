@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-09-24 08:31 -0000
 guid: http://adamprocter.micro.blog/2017/09/24/an-open-letter.html
 ---
