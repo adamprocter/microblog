@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-30 15:49 -0000
 guid: http://adamprocter.micro.blog/2018/01/30/bozarth-j-show.html
 ---
