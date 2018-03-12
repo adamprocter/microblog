@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-02-22 21:45 -0000
 guid: http://adamprocter.micro.blog/2018/02/22/trending-is-nonsense.html
 ---
