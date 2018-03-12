@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-07-25 22:52 -0000
 guid: http://adamprocter.micro.blog/2017/07/25/flash-is-eol.html
 ---
