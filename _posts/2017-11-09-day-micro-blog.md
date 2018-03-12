@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-11-09 19:00 -0000
 guid: http://adamprocter.micro.blog/2017/11/09/day-micro-blog.html
 ---
