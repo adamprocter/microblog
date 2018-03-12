@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-10-20 19:46 -0000
 guid: http://adamprocter.micro.blog/2017/10/20/friday-favourites-is.html
 ---
