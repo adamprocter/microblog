@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-02-18 14:05 -0000
 guid: http://adamprocter.micro.blog/2018/02/18/ethical-design-is.html
 ---
