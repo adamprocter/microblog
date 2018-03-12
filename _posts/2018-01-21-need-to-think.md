@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-21 11:09 -0000
 guid: http://adamprocter.micro.blog/2018/01/21/need-to-think.html
 ---
