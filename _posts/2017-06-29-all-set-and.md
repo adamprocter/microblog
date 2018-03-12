@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-06-29 14:49 -0000
 guid: http://adamprocter.micro.blog/2017/06/29/all-set-and.html
 ---
