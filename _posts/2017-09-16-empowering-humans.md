@@ -2,6 +2,7 @@
 layout: post
 title: "Empowering humans"
 microblog: false
+audio: 
 date: 2017-09-16 15:08 -0000
 guid: http://adamprocter.micro.blog/2017/09/16/empowering-humans.html
 ---
