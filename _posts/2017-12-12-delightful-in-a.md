@@ -2,6 +2,7 @@
 layout: post
 title: "Delightful in a nice way"
 microblog: false
+audio: 
 date: 2017-12-12 19:50 -0000
 guid: http://adamprocter.micro.blog/2017/12/12/delightful-in-a.html
 ---
