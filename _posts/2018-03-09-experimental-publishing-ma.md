@@ -2,6 +2,7 @@
 layout: post
 title: "Experimental Publishing MA guest talk"
 microblog: false
+audio: 
 date: 2018-03-09 18:26 -0000
 guid: http://adamprocter.micro.blog/2018/03/09/experimental-publishing-ma.html
 ---
