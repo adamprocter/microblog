@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-11-03 17:13 -0000
 guid: http://adamprocter.micro.blog/2017/11/03/it-will-ship.html
 ---
