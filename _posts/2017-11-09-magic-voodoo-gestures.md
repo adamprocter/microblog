@@ -2,6 +2,7 @@
 layout: post
 title: "magic voodoo gestures "
 microblog: false
+audio: 
 date: 2017-11-09 18:58 -0000
 guid: http://adamprocter.micro.blog/2017/11/09/magic-voodoo-gestures.html
 ---
