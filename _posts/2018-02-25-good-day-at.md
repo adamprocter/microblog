@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-02-25 20:31 -0000
 guid: http://adamprocter.micro.blog/2018/02/25/good-day-at.html
 ---
