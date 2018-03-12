@@ -2,6 +2,7 @@
 layout: post
 title: "Re-rise of Indie web & Microblogging"
 microblog: false
+audio: 
 date: 2018-03-08 12:01 -0000
 guid: http://adamprocter.micro.blog/2018/03/08/rerise-of-indie.html
 ---
