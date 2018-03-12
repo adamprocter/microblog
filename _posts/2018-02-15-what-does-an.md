@@ -2,6 +2,7 @@
 layout: post
 title: "What does an ‘Active Blended Learning’ programme look like? "
 microblog: false
+audio: 
 date: 2018-02-15 08:55 -0000
 guid: http://adamprocter.micro.blog/2018/02/15/what-does-an.html
 ---
