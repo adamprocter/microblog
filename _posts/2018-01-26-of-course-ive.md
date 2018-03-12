@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-26 22:19 -0000
 guid: http://adamprocter.micro.blog/2018/01/26/of-course-ive.html
 ---
