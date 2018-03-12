@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-08-11 07:41 -0000
 guid: http://adamprocter.micro.blog/2017/08/11/the-biggest-lesson.html
 ---
