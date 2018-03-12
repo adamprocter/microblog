@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-03 07:34 -0000
 guid: http://adamprocter.micro.blog/2018/01/03/cant-beat-alan.html
 ---
