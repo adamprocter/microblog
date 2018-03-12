@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-09-26 18:07 -0000
 guid: http://adamprocter.micro.blog/2017/09/26/power-of-design.html
 ---
