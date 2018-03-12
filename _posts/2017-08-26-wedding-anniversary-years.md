@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-08-26 20:12 -0000
 guid: http://adamprocter.micro.blog/2017/08/26/wedding-anniversary-years.html
 ---
