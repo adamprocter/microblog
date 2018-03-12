@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-12-07 14:19 -0000
 guid: http://adamprocter.micro.blog/2017/12/07/the-essential-elements.html
 ---
