@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-07-31 21:46 -0000
 guid: http://adamprocter.micro.blog/2017/07/31/in-theory-with.html
 ---
