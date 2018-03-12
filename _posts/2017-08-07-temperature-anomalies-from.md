@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-08-07 21:38 -0000
 guid: http://adamprocter.micro.blog/2017/08/07/temperature-anomalies-from.html
 ---
