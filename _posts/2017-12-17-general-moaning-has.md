@@ -2,6 +2,7 @@
 layout: post
 title: "General moaning has no place on Micro.Blog, sorry. "
 microblog: false
+audio: 
 date: 2017-12-17 20:07 -0000
 guid: http://adamprocter.micro.blog/2017/12/17/general-moaning-has.html
 ---
