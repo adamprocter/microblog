@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-02-26 18:32 -0000
 guid: http://adamprocter.micro.blog/2018/02/26/slowly-getting-all.html
 ---
