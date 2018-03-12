@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-05 20:23 -0000
 guid: http://adamprocter.micro.blog/2018/01/05/suppose-to-be.html
 ---
