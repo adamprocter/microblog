@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-15 21:28 -0000
 guid: http://adamprocter.micro.blog/2018/01/15/conferences-left-of.html
 ---
