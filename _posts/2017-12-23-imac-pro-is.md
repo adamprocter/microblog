@@ -2,6 +2,7 @@
 layout: post
 title: "iMac Pro is out & upgradable Mac Pro next."
 microblog: false
+audio: 
 date: 2017-12-23 13:34 -0000
 guid: http://adamprocter.micro.blog/2017/12/23/imac-pro-is.html
 ---
