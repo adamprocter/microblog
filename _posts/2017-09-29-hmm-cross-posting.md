@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-09-29 22:51 -0000
 guid: http://adamprocter.micro.blog/2017/09/29/hmm-cross-posting.html
 ---
