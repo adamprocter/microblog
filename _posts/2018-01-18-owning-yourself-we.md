@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-18 17:43 -0000
 guid: http://adamprocter.micro.blog/2018/01/18/owning-yourself-we.html
 ---
