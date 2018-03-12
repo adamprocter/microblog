@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-10-27 15:49 -0000
 guid: http://adamprocter.micro.blog/2017/10/27/wonderful-o-payments.html
 ---
