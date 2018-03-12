@@ -2,6 +2,7 @@
 layout: post
 title: "Control of the web disguised as speeding up the web. Google AMP"
 microblog: false
+audio: 
 date: 2018-01-09 21:39 -0000
 guid: http://adamprocter.micro.blog/2018/01/09/control-of-the.html
 ---
