@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-08-10 15:24 -0000
 guid: http://adamprocter.micro.blog/2017/08/10/gden-episode-of.html
 ---
