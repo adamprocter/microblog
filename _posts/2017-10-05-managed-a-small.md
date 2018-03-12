@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-10-05 18:07 -0000
 guid: http://adamprocter.micro.blog/2017/10/05/managed-a-small.html
 ---
