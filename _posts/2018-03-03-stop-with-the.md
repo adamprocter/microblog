@@ -2,6 +2,7 @@
 layout: post
 title: "Stop with the Arts v Science nonsense"
 microblog: false
+audio: 
 date: 2018-03-03 14:25 -0000
 guid: http://adamprocter.micro.blog/2018/03/03/stop-with-the.html
 ---
