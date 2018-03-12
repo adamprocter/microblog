@@ -2,6 +2,7 @@
 layout: post
 title: "Detectorists finale was AMAzing"
 microblog: false
+audio: 
 date: 2017-12-13 23:56 -0000
 guid: http://adamprocter.micro.blog/2017/12/13/detectorists-finale-was.html
 ---
