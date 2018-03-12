@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-08-10 22:07 -0000
 guid: http://adamprocter.micro.blog/2017/08/10/there-are-some.html
 ---
