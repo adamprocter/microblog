@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-08-14 12:01 -0000
 guid: http://adamprocter.micro.blog/2017/08/14/enjoying-the-work.html
 ---
