@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-09-17 13:23 -0000
 guid: http://adamprocter.micro.blog/2017/09/17/ways-to-fail.html
 ---
