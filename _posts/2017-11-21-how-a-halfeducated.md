@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-11-21 12:34 -0000
 guid: http://adamprocter.micro.blog/2017/11/21/how-a-halfeducated.html
 ---
