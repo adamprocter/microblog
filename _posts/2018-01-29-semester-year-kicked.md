@@ -2,6 +2,7 @@
 layout: post
 title: "Semester 2 Year 1 Kicked Off Today"
 microblog: false
+audio: 
 date: 2018-01-29 21:48 -0000
 guid: http://adamprocter.micro.blog/2018/01/29/semester-year-kicked.html
 ---
