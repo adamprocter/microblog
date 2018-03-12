@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-12-18 18:37 -0000
 guid: http://adamprocter.micro.blog/2017/12/18/fragmentum-microcast-episode.html
 ---
