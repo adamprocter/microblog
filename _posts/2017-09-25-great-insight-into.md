@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-09-25 20:53 -0000
 guid: http://adamprocter.micro.blog/2017/09/25/great-insight-into.html
 ---
