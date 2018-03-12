@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-11-14 20:30 -0000
 guid: http://adamprocter.micro.blog/2017/11/14/what-sort-of.html
 ---
