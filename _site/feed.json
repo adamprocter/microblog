@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2018/03/23/004700.html",
+	      	
+			"content_html": "<p>Finally, <a href=\"https://instagram-press.com/blog/2018/03/22/changes-to-improve-your-instagram-feed/\">Instagram</a> is backing off of the algorithmic feed and leaning back to chronological.</p>\n",
+			"date_published": "2018-03-23T00:47:00Z",
+			"url": "https://discursive.adamprocter.co.uk/2018/03/23/004700.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/03/23/i-dont-see.html",
+	      	
+			"content_html": "<p>I don’t see how a government can take to task data gathering of a corporation when that’s the buisness model. Seems odd. We need to make decent alternatives paid or otherwise. #webmakers #indieweb #bbcqt #eff</p>\n",
+			"date_published": "2018-03-23T00:40:00Z",
+			"url": "https://discursive.adamprocter.co.uk/2018/03/23/i-dont-see.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2018/03/22/bento-the-keyboard.html",
 	      	
 			"content_html": "<p>Bento the Keyboard Cat, internet sensation and YouTube star, dies <a href=\"https://www.theguardian.com/technology/2018/mar/20/bento-keyboard-cat-youtube-dies\">Guardian link</a></p>\n",
@@ -187,24 +203,6 @@
 			"content_html": "<blockquote>\n  <p>50 million Facebook profiles harvested for Cambridge Analytica in major data breach.</p>\n</blockquote>\n\n<p><a href=\"http://dctr.pro/24u\">dctr.pro/24u</a></p>\n",
 			"date_published": "2018-03-18T14:53:00Z",
 			"url": "https://discursive.adamprocter.co.uk/2018/03/18/million-facebook-profiles.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/03/18/i-also-agree.html",
-	      	
-			"content_html": "<p>I also agree with @caseyliss the iOS keyboard has become much more stupid in picking the words I want and allowing much more mistyping. </p>\n",
-			"date_published": "2018-03-18T13:38:00Z",
-			"url": "https://discursive.adamprocter.co.uk/2018/03/18/i-also-agree.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/03/18/hey-siri.html",
-	      	
-			"title": "Hey Siri",
-			
-			"content_html": "<p>Record audio</p>\n\n<p><a href=\"http://discursive.adamprocter.co.uk/uploads/2018/2a1e889ceb.jpg\"><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/2a1e889ceb.jpg\" width=\"277\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>I have many moments driving or walking where I have a thought in my head and I need to capture is as close to the metal as possible as soon as possible, so a voice recording would be the closest but Hey Siri Record Audio…. nope. You have say Hey Siri new Voice Memo but it still doesn’t auto start recording… hey Siri you are a pain</p>\n\n<p>Turn off Phone?</p>\n\n<p><a href=\"http://discursive.adamprocter.co.uk/uploads/2018/117f027550.jpg\"><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/117f027550.jpg\" width=\"277\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>Guess not</p>\n\n",
-			"date_published": "2018-03-18T13:27:00Z",
-			"url": "https://discursive.adamprocter.co.uk/2018/03/18/hey-siri.html"
 		}
 		
 	]
