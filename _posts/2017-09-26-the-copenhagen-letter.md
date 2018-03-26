@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-09-26 18:14 -0000
+date: 2017-09-26 19:14 +0100
 guid: http://adamprocter.micro.blog/2017/09/26/the-copenhagen-letter.html
 ---
 # THE COPENHAGEN LETTER 2017
