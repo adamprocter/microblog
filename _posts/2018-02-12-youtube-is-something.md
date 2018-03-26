@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-12 09:19 -0000
+date: 2018-02-12 10:19 +0100
 guid: http://adamprocter.micro.blog/2018/02/12/youtube-is-something.html
 ---
 > YouTube is something that looks like reality, but it is distorted to make you spend more time online. 
