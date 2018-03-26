@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-22 11:44 -0000
+date: 2017-12-22 12:44 +0100
 guid: http://adamprocter.micro.blog/2017/12/22/channel-set-up.html
 ---
 Channel set up ... #procterphd #gamesdesignart
