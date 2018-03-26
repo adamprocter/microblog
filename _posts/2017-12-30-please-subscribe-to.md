@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-30 14:12 -0000
+date: 2017-12-30 15:12 +0100
 guid: http://adamprocter.micro.blog/2017/12/30/please-subscribe-to.html
 ---
 Please subscribe to my new youtube channel. 
