@@ -3,7 +3,7 @@ layout: post
 title: "Swarm + Sunlit + Micro.blog"
 microblog: false
 audio: 
-date: 2018-01-31 13:30 -0000
+date: 2018-01-31 14:30 +0100
 guid: http://adamprocter.micro.blog/2018/01/31/swarm-sunlit-microblog.html
 ---
 
