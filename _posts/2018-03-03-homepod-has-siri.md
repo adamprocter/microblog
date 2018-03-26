@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-03 19:55 -0000
+date: 2018-03-03 20:55 +0100
 guid: http://adamprocter.micro.blog/2018/03/03/homepod-has-siri.html
 ---
 HomePod has Siri that it’s major problem. A review along those lines. 
