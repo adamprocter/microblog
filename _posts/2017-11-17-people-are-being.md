@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-11-17 08:56 -0000
+date: 2017-11-17 09:56 +0100
 guid: http://adamprocter.micro.blog/2017/11/17/people-are-being.html
 ---
 > People are being distorted by very finely trained AIs that figure out how to distract them. 
