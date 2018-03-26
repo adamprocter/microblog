@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-03 15:44 -0000
+date: 2017-12-03 16:44 +0100
 guid: http://adamprocter.micro.blog/2017/12/03/ginger-ale.html
 ---
 Ginger Ale
