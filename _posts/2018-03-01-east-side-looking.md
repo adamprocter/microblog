@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-01 11:33 -0000
+date: 2018-03-01 12:33 +0100
 guid: http://adamprocter.micro.blog/2018/03/01/east-side-looking.html
 ---
 East side looking fine #newsignage #excitingtimesatwsa
