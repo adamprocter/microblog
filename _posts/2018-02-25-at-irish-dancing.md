@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-25 17:20 -0000
+date: 2018-02-25 18:20 +0100
 guid: http://adamprocter.micro.blog/2018/02/25/at-irish-dancing.html
 ---
 At Irish Dancing
