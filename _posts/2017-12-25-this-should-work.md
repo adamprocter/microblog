@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-25 13:33 -0000
+date: 2017-12-25 14:33 +0100
 guid: http://adamprocter.micro.blog/2017/12/25/this-should-work.html
 ---
 This should work... in theory this micro.blog post will now appear in my mastodon.cloud as well via my cross post to twitter. 
