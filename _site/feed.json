@@ -6,10 +6,50 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2018/03/26/gdpr-law-would.html",
+	      	
+			"content_html": "<p>GDPR law would in theory mean Facebook would have been fined up to $813 million dollars for allowing Cambridge Analytica to take the data it did. Law comes into action May 2018. </p>\n\n<p><a href=\"https://www.wired.co.uk/article/what-is-gdpr-uk-eu-legislation-compliance-summary-fines-2018\">Wired Article in GDPR</a></p>\n",
+			"date_published": "2018-03-26T18:53:00+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/03/26/gdpr-law-would.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/03/26/published-a-new.html",
+	      	
+			"content_html": "<p>Published a new short video. What is my Research ? - <a href=\"https://youtu.be/Za1o1kNhsh0\">youtu.be/Za1o1kNhs…</a></p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/2a5245e5d4.jpg\" width=\"426\" height=\"298\" /></p>\n",
+			"date_published": "2018-03-26T17:18:00+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/03/26/published-a-new.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/03/26/blue-notes-iconic.html",
+	      	
+			"content_html": "<p>Blue Notes: Iconic album sleeves recreated in the browser. Yes please - CSS magic ! <a href=\"http://dctr.pro/256\">dctr.pro/256</a></p>\n",
+			"date_published": "2018-03-26T16:32:00+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/03/26/blue-notes-iconic.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/03/26/does-facebook-consider.html",
+	      	
+			"content_html": "<p>Does Facebook consider coercion the same as giving permission, a while back I took these screenshots after a messenger update as part of my collection on evil design patterns… the arrow animates under Ok and the other option is to Learn More, then Not Now, there is NO option.</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/deb2a66b24.jpg\" width=\"337\" height=\"600\" /><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/8d546c872c.jpg\" width=\"337\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-26T11:26:00+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/03/26/does-facebook-consider.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/03/25/privacy-means-people.html",
+	      	
+			"content_html": "<blockquote>\n  <p>Privacy means people know what they’re signing up for. In plain English, and repeatedly. That’s what it means.</p>\n</blockquote>\n\n<p>Steve Jobs (2010)</p>\n\n<ul>\n  <li><a href=\"http://dctr.pro/255\">dctr.pro/255</a></li>\n</ul>\n",
+			"date_published": "2018-03-26T00:31:00+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/03/26/privacy-means-people.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2018/03/25/stop-conflating-education.html",
 	      	
 			"content_html": "<p>Stop conflating education with employability—the point of learning should be to enrich our lives.</p>\n\n<ul>\n  <li><a href=\"http://dctr.pro/254\">dctr.pro/254</a></li>\n</ul>\n",
-			"date_published": "2018-03-25T11:51:00Z",
+			"date_published": "2018-03-25T12:51:00+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/03/25/stop-conflating-education.html"
 		},
 		
@@ -17,7 +57,7 @@
 			"id": "http://adamprocter.micro.blog/2018/03/24/working-on-a.html",
 	      	
 			"content_html": "<p>Working on a new logo for @crazy<em>.cat</em>.slime nothing approved yet…</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/f95e2a278f.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-24T19:20:00Z",
+			"date_published": "2018-03-24T20:20:00+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/03/24/working-on-a.html"
 		},
 		
@@ -25,7 +65,7 @@
 			"id": "http://adamprocter.micro.blog/2018/03/24/even-more-so.html",
 	      	
 			"content_html": "<p>Even more so today Mr Brown even more so. 🎧🎼</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/05b7051566.jpg\" width=\"480\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-24T17:34:00Z",
+			"date_published": "2018-03-24T18:34:00+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/03/24/even-more-so.html"
 		},
 		
@@ -33,7 +73,7 @@
 			"id": "http://adamprocter.micro.blog/2018/03/24/wow-this-image.html",
 	      	
 			"content_html": "<p>Wow this image sums up the topsy turvy world we live in. </p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/5f32cf23af.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-24T17:28:00Z",
+			"date_published": "2018-03-24T18:28:00+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/03/24/wow-this-image.html"
 		},
 		
@@ -41,7 +81,7 @@
 			"id": "http://adamprocter.micro.blog/2018/03/23/awesome-lp.html",
 	      	
 			"content_html": "<p>Awesome LP 🎧</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/4d9de65c09.jpg\" width=\"500\" height=\"500\" /></p>\n",
-			"date_published": "2018-03-23T19:35:00Z",
+			"date_published": "2018-03-23T20:35:00+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/03/23/awesome-lp.html"
 		},
 		
@@ -49,7 +89,7 @@
 			"id": "http://adamprocter.micro.blog/2018/03/23/changes-are-coming.html",
 	      	
 			"content_html": "<p>Changes are coming. Reversing hopefully.</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/ca7d0989e0.jpg\" width=\"600\" height=\"600\" /><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/2b8f2e7e54.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-23T14:44:00Z",
+			"date_published": "2018-03-23T15:44:00+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/03/23/changes-are-coming.html"
 		},
 		
@@ -57,7 +97,7 @@
 			"id": "http://adamprocter.micro.blog/2018/03/23/lib-dems-harvested.html",
 	      	
 			"content_html": "<h1 id=\"lib-dems-harvested-data-from-myspace\">Lib Dems harvested data from MySpace</h1>\n\n<blockquote>\n  <p>It’s not just MySpace. They’ve cross-referenced with Bebo and Friends Reunited.</p>\n</blockquote>\n\n<p><a href=\"http://dctr.pro/253\">dctr.pro/253</a></p>\n",
-			"date_published": "2018-03-23T14:38:00Z",
+			"date_published": "2018-03-23T15:38:00+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/03/23/lib-dems-harvested.html"
 		},
 		
@@ -65,7 +105,7 @@
 			"id": "http://adamprocter.micro.blog/2018/03/23/004700.html",
 	      	
 			"content_html": "<p>Finally, <a href=\"https://instagram-press.com/blog/2018/03/22/changes-to-improve-your-instagram-feed/\">Instagram</a> is backing off of the algorithmic feed and leaning back to chronological.</p>\n",
-			"date_published": "2018-03-23T00:47:00Z",
+			"date_published": "2018-03-23T01:47:00+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/03/23/004700.html"
 		},
 		
@@ -73,7 +113,7 @@
 			"id": "http://adamprocter.micro.blog/2018/03/23/i-dont-see.html",
 	      	
 			"content_html": "<p>I don’t see how a government can take to task data gathering of a corporation when that’s the buisness model. Seems odd. We need to make decent alternatives paid or otherwise. #webmakers #indieweb #bbcqt #eff</p>\n",
-			"date_published": "2018-03-23T00:40:00Z",
+			"date_published": "2018-03-23T01:40:00+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/03/23/i-dont-see.html"
 		},
 		
@@ -81,7 +121,7 @@
 			"id": "http://adamprocter.micro.blog/2018/03/22/bento-the-keyboard.html",
 	      	
 			"content_html": "<p>Bento the Keyboard Cat, internet sensation and YouTube star, dies <a href=\"https://www.theguardian.com/technology/2018/mar/20/bento-keyboard-cat-youtube-dies\">Guardian link</a></p>\n",
-			"date_published": "2018-03-22T09:10:00Z",
+			"date_published": "2018-03-22T10:10:00+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/03/22/bento-the-keyboard.html"
 		},
 		
@@ -89,7 +129,7 @@
 			"id": "http://adamprocter.micro.blog/2018/03/22/the-greatest-thing.html",
 	      	
 			"content_html": "<blockquote>\n  <p>The greatest thing we can do is to help somebody know that they’re loved and capable of loving.</p>\n</blockquote>\n\n<ul>\n  <li><a href=\"http://dctr.pro/252\">dctr.pro/252</a> </li>\n</ul>\n\n<p>Trailer:\n“Won’t you be my Neighbour” documentary on Mister Fred Rogers. </p>\n",
-			"date_published": "2018-03-22T00:09:00Z",
+			"date_published": "2018-03-22T01:09:00+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/03/22/the-greatest-thing.html"
 		},
 		
@@ -97,7 +137,7 @@
 			"id": "http://adamprocter.micro.blog/2018/03/21/breaking-news-and.html",
 	      	
 			"content_html": "<p>Breaking news and classic Zuckerberg: </p>\n\n<blockquote>\n  <p>We made mistakes</p>\n</blockquote>\n\n<p>#ownyourdata #freetheweb #indieweb</p>\n",
-			"date_published": "2018-03-21T19:45:00Z",
+			"date_published": "2018-03-21T20:45:00+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/03/21/breaking-news-and.html"
 		},
 		
@@ -105,7 +145,7 @@
 			"id": "http://adamprocter.micro.blog/2018/03/21/any-suggestion-on.html",
 	      	
 			"content_html": "<p>Any suggestion on how people here organise their podcasts in <a href=\"https://micro.blog/marco\">@marco</a>’s overcast app. I am rubbish at this and have a huge list but don’t really listen to as much as I want as I don’t look enough. Smart playlists?</p>\n",
-			"date_published": "2018-03-21T18:42:00Z",
+			"date_published": "2018-03-21T19:42:00+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/03/21/any-suggestion-on.html"
 		},
 		
@@ -113,7 +153,7 @@
 			"id": "http://adamprocter.micro.blog/2018/03/21/when-we-design.html",
 	      	
 			"content_html": "<blockquote>\n  <p>When we design for screen, we are designing for a fluid medium. This is a critical difference between interaction design and graphic design.</p>\n</blockquote>\n\n<ul>\n  <li><a href=\"http://dctr.pro/251\">dctr.pro/251</a> - awesome series on designing UI / UX experiences by <a href=\"https://micro.blog/fehler\">@fehler</a></li>\n</ul>\n",
-			"date_published": "2018-03-21T13:21:00Z",
+			"date_published": "2018-03-21T14:21:00+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/03/21/when-we-design.html"
 		},
 		
@@ -121,7 +161,7 @@
 			"id": "http://adamprocter.micro.blog/2018/03/21/normally-this-guy.html",
 	      	
 			"content_html": "<p>Normally this guy is a symbol of hope to me but these last few months haven’t really left me smiling much. Bring on the summer please.</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/952e0036a9.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-21T12:34:00Z",
+			"date_published": "2018-03-21T13:34:00+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/03/21/normally-this-guy.html"
 		},
 		
@@ -129,7 +169,7 @@
 			"id": "http://adamprocter.micro.blog/2018/03/21/the-old-greyhound.html",
 	      	
 			"content_html": "<p>The old greyhound stock car stadium finally being demolished making way for our new Stadium back at Plough Lane, amazing fairytale that just keep giving @AFCWimbledon in May 2002 I thought I had seen my last game of football who knew what was to come! <a href=\"https://youtu.be/vGMjLGBu5Y8\">youtu.be/vGMjLGBu5…</a></p>\n",
-			"date_published": "2018-03-21T11:05:00Z",
+			"date_published": "2018-03-21T12:05:00+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/03/21/the-old-greyhound.html"
 		},
 		
@@ -137,7 +177,7 @@
 			"id": "http://adamprocter.micro.blog/2018/03/21/interview-social-media.html",
 	      	
 			"content_html": "<p>Interview: Social Media Discontent after Cambridge Analytica - <a href=\"http://dctr.pro/250\">dctr.pro/250</a></p>\n",
-			"date_published": "2018-03-21T10:17:00Z",
+			"date_published": "2018-03-21T11:17:00+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/03/21/interview-social-media.html"
 		},
 		
@@ -145,7 +185,7 @@
 			"id": "http://adamprocter.micro.blog/2018/03/21/whats-app-no.html",
 	      	
 			"content_html": "<p>What’s App no no no. I have my data saved in iCloud via backup I guess it’s not an export you don’t appear to have that option. Deleting what’s app account deletes back up too! Grrrr </p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/5c49d622bc.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-21T09:31:00Z",
+			"date_published": "2018-03-21T10:31:00+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/03/21/whats-app-no.html"
 		},
 		
@@ -153,7 +193,7 @@
 			"id": "http://adamprocter.micro.blog/2018/03/21/host-of-interesting.html",
 	      	
 			"content_html": "<p>Host of Interesting roles at @WinSciCentre - <a href=\"http://www.winchestersciencecentre.org/join-us/\">www.winchestersciencecentre.org/join-us/</a> </p>\n\n<p>n.b links don’t seem to open in latest firefox / chrome on Mac (Safari ok) but if you copy link address/location and paste into URL bar it will fyi </p>\n",
-			"date_published": "2018-03-21T00:06:00Z",
+			"date_published": "2018-03-21T01:06:00+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/03/21/host-of-interesting.html"
 		},
 		
@@ -161,48 +201,8 @@
 			"id": "http://adamprocter.micro.blog/2018/03/20/isle-of-dogs.html",
 	      	
 			"content_html": "<p>Isle of Dogs looks amazing - <a href=\"https://www.youtube.com/watch?v=dt__kig8PVU\">www.youtube.com/watch</a> - Love Wes Anderson 🐕 🏝💛</p>\n",
-			"date_published": "2018-03-20T22:25:00Z",
+			"date_published": "2018-03-20T23:25:00+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/03/20/isle-of-dogs.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/03/20/this-wasnt-a.html",
-	      	
-			"content_html": "<blockquote>\n  <p>This wasn’t a breach in the technical sense. It is something even more troubling: an all-too-natural consequence of Facebook’s business model.</p>\n</blockquote>\n\n<p>The New York Times - <a href=\"http://dctr.pro/24z\">dctr.pro/24z</a></p>\n",
-			"date_published": "2018-03-20T22:03:00Z",
-			"url": "https://discursive.adamprocter.co.uk/2018/03/20/this-wasnt-a.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/03/20/no-i-wont.html",
-	      	
-			"content_html": "<p>No I won’t fix up my newsletter I’ll wait in my broken down car at peak time for RAC due to power fail I can’t even lock it, dam it. 2018 so far has been rubbish. </p>\n",
-			"date_published": "2018-03-20T18:04:00Z",
-			"url": "https://discursive.adamprocter.co.uk/2018/03/20/no-i-wont.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/03/20/my-fragmentum-microcast.html",
-	      	
-			"content_html": "<p>My Fragmentum microcast <a href=\"http://fragmentum.adamprocter.co.uk/episode-16-whoa-two-months/\">Episode 16</a> is out now. Please Subscribe in Overcast for iOS or another inferior podcatcher.</p>\n",
-			"date_published": "2018-03-20T17:00:00Z",
-			"url": "https://discursive.adamprocter.co.uk/2018/03/20/my-fragmentum-microcast.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/03/20/like-my-stuff.html",
-	      	
-			"content_html": "<p>Like my stuff, love my stuff support me on Patreon. \nPatreon.com/procterbot - clickable link in bio</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/0c0efdc1be.jpg\" width=\"600\" height=\"549\" /></p>\n",
-			"date_published": "2018-03-20T16:54:00Z",
-			"url": "https://discursive.adamprocter.co.uk/2018/03/20/like-my-stuff.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/03/20/its-and-the.html",
-	      	
-			"content_html": "<p>It’s 2018 and the odds are still stacked against female creatives. <a href=\"https://doubleornothing.aiga.org\">Double or Nothing</a> #DoubleorNothingAiga</p>\n",
-			"date_published": "2018-03-20T15:21:00Z",
-			"url": "https://discursive.adamprocter.co.uk/2018/03/20/its-and-the.html"
 		}
 		
 	]
