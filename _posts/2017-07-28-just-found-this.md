@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-07-28 15:45 -0000
+date: 2017-07-28 16:45 +0100
 guid: http://adamprocter.micro.blog/2017/07/28/just-found-this.html
 ---
 Just found this. Fantastic LP. Enjoy.
