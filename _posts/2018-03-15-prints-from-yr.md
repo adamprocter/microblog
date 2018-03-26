@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-15 17:47 -0000
+date: 2018-03-15 18:47 +0100
 guid: http://adamprocter.micro.blog/2018/03/15/prints-from-yr.html
 ---
 Prints from yr1,2,3 Graphic Arts sale #popupshop #excitingtimesatwsa
