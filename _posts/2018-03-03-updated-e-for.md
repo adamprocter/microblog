@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-03 19:31 -0000
+date: 2018-03-03 20:31 +0100
 guid: http://adamprocter.micro.blog/2018/03/03/updated-e-for.html
 ---
 Updated E for escape #alphaputt #sennep_holes @errorwilliams @jonathanlindgren.motion great stuff #gamesdesign
