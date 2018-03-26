@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-02 14:46 -0000
+date: 2018-03-02 15:46 +0100
 guid: http://adamprocter.micro.blog/2018/03/02/snow-related-video.html
 ---
 Snow related video clip.
