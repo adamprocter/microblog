@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-23 08:30 -0000
+date: 2018-02-23 09:30 +0100
 guid: http://adamprocter.micro.blog/2018/02/23/in-case-you.html
 ---
 In case you missed it ... #creativity #changingtheworldonegameatatime @gamesdesignart @wsa_ba #growthindustry
