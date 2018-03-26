@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-07-09 21:04 -0000
+date: 2017-07-09 22:04 +0100
 guid: http://adamprocter.micro.blog/2017/07/09/copilgrim-album-launch.html
 ---
 Co-Pilgrim Album launch 😊
