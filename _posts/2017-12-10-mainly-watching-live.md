@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-10 15:46 -0000
+date: 2017-12-10 16:46 +0100
 guid: http://adamprocter.micro.blog/2017/12/10/mainly-watching-live.html
 ---
 Mainly watching live Godot 3 tutorials today from @GDquest
