@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-08-22 21:03 -0000
+date: 2017-08-22 22:03 +0100
 guid: http://adamprocter.micro.blog/2017/08/22/great-article-on.html
 ---
 Great article on Gender Bias and why we need to recognise it and make corrections. [dctr.pro/1zz](http://dctr.pro/1zz) 👩🏻‍🔬
