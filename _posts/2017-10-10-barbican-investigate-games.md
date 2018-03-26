@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-10-10 11:24 -0000
+date: 2017-10-10 12:24 +0100
 guid: http://adamprocter.micro.blog/2017/10/10/barbican-investigate-games.html
 ---
 1. Barbican / 1.1 Investigate. Games Design Art. 2017. #excitingtimesatwsa
