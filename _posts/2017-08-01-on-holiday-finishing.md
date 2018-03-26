@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-08-01 10:45 -0000
+date: 2017-08-01 11:45 +0100
 guid: http://adamprocter.micro.blog/2017/08/01/on-holiday-finishing.html
 ---
 On holiday / finishing module reports #notveryexcitingatall
