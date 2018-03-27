@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2018/03/26/barenaked-ladies-reunion.html",
+	      	
+			"content_html": "<table>\n  <tbody>\n    <tr>\n      <td>Barenaked Ladies Reunion Performance</td>\n      <td>Juno Awards 2018</td>\n    </tr>\n  </tbody>\n</table>\n\n<ul>\n  <li><a href=\"http://www.cbc.ca/player/play/1194807875877\">www.cbc.ca/player/pl…</a></li>\n</ul>\n",
+			"date_published": "2018-03-27T00:34:00+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/03/27/barenaked-ladies-reunion.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/03/26/dad-satnavs-shouldnt.html",
+	      	
+			"content_html": "<blockquote>\n  <p>Dad SatNavs shouldn’t tell people about speed cameras as the people that drive fast won’t get caught, they will just drive fast, slow down &amp; speed up again. If they then cause an accident that SatNav will be the root cause of a lot a pain.</p>\n</blockquote>\n\n<p>Agreed. Waze ethical setting on.</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/c20b220026.jpg\" width=\"600\" height=\"446\" /></p>\n",
+			"date_published": "2018-03-27T00:10:00+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/03/27/dad-satnavs-shouldnt.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/03/26/why-cant-i.html",
+	      	
+			"content_html": "<p>🎵 &lt;- why cant I locate you on my iOS device… not helping me join the awesome music discovery feed on micro.blog</p>\n",
+			"date_published": "2018-03-26T21:25:00+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/03/26/why-cant-i.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2018/03/26/gdpr-law-would.html",
 	      	
 			"content_html": "<p>GDPR law would in theory mean Facebook would have been fined up to $813 million dollars for allowing Cambridge Analytica to take the data it did. Law comes into action May 2018. </p>\n\n<p><a href=\"https://www.wired.co.uk/article/what-is-gdpr-uk-eu-legislation-compliance-summary-fines-2018\">Wired Article in GDPR</a></p>\n",
@@ -179,30 +203,6 @@
 			"content_html": "<p>Interview: Social Media Discontent after Cambridge Analytica - <a href=\"http://dctr.pro/250\">dctr.pro/250</a></p>\n",
 			"date_published": "2018-03-21T11:17:00+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/03/21/interview-social-media.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/03/21/whats-app-no.html",
-	      	
-			"content_html": "<p>What’s App no no no. I have my data saved in iCloud via backup I guess it’s not an export you don’t appear to have that option. Deleting what’s app account deletes back up too! Grrrr </p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/5c49d622bc.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-21T10:31:00+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/03/21/whats-app-no.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/03/21/host-of-interesting.html",
-	      	
-			"content_html": "<p>Host of Interesting roles at @WinSciCentre - <a href=\"http://www.winchestersciencecentre.org/join-us/\">www.winchestersciencecentre.org/join-us/</a> </p>\n\n<p>n.b links don’t seem to open in latest firefox / chrome on Mac (Safari ok) but if you copy link address/location and paste into URL bar it will fyi </p>\n",
-			"date_published": "2018-03-21T01:06:00+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/03/21/host-of-interesting.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/03/20/isle-of-dogs.html",
-	      	
-			"content_html": "<p>Isle of Dogs looks amazing - <a href=\"https://www.youtube.com/watch?v=dt__kig8PVU\">www.youtube.com/watch</a> - Love Wes Anderson 🐕 🏝💛</p>\n",
-			"date_published": "2018-03-20T23:25:00+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/03/20/isle-of-dogs.html"
 		}
 		
 	]
