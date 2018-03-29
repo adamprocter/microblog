@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2018/03/29/ios-face-id.html",
+	      	
+			"content_html": "<p>iOS 11.3 Face ID can now be used to authenticate approval of Family Purchases! Wooo </p>\n",
+			"date_published": "2018-03-29T22:22:00+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/03/29/ios-face-id.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/03/29/no-mans-sky.html",
+	      	
+			"content_html": "<p>No Man’s Sky is getting its biggest update yet this summer alongside Xbox One launch. </p>\n\n<ul>\n  <li><a href=\"http://dctr.pro/25d\">dctr.pro/25d</a></li>\n</ul>\n",
+			"date_published": "2018-03-29T22:17:00+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/03/29/no-mans-sky.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2018/03/29/the-fraud-and.html",
 	      	
 			"content_html": "<p>The Fraud and the Four-Hour Workweek - <a href=\"http://dctr.pro/25c\">dctr.pro/25c</a></p>\n\n<blockquote>\n  <p>Outsource your work to “remote assistants” in the developing world for $5 an hour.</p>\n</blockquote>\n\n<blockquote>\n  <p>Capitalism works like this: a small class of people own the means of production, and everyone else has to sell their labor to survive.</p>\n</blockquote>\n",
@@ -189,22 +205,6 @@
 			"content_html": "<blockquote>\n  <p>Privacy means people know what they’re signing up for. In plain English, and repeatedly. That’s what it means.</p>\n</blockquote>\n\n<p>Steve Jobs (2010)</p>\n\n<ul>\n  <li><a href=\"http://dctr.pro/255\">dctr.pro/255</a></li>\n</ul>\n",
 			"date_published": "2018-03-26T00:31:00+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/03/26/privacy-means-people.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/03/25/stop-conflating-education.html",
-	      	
-			"content_html": "<p>Stop conflating education with employability—the point of learning should be to enrich our lives.</p>\n\n<ul>\n  <li><a href=\"http://dctr.pro/254\">dctr.pro/254</a></li>\n</ul>\n",
-			"date_published": "2018-03-25T12:51:00+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/03/25/stop-conflating-education.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/03/24/working-on-a.html",
-	      	
-			"content_html": "<p>Working on a new logo for @crazy<em>.cat</em>.slime nothing approved yet…</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/f95e2a278f.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-24T20:20:00+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/03/24/working-on-a.html"
 		}
 		
 	]
