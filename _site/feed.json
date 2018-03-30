@@ -6,9 +6,19 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2018/03/30/good-friday-game.html",
+	      	
+			"title": "Good Friday game",
+			
+			"content_html": "<p><a href=\"http://discursive.adamprocter.co.uk/uploads/2018/fa53bf12bb.jpg\"><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/fa53bf12bb.jpg\" width=\"0\" height=\"0\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>The Cherry Red Records Stadium: Must win game</p>\n\n",
+			"date_published": "2018-03-30T14:02:00+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/03/30/good-friday-game.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2018/03/29/ios-face-id.html",
 	      	
-			"content_html": "<p>iOS 11.3 Face ID can now be used to authenticate approval of Family Purchases! Wooo </p>\n",
+			"content_html": "<p>iOS 11.3 Face ID can now be used to authenticate approval of Family Purchases! Wooo</p>\n",
 			"date_published": "2018-03-29T22:22:00+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/03/29/ios-face-id.html"
 		},
@@ -16,7 +26,7 @@
 		{
 			"id": "http://adamprocter.micro.blog/2018/03/29/no-mans-sky.html",
 	      	
-			"content_html": "<p>No Man’s Sky is getting its biggest update yet this summer alongside Xbox One launch. </p>\n\n<ul>\n  <li><a href=\"http://dctr.pro/25d\">dctr.pro/25d</a></li>\n</ul>\n",
+			"content_html": "<p>No Man’s Sky is getting its biggest update yet this summer alongside Xbox One launch.</p>\n\n<ul>\n  <li><a href=\"http://dctr.pro/25d\">dctr.pro/25d</a></li>\n</ul>\n",
 			"date_published": "2018-03-29T22:17:00+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/03/29/no-mans-sky.html"
 		},
@@ -32,7 +42,7 @@
 		{
 			"id": "http://adamprocter.micro.blog/2018/03/29/creative-industries-sector.html",
 	      	
-			"content_html": "<p>Creative Industries Sector Deal launched <a href=\"http://dctr.pro/25b\">GOV.UK</a> </p>\n\n<blockquote>\n  <p>More than £150 million will be invested</p>\n</blockquote>\n\n<blockquote>\n  <p>Britain’s creative industries are worth £92billion, growing 2x as fast as the rest of the economy</p>\n</blockquote>\n\n<blockquote>\n  <p>Cities &amp; towns access to £20million to invest in culture &amp; creative industries</p>\n</blockquote>\n",
+			"content_html": "<p>Creative Industries Sector Deal launched <a href=\"http://dctr.pro/25b\">GOV.UK</a></p>\n\n<blockquote>\n  <p>More than £150 million will be invested</p>\n</blockquote>\n\n<blockquote>\n  <p>Britain’s creative industries are worth £92billion, growing 2x as fast as the rest of the economy</p>\n</blockquote>\n\n<blockquote>\n  <p>Cities &amp; towns access to £20million to invest in culture &amp; creative industries</p>\n</blockquote>\n",
 			"date_published": "2018-03-29T13:03:00+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/03/29/creative-industries-sector.html"
 		},
@@ -72,7 +82,7 @@
 		{
 			"id": "http://adamprocter.micro.blog/2018/03/28/beware-the-smart.html",
 	      	
-			"content_html": "<p>Beware the smart toaster: 18 tips for surviving the surveillance age. </p>\n\n<p><a href=\"http://dctr.pro/25a\">The Guardian</a></p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/af8cd86e02.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"content_html": "<p>Beware the smart toaster: 18 tips for surviving the surveillance age.</p>\n\n<p><a href=\"http://dctr.pro/25a\">The Guardian</a></p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/af8cd86e02.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-03-28T12:21:00+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/03/28/beware-the-smart.html"
 		},
@@ -104,7 +114,7 @@
 		{
 			"id": "http://adamprocter.micro.blog/2018/03/27/achtung-decentralize-decentralize.html",
 	      	
-			"content_html": "<p>Achtung! Decentralize, decentralize, decentralize! </p>\n\n<blockquote>\n  <p>Did you know that Google keeps a map of everywhere you’ve <a href=\"https://www.google.com/maps/timeline?pb\">been</a>? </p>\n</blockquote>\n\n<ul>\n  <li><a href=\"http://dctr.pro/259\">dctr.pro/259</a></li>\n</ul>\n",
+			"content_html": "<p>Achtung! Decentralize, decentralize, decentralize!</p>\n\n<blockquote>\n  <p>Did you know that Google keeps a map of everywhere you’ve <a href=\"https://www.google.com/maps/timeline?pb\">been</a>?</p>\n</blockquote>\n\n<ul>\n  <li><a href=\"http://dctr.pro/259\">dctr.pro/259</a></li>\n</ul>\n",
 			"date_published": "2018-03-27T15:23:00+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/03/27/achtung-decentralize-decentralize.html"
 		},
@@ -114,7 +124,7 @@
 	      	
 			"title": "The Cambridge Analytical Data Apocalypse Was Predicted in 2007. ",
 			
-			"content_html": "<blockquote>\n  <p>Perhaps the thorniest challenges exist on the data side, with respect to access and privacy,” the paper said. “Because a single dramatic incident involving a breach of privacy could produce rules and statutes that stifle the nascent field of computational social science.</p>\n</blockquote>\n\n<blockquote>\n  <p>Nuclear power is a dual-use technology. It can be weaponized. </p>\n</blockquote>\n\n<p><a href=\"http://dctr.pro/258\">Wired</a></p>\n",
+			"content_html": "<blockquote>\n  <p>Perhaps the thorniest challenges exist on the data side, with respect to access and privacy,” the paper said. “Because a single dramatic incident involving a breach of privacy could produce rules and statutes that stifle the nascent field of computational social science.</p>\n</blockquote>\n\n<blockquote>\n  <p>Nuclear power is a dual-use technology. It can be weaponized.</p>\n</blockquote>\n\n<p><a href=\"http://dctr.pro/258\">Wired</a></p>\n",
 			"date_published": "2018-03-27T10:13:00+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/03/27/the-cambridge-analytical.html"
 		},
@@ -122,7 +132,7 @@
 		{
 			"id": "http://adamprocter.micro.blog/2018/03/27/many-internships-still.html",
 	      	
-			"content_html": "<p>Many Internships still clearly unethical; </p>\n\n<blockquote>\n  <p>most had parents who subsidised their rent, bills, travel and food.</p>\n</blockquote>\n\n<blockquote>\n  <p>Working that Saturday afternoon for free to help a $47m publishing company make its deadlines, I became convinced that something had to be done.</p>\n</blockquote>\n\n<p><a href=\"http://dctr.pro/257\">Guardian Long Read</a></p>\n",
+			"content_html": "<p>Many Internships still clearly unethical;</p>\n\n<blockquote>\n  <p>most had parents who subsidised their rent, bills, travel and food.</p>\n</blockquote>\n\n<blockquote>\n  <p>Working that Saturday afternoon for free to help a $47m publishing company make its deadlines, I became convinced that something had to be done.</p>\n</blockquote>\n\n<p><a href=\"http://dctr.pro/257\">Guardian Long Read</a></p>\n",
 			"date_published": "2018-03-27T09:46:00+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/03/27/many-internships-still.html"
 		},
@@ -138,7 +148,7 @@
 		{
 			"id": "http://adamprocter.micro.blog/2018/03/27/if-anyone-wants.html",
 	      	
-			"content_html": "<p>If anyone wants to look at an analysis on ten years of UK National Student Survey data knock yourself out ! <a href=\"http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0192976\">journals.plos.org/plosone/a…</a> </p>\n",
+			"content_html": "<p>If anyone wants to look at an analysis on ten years of UK National Student Survey data knock yourself out ! <a href=\"http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0192976\">journals.plos.org/plosone/a…</a></p>\n",
 			"date_published": "2018-03-27T09:32:00+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/03/27/if-anyone-wants.html"
 		},
@@ -170,7 +180,7 @@
 		{
 			"id": "http://adamprocter.micro.blog/2018/03/26/gdpr-law-would.html",
 	      	
-			"content_html": "<p>GDPR law would in theory mean Facebook would have been fined up to $813 million dollars for allowing Cambridge Analytica to take the data it did. Law comes into action May 2018. </p>\n\n<p><a href=\"https://www.wired.co.uk/article/what-is-gdpr-uk-eu-legislation-compliance-summary-fines-2018\">Wired Article in GDPR</a></p>\n",
+			"content_html": "<p>GDPR law would in theory mean Facebook would have been fined up to $813 million dollars for allowing Cambridge Analytica to take the data it did. Law comes into action May 2018.</p>\n\n<p><a href=\"https://www.wired.co.uk/article/what-is-gdpr-uk-eu-legislation-compliance-summary-fines-2018\">Wired Article in GDPR</a></p>\n",
 			"date_published": "2018-03-26T18:53:00+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/03/26/gdpr-law-would.html"
 		},
@@ -197,14 +207,6 @@
 			"content_html": "<p>Does Facebook consider coercion the same as giving permission, a while back I took these screenshots after a messenger update as part of my collection on evil design patterns… the arrow animates under Ok and the other option is to Learn More, then Not Now, there is NO option.</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/deb2a66b24.jpg\" width=\"337\" height=\"600\" /><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/8d546c872c.jpg\" width=\"337\" height=\"600\" /></p>\n",
 			"date_published": "2018-03-26T11:26:00+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/03/26/does-facebook-consider.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/03/25/privacy-means-people.html",
-	      	
-			"content_html": "<blockquote>\n  <p>Privacy means people know what they’re signing up for. In plain English, and repeatedly. That’s what it means.</p>\n</blockquote>\n\n<p>Steve Jobs (2010)</p>\n\n<ul>\n  <li><a href=\"http://dctr.pro/255\">dctr.pro/255</a></li>\n</ul>\n",
-			"date_published": "2018-03-26T00:31:00+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/03/26/privacy-means-people.html"
 		}
 		
 	]
