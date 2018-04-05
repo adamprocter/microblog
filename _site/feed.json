@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2018/04/05/dare-you-face.html",
+	      	
+			"content_html": "<p><a href=\"https://www.theguardian.com/books/2018/apr/04/fighting-fantasy-game-books-charlie-higson-interview\">Dare YOU face the orcs?</a> 80s game books Fighting Fantasy return - Books - The Guardian</p>\n",
+			"date_published": "2018-04-05T21:11:00+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/04/05/dare-you-face.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/04/05/spatial-ui-anyone.html",
+	      	
+			"content_html": "<p>Spatial UI anyone. Really pleased with the progress on this #procterphd - watch demo on YouTube channel LINK… you guessed it in Bio.</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/fa8abe7e79.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-04-05T20:47:00+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/04/05/spatial-ui-anyone.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/04/05/pretty-pleased-when.html",
+	      	
+			"content_html": "<p>Pretty pleased when the ducks start to get in a row 🦆 - Spatial UI demo - <a href=\"https://youtu.be/3jOZ92-2h2k\">youtu.be/3jOZ92-2h…</a> #procterphd</p>\n",
+			"date_published": "2018-04-05T20:31:00+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/04/05/pretty-pleased-when.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2018/04/05/nice-thoughtshapnel-takeaways.html",
 	      	
 			"content_html": "<p>nice @thoughtshrapnel takeaways from Stephen Downes’ talk on <a href=\"http://dctr.pro/25j\">personal learning </a></p>\n",
@@ -179,32 +203,6 @@
 			"content_html": "<p>5 Myths and misconceptions in learning theory. Excellent overview covers :</p>\n\n<ul>\n  <li>lecture capture</li>\n  <li>digital natives</li>\n  <li>multiply choice exams</li>\n  <li>learning styles</li>\n  <li>flipped classrooms</li>\n</ul>\n\n<p><a href=\"http://dctr.pro/25e\">dctr.pro/25e</a></p>\n",
 			"date_published": "2018-03-30T16:05:00+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/03/30/myths-and-misconceptions.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/03/30/good-friday-game.html",
-	      	
-			"title": "Good Friday game",
-			
-			"content_html": "<p><a href=\"http://discursive.adamprocter.co.uk/uploads/2018/fa53bf12bb.jpg\"><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/fa53bf12bb.jpg\" width=\"0\" height=\"0\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>The Cherry Red Records Stadium: Must win game</p>\n\n",
-			"date_published": "2018-03-30T14:02:00+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/03/30/good-friday-game.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/03/29/ios-face-id.html",
-	      	
-			"content_html": "<p>iOS 11.3 Face ID can now be used to authenticate approval of Family Purchases! Wooo</p>\n",
-			"date_published": "2018-03-29T22:22:00+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/03/29/ios-face-id.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/03/29/no-mans-sky.html",
-	      	
-			"content_html": "<p>No Man’s Sky is getting its biggest update yet this summer alongside Xbox One launch.</p>\n\n<ul>\n  <li><a href=\"http://dctr.pro/25d\">dctr.pro/25d</a></li>\n</ul>\n",
-			"date_published": "2018-03-29T22:17:00+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/03/29/no-mans-sky.html"
 		}
 		
 	]
