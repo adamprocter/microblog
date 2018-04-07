@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2018/04/07/mozilla-brings-firefox.html",
+	      	
+			"content_html": "<p>Mozilla Brings Firefox to Augmented and Virtual Reality - <a href=\"http://dctr.pro/25k\">dctr.pro/25k</a></p>\n",
+			"date_published": "2018-04-07T19:16:00+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/04/07/mozilla-brings-firefox.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2018/04/06/night-all-bedtimefilmsorted.html",
 	      	
 			"content_html": "<p>Night all ! #bedtimefilmsorted</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/0dd4d082c0.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Thanks Patreon subscriber!! This has boosted my confidence 👍👍 if like my good friend you want to support my digital stuff I’ve shamelessly updated link in my bio. #procterphd</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/aeff1cfbc4.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-04-03T14:49:00+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/04/03/thanks-patreon-subscriber.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/04/03/i-know-main.html",
-	      	
-			"content_html": "<p>I know main stream media are just waking up to it but you do know Cambridge Analytica (SLC Group) have been around for a long long time. It’s a little laughable the sudden outrage. But much like the NSA/GCHQ revelations will much actually change…</p>\n",
-			"date_published": "2018-04-03T11:54:00+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/04/03/i-know-main.html"
 		}
 		
 	]
