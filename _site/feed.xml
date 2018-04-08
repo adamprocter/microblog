@@ -4,8 +4,47 @@
     <title>Adam Procter</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/adamprocter&quot;&gt;@adamprocter on Micro.blog&lt;/a&gt;.</description>
     <link>https://discursive.adamprocter.co.uk/</link>
-    <pubDate>Sun, 08 Apr 2018 13:16:47 +0100</pubDate>
-    <lastBuildDate>Sun, 08 Apr 2018 13:16:47 +0100</lastBuildDate>
+    <pubDate>Sun, 08 Apr 2018 18:55:23 +0100</pubDate>
+    <lastBuildDate>Sun, 08 Apr 2018 18:55:23 +0100</lastBuildDate>
+    
+      <item>
+      	
+        <title>Twitter strung out the death of 3rd Party Apps for 6 years</title>
+        
+        <description>&lt;p&gt;3rd Party apps on twitter that survived to this day did very well after twitter changed its API back in 2012. I always thought that those that survived seemed to have found a loop hole and some had to request special excemption from limits set out by the new API. This move was to push people onto the official client and website to provide a more “consistent” twitter experience. Even embedding your own tweets in your own web page became a serious hassle, meaning the content started to become Silo’d almost overnight. So 3rd party use was never going to last but the final day has now &lt;a href=&quot;http://apps-of-a-feather.com/&quot;&gt;really arrived.&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I had been struggling to keep up in any meaningful way with twitter for a while and last summer I was toying with curating numerous lists to survive, a conversation with other twitter friends suggested it was the only way anyone was dealing with twitter. I felt slightly better that this was a common issue. However it was all a bit of a kludge and since the release of micro.blog I don’t post from twitter anymore and rarely catch up on anything but @ mentions and DMs. Twitters revenue plans were always against 3rd party apps. The recently released Twitterific for Mac backed on Kickstarter will have just about seen a year of usefulness.&lt;/p&gt;
+
+&lt;p&gt;I’ve always use 3rd party software, the awesome Twittelator was the first I used for a long time with its customisation but with the API changes it didn’t make it so I swapped to Tweetbot on iOS and macOS, the official clients were always terrible even before the adverts and promoted tweet nonsense.&lt;/p&gt;
+
+&lt;p&gt;Yet another reason to grab onto the indieweb and own your data. For an awesome twitter like experience I suggest you get on [micro.blog] today. Not only does it have a social network timeline but every single post is a blog entry on your own domain and the data is all yours.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 08 Apr 2018 18:55:00 +0100</pubDate>
+        <link>https://discursive.adamprocter.co.uk/2018/04/08/twitter-strung-out.html</link>
+        <guid isPermaLink="true">http://adamprocter.micro.blog/2018/04/08/twitter-strung-out.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Adding connections #procterphd spatial UI&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://discursive.adamprocter.co.uk/uploads/2018/318a1f8e45.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 08 Apr 2018 17:53:00 +0100</pubDate>
+        <link>https://discursive.adamprocter.co.uk/2018/04/08/165308.html</link>
+        <guid isPermaLink="true">http://adamprocter.micro.blog/2018/04/08/165308.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Adding connections #procterphd&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://discursive.adamprocter.co.uk/uploads/2018/e01c885bd9.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 08 Apr 2018 17:27:00 +0100</pubDate>
+        <link>https://discursive.adamprocter.co.uk/2018/04/08/adding-connections-procterphd.html</link>
+        <guid isPermaLink="true">http://adamprocter.micro.blog/2018/04/08/adding-connections-procterphd.html</guid>
+      </item>
     
       <item>
       	
@@ -527,53 +566,6 @@ Neighbors cats have taken down a pigeon in the garden…Ref says play on.&lt;/p&
         <pubDate>Tue, 27 Mar 2018 22:46:00 +0100</pubDate>
         <link>https://discursive.adamprocter.co.uk/2018/03/27/ok-time-to.html</link>
         <guid isPermaLink="true">http://adamprocter.micro.blog/2018/03/27/ok-time-to.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;A number of peoples view of the web IS facebook and if you brave it out, you are warned and tracked.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://discursive.adamprocter.co.uk/uploads/2018/a498b905db.jpg&quot; width=&quot;337&quot; height=&quot;600&quot; /&gt;&lt;img src=&quot;http://discursive.adamprocter.co.uk/uploads/2018/6f8e01b781.jpg&quot; width=&quot;503&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 27 Mar 2018 15:47:00 +0100</pubDate>
-        <link>https://discursive.adamprocter.co.uk/2018/03/27/a-number-of.html</link>
-        <guid isPermaLink="true">http://adamprocter.micro.blog/2018/03/27/a-number-of.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Achtung! Decentralize, decentralize, decentralize!&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Did you know that Google keeps a map of everywhere you’ve &lt;a href=&quot;https://www.google.com/maps/timeline?pb&quot;&gt;been&lt;/a&gt;?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://dctr.pro/259&quot;&gt;dctr.pro/259&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 27 Mar 2018 15:23:00 +0100</pubDate>
-        <link>https://discursive.adamprocter.co.uk/2018/03/27/achtung-decentralize-decentralize.html</link>
-        <guid isPermaLink="true">http://adamprocter.micro.blog/2018/03/27/achtung-decentralize-decentralize.html</guid>
-      </item>
-    
-      <item>
-      	
-        <title>The Cambridge Analytical Data Apocalypse Was Predicted in 2007. </title>
-        
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;Perhaps the thorniest challenges exist on the data side, with respect to access and privacy,” the paper said. “Because a single dramatic incident involving a breach of privacy could produce rules and statutes that stifle the nascent field of computational social science.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Nuclear power is a dual-use technology. It can be weaponized.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://dctr.pro/258&quot;&gt;Wired&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 27 Mar 2018 10:13:00 +0100</pubDate>
-        <link>https://discursive.adamprocter.co.uk/2018/03/27/the-cambridge-analytical.html</link>
-        <guid isPermaLink="true">http://adamprocter.micro.blog/2018/03/27/the-cambridge-analytical.html</guid>
       </item>
     
   </channel>
