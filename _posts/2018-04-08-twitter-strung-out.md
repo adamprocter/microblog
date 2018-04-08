@@ -12,4 +12,4 @@ I had been struggling to keep up in any meaningful way with twitter for a while 
 
 I’ve always use 3rd party software, the awesome Twittelator was the first I used for a long time with its customisation but with the API changes it didn’t make it so I swapped to Tweetbot on iOS and macOS, the official clients were always terrible even before the adverts and promoted tweet nonsense.
 
-Yet another reason to grab onto the indieweb and own your data. For an awesome twitter like experience I suggest you get on [micro.blog] today. Not only does it have a social network timeline but every single post is a blog entry on your own domain and the data is all yours.  
+Yet another reason to grab onto the indieweb and own your data. For an awesome twitter like experience I suggest you get on [micro.blog](http://micro.blog) today. Not only does it have a social network timeline but every single post is a blog entry on your own domain and the data is all yours.  
