@@ -4,8 +4,17 @@
     <title>Adam Procter</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/adamprocter&quot;&gt;@adamprocter on Micro.blog&lt;/a&gt;.</description>
     <link>https://discursive.adamprocter.co.uk/</link>
-    <pubDate>Tue, 10 Apr 2018 11:06:10 +0100</pubDate>
-    <lastBuildDate>Tue, 10 Apr 2018 11:06:10 +0100</lastBuildDate>
+    <pubDate>Tue, 10 Apr 2018 12:52:43 +0100</pubDate>
+    <lastBuildDate>Tue, 10 Apr 2018 12:52:43 +0100</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Just a reminder people the commercial microwaves at work are 1100W that’s a lot more powerful than you realise. Aka reduce your cooking times save the queues. #tuesdaytips&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Apr 2018 12:50:00 +0100</pubDate>
+        <link>https://discursive.adamprocter.co.uk/2018/04/10/just-a-reminder.html</link>
+        <guid isPermaLink="true">http://adamprocter.micro.blog/2018/04/10/just-a-reminder.html</guid>
+      </item>
     
       <item>
       	
@@ -562,15 +571,6 @@ Neighbors cats have taken down a pigeon in the garden…Ref says play on.&lt;/p&
         <pubDate>Wed, 28 Mar 2018 20:46:00 +0100</pubDate>
         <link>https://discursive.adamprocter.co.uk/2018/03/28/video-procterphd-slow.html</link>
         <guid isPermaLink="true">http://adamprocter.micro.blog/2018/03/28/video-procterphd-slow.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;WOAH that was major, finally have a very simple example of real time database using &lt;a href=&quot;https://gitlab.adamprocter.co.uk/adamprocter/vue-and-cloud-firestore&quot;&gt;Vue and Cloud FireStore&lt;/a&gt;, only took me a day + ! But thankfully I now am back to where I was a few months back with Deepstream hub… realtime spatial hypertext coming soon(ish)&lt;/p&gt;
-</description>
-        <pubDate>Wed, 28 Mar 2018 20:21:00 +0100</pubDate>
-        <link>https://discursive.adamprocter.co.uk/2018/03/28/woah-that-was.html</link>
-        <guid isPermaLink="true">http://adamprocter.micro.blog/2018/03/28/woah-that-was.html</guid>
       </item>
     
   </channel>
