@@ -6,6 +6,24 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2018/04/10/instagram-make-me.html",
+	      	
+			"title": "Instagram makes me anxious 📷 ",
+			
+			"content_html": "<p>I get anxious when in real life friends don’t like an Instagram photo of mine, especially if it related to work I’m undertaking, I wonder why they didn’t spend 2 seconds pressing the heart, did they even see my photo? Don’t they know I like to get, well a like. It makes me worry.</p>\n\n<p>Sometimes I would have conversations about how many followers I had on Twitter and Instagram even knowing that most where bots or that I could game ways to grab followers. But sometimes I cared, why has he got more followers when I’ve been on twitter for years longer. It made me question my content. Should I have been more canny?</p>\n\n<p>So more and more I really appreciate that <a href=\"http://micro.blog\">micro.blog</a> doesn’t show or support any of this. People can favourite posts but you don’t know, you can’t tell how many people are following you. In fact the delay in extra JavaScript in headings and footers means I can’t install <a href=\"http://analytics.adamprocter.co.uk/\">Matomo</a> (analytics software thats not Google) and you know what the more I think about it the more I don’t want to now.</p>\n\n<p>When someone mentions me on micro.blog the interaction is so much more meaningful than a little heart, thumbs up or a like. Even a RT / Boosted style posting is not possible and so this is normally a mention with effort, real interaction.</p>\n\n<p>Thanks <a href=\"https://micro.blog/manton\">@manton</a> what a good default design decision.</p>\n\n<p>Wherever I can I’m turning off stats, likes and such that I don’t need to know. If you want to tell me you liked what I did. Well drop me a line on <a href=\"https://micro.blog/adamprocter\">micro.blog</a> or start a discussion on <a href=\"http://discourse.adamprocter.co.uk\">discourse</a>.</p>\n",
+			"date_published": "2018-04-10T09:41:00+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/04/10/instagram-make-me.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/04/10/free-as-in.html",
+	      	
+			"content_html": "<blockquote>\n  <p>Free as in Facebook.</p>\n</blockquote>\n\n<p>Referring to any service offered without charge in exchange for behavioral tracking, ongoing surveillance, or other monitoring and sale of any such information to third parties.</p>\n\n<p><a href=\"http://dctr.pro/25l\">dctr.pro/25l</a></p>\n",
+			"date_published": "2018-04-10T09:17:00+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/04/10/free-as-in.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2018/04/09/nice-mag-from.html",
 	      	
 			"content_html": "<p>Nice mag from Stack this month. Nice embossed text too. Should be a good read looks great.</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/8bb4447b36.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -189,22 +207,6 @@
 			"content_html": "<p>Not enough spot #rosiethecat posts these days. Enjoy this one. 👍 🐈</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/1e484c686f.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-04-04T22:33:00+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/04/04/not-enough-spot.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/04/04/ok-mins-to.html",
-	      	
-			"content_html": "<p>Ok 3mins 35 to complete. Survey link in Bio. <a href=\"http://dctr.pro/25i\">dctr.pro/25i</a> tell me what you see…</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/9671715ccd.jpg\" width=\"502\" height=\"282\" /></p>\n",
-			"date_published": "2018-04-04T22:22:00+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/04/04/ok-mins-to.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/04/04/as-ever-customer.html",
-	      	
-			"content_html": "<p>As ever customer service from @cloudabove UK based hosting company with excellent packages and service. <a href=\"https://cloudabove.com/\">cloudabove.com</a> - 💯 recommend</p>\n",
-			"date_published": "2018-04-04T19:45:00+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/04/04/as-ever-customer.html"
 		}
 		
 	]
