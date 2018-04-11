@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-09-21 12:45 +0100
+date: 2017-09-21 12:45:04 +0100
 guid: http://adamprocter.micro.blog/2017/09/21/working-on-updated.html
 ---
 Working on updated @decksetapp slides to explain to new @gamesdesignart students that university is not a level up but a game change in terms of educational experience. Woooo
