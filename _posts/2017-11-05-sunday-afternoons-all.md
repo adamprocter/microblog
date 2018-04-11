@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-11-05 18:04 +0100
+date: 2017-11-05 18:04:47 +0100
 guid: http://adamprocter.micro.blog/2017/11/05/sunday-afternoons-all.html
 ---
 Sunday afternoons all about everyone doing their thing. Wife having a break. Evie taking a swim. Me learning something in code. This week for me more Godot 3. #gameengine #godotengine #design
