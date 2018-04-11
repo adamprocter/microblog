@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-11-03 18:13 +0100
+date: 2017-11-03 18:13:54 +0100
 guid: http://adamprocter.micro.blog/2017/11/03/it-will-ship.html
 ---
 “it will ship when it ships. you do know it is a pre-order device?”
