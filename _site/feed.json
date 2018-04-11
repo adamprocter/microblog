@@ -6,26 +6,26 @@
 	"items": [
 		
 		{
-			"id": "http://adamprocter.micro.blog/2018/04/11/cross-posting-to.html",
-	      	
-			"content_html": "<p>Cross posting to Twitter and Facebook disabled. So far so good.</p>\n",
-			"date_published": "2018-04-11T10:20:00+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/04/11/cross-posting-to.html"
-		},
-		
-		{
 			"id": "http://adamprocter.micro.blog/2018/04/11/cool-vue-gui.html",
 	      	
 			"content_html": "<p>Cool, Vue 3 GUI based “CLI” sounds right up my street. Excellent news.</p>\n",
-			"date_published": "2018-04-11T10:20:00+01:00",
+			"date_published": "2018-04-11T10:20:14+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/04/11/cool-vue-gui.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/04/11/cross-posting-to.html",
+	      	
+			"content_html": "<p>Cross posting to Twitter and Facebook disabled. So far so good.</p>\n",
+			"date_published": "2018-04-11T10:20:02+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/04/11/cross-posting-to.html"
 		},
 		
 		{
 			"id": "http://adamprocter.micro.blog/2018/04/10/bye-corporate-social.html",
 	      	
 			"content_html": "<p>Bye corporate social media. Look out this Sunday on how to follow me from now on. #excitingindieweb</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/91b250cf60.jpg\" width=\"600\" height=\"599\" /><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/f13c2e71c4.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-10T23:27:00+01:00",
+			"date_published": "2018-04-10T23:27:22+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/04/10/bye-corporate-social.html"
 		},
 		
@@ -34,8 +34,8 @@
 	      	
 			"title": "Crucial Match",
 			
-			"content_html": "<p><a href=\"http://discursive.adamprocter.co.uk/uploads/2018/f04e61c933.jpg\"><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/f04e61c933.jpg\" width=\"0\" height=\"0\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://discursive.adamprocter.co.uk/uploads/2018/8eb078d74a.jpg\"><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/8eb078d74a.jpg\" width=\"598\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://discursive.adamprocter.co.uk/uploads/2018/5f09ff1a91.jpg\"><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/5f09ff1a91.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://discursive.adamprocter.co.uk/uploads/2018/c0633684f5.jpg\"><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/c0633684f5.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>The Cherry Red Records Stadium.</p>\n\n",
-			"date_published": "2018-04-10T21:52:00+01:00",
+			"content_html": "<p><a href=\"http://discursive.adamprocter.co.uk/uploads/2018/f04e61c933.jpg\"><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/f04e61c933.jpg\" width=\"0\" height=\"0\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://discursive.adamprocter.co.uk/uploads/2018/8eb078d74a.jpg\"><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/8eb078d74a.jpg\" width=\"598\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://discursive.adamprocter.co.uk/uploads/2018/5f09ff1a91.jpg\"><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/5f09ff1a91.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://discursive.adamprocter.co.uk/uploads/2018/c0633684f5.jpg\"><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/c0633684f5.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>The Cherry Red Records Stadium.</p>\n\n<p><a href=\"https://www.afcwimbledon.co.uk/news/2018/april/dons-show-true-grit-to-earn-vital-victory/\">www.afcwimbledon.co.uk/news/2018…</a></p>\n\n",
+			"date_published": "2018-04-10T21:52:14+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/04/10/crucial-match.html"
 		},
 		
@@ -43,7 +43,7 @@
 			"id": "http://adamprocter.micro.blog/2018/04/10/wooo-httpstickerswappingcom-is.html",
 	      	
 			"content_html": "<p>Wooo <a href=\"http://stickerswapping.com\">stickerswapping.com</a> is back online for Panini album Russia 2018 #gotgotneed @sennepldn side project #paninistickerw</p>\n",
-			"date_published": "2018-04-10T20:45:00+01:00",
+			"date_published": "2018-04-10T20:45:36+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/04/10/wooo-httpstickerswappingcom-is.html"
 		},
 		
@@ -51,7 +51,7 @@
 			"id": "http://adamprocter.micro.blog/2018/04/10/ah-ha-have.html",
 	      	
 			"content_html": "<p>Ah ha have formulated a plan for Facebook, Twitter and Instagram. Friends will get reminded for a while of where they can view my content as a weekly update now. <a href=\"http://discursive.adamprocter.co.uk\">discursive.adamprocter.co.uk</a></p>\n",
-			"date_published": "2018-04-10T18:57:00+01:00",
+			"date_published": "2018-04-10T18:57:39+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/04/10/ah-ha-have.html"
 		},
 		
@@ -59,7 +59,7 @@
 			"id": "http://adamprocter.micro.blog/2018/04/10/ignoring-the-mess.html",
 	      	
 			"content_html": "<p>Ignoring the mess #spotthecat #rosiethecat #marmaladethecat #nomoreinstagram</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/981c8dec72.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-10T17:18:00+01:00",
+			"date_published": "2018-04-10T17:18:29+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/04/10/ignoring-the-mess.html"
 		},
 		
@@ -68,8 +68,8 @@
 	      	
 			"title": "Active Social Network Account Deletion",
 			
-			"content_html": "<p>Any of my “followers” will be acutely aware that I have been going on about privacy and the invasion of this by corporate Silicon Valley for a little while now.  Their albeit legal but unethical use of data mining has become the sole business model of the vast majority of internet technologies we use. Yet I have accounts on almost all of the services, my wife would say;   &gt;Get out, leave us alone and shut the door behind you..  In fact she has numerous times. We only recently refriended on Facebook.</p>\n\n<p>I was I have to admit an addict to signing up to any new internet service which is why I have accounts nearly everywhere, back in the early days of the web this was pretty exciting and something I felt compelled to do. Also it was the one way to secure that precious username, some accounts lay very dormant and some I still use more regularly.</p>\n\n<p>One such service is Facebook, over the years friends and family have slowly joined Facebook. My many attempts prior to this to try and get family to consider sharing online was well met normally with “why would I want to do that” Even robust and Friendly cross platform private services such as Flickr or such never worked, the technical barriers albeit low still were still to high, it was only for the nerds, of course this did change not rapidly but slowly. So to be fair it is nice to see more images, comments and links from family and friends via Facebook.</p>\n\n<p>Over time Facebook adjusted its timeline and went from a chronological based timeline to an algorithmic timeline, in fact all the popular social network services have ended up doing this, there has been some <a href=\"http://thoughtshrapnel.com/2018/04/06/death-newsfeed/\">discussion</a> that this is the only way to try and curate the amount of interactions we have to deal with. Its a vicious catch 22 situation.</p>\n\n<p>In 2014 media focussed on Facebook using this <a href=\"https://www.theguardian.com/technology/2014/jun/29/facebook-users-emotions-news-feeds\">manipulated timeline </a>to see if it effected peoples feelings and well sure enough it did, but they did this without letting anyone know, they played with peoples feelings to see what happened. The reality of this experiment could have resulted in suicide. Medical trials are governed by a sizeable amount of legal requirements and opt in details, yet it seemed we had all agreed in the terms and conditions that experiments like this where allowed via the Facebook platform. Of course this was and is just the tip of the iceberg, there are many experiments facebook have undertaken based on different segments of their users which have had real impact, such as changes to the news feed based on <a href=\"https://www.nytimes.com/2018/03/01/technology/facebook-end-news-feed-experiment-six-countries-that-magnified-fake-news.html\">geolocation</a> which amplified fake news. The latest revelation is that 3rd party use of the Facebook data has had impacts on the outcome of western elections as one company <a href=\"https://www.theguardian.com/uk-news/cambridge-analytica\">Cambridge Analytica</a> again manipulated the timelines of friends of friends by gathering a wealth of data and injecting specific types of adverting and curated news in the timelines of many users, a lot who didn’t event use the app that was involved, they happened to have a friend that did. None of these stories and I only pick a few are a surprise, I understand the model of business operated here is <a href=\"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2594754\">surveillance capitalism</a>.</p>\n\n<p>In a talk about making games, one question I often pose is that understanding that Google and Facebook are not technology companies but advertising companies changes your understanding of Games such as Candy Crush and Ingress.</p>\n\n<p>So we know Facebook harvests all the data you put into the site and we also know they use tracking to follow you out of facebook and around the web, and in and out of Apps. In fact we know that facebook also saves things you thing you discard, another study looking at self-censorship (2013) and recent archives reveals lots of data that was never posted (including <a href=\"http://nymag.com/selectall/2018/03/facebook-secretly-saved-videos-users-deleted.html\">videos</a>). All of these actions, tracking, storing, saving with you knowing is to ensure they can better curate your timeline which is so you spend more time in the Facebook eco system itself, as the more time spent on Facebook the more targeted the advertising can be and the more money that an be charged for that adverts spot. For some people Facebook is the web.</p>\n\n<p>So every often I would cut back on direct Facebook interactions. I have Firefox on my Mac and iOS set to block all trackers and have Firefox Focus Blocker turn on for iOS Safari, I use 3rd parties for other browsers on Mac and iOS including <a href=\"https://www.ghostery.com/\">Ghostery</a> (although I now understand Ghostery sells data to advertisers) and<a href=\"https://2017.ind.ie/blog/better/\">ind.ie’s Better</a>. I also use <a href=\"http://1.1.1.1\">1.1.1.1</a> a privacy based DNS. I now only cross post my content to Facebook  and Twitter. All the content I produce is stored where I have control over the data and it will not get removed due to changes in Terms and Conditions. However Facebook and Twitter are still gathering my data due to cross posting. Occasionally Facebook considers my cross posts from Micro.blog as Spam.</p>\n\n<p>Instagram is currently the worst offender in that their API does not allow any cross posting from any another source than the official app. So I currently post from instagram and use <a href=\"https://ownyourgram.com/\">Ownyourgram</a> to cross post and thus store the original content in micro.blog. All my photos are also uploaded to iCloud and Flickr. Videos don’t cross post so I use an <a href=\"https://ifttt.com/\">IFTTT</a> workflow that save these direct to dropbox. Twitter has recently killed off 3rd party app <a href=\"http://apps-of-a-feather.com/\">integration</a>.  So you have to ask why would these free services continue to allow any 3rd party style integration going forward?</p>\n\n<p>Actively deleting accounts is hard to do. Being less active on Facebook, Twitter, Instagram and Whats App is relatively easy to do but deleting you account loses you access to your friends and is thus much harder. Facebook knows this. Its called <a href=\"https://en.wikipedia.org/wiki/Network_effect\">The Network Effect</a>. Personally Instagram is one of the hardest for me to be less active on as I use it for both for myself and promoting the Games course I run, however since changes to the timeline and the like <a href=\"http://discursive.adamprocter.co.uk/2018/04/10/instagram-make-me.html\">anxiety</a> I have, I certainly will move away from the platform, I thought it would be hard with Twitter but that proved not to be the case.</p>\n\n<p>So I can recommend taking a look at some alternatives such as <a href=\"https://micro.blog/\">micro.blog</a> (twitter) <a href=\"https://www.signal.org/\">Signal</a> (what’s app) and <a href=\"http://sunlit.io/\">Sunlit</a> (instagram). As for a closed group sharing platform beyond a messaging app this is a little trickier but a perhaps a private <a href=\"https://joinmastodon.org/\">Mastodon</a> instance would be the way to go, although pretty tech heavy to setup. I know some <a href=\"https://aaronparecki.com/2018/03/12/17/building-an-indieweb-reader\">work</a> is being done by the awesome <a href=\"https://aaronparecki.com\">Aaron Parecki </a> that could allow you bring private blogs together in his app called <a href=\"https://indieweb.org/Monocle\">Monocle</a> which looks very interesting and could easily allow for small communities to come together in one space privately.</p>\n\n<p>Ill be slowly reducing my time on all services and will see how long I continue to syndicate to them, so please see my <a href=\"http://discursive.adamprocter.co.uk\">blog</a> , follow me on <a href=\"http://micro.blog/adamprocter\">micro.blog</a> and start conversations with me on <a href=\"http://discourse.adamprocter.co.uk\">discourse</a>.</p>\n\n<p>I am pleased the idea of the <a href=\"https://indieweb.org/\">indie web</a> has seen more focus by the wider web community in the last few  years, it makes total sense to me and I am glad things are finally starting to come together and may well help bring the web further away from the Silicon Valley data monetisation model.</p>\n",
-			"date_published": "2018-04-10T13:57:00+01:00",
+			"content_html": "<p>Any of my “followers” will be acutely aware that I have been going on about privacy and the invasion of this by corporate Silicon Valley for a little while now.  Their albeit legal but unethical use of data mining has become the sole business model of the vast majority of internet technologies we use. Yet I have accounts on almost all of the services, my wife would say;</p>\n\n<blockquote>\n  <p>Get out, leave us alone and shut the door behind you..In fact she has numerous times. We only recently refriended on Facebook.</p>\n</blockquote>\n\n<p>I was I have to admit an addict to signing up to any new internet service which is why I have accounts nearly everywhere, back in the early days of the web this was pretty exciting and something I felt compelled to do. Also it was the one way to secure that precious username, some accounts lay very dormant and some I still use more regularly.</p>\n\n<p>One such service is Facebook, over the years friends and family have slowly joined Facebook. My many attempts prior to this to try and get family to consider sharing online was well met normally with “why would I want to do that” Even robust and Friendly cross platform private services such as Flickr or such never worked, the technical barriers albeit low still were still to high, it was only for the nerds, of course this did change not rapidly but slowly. So to be fair it is nice to see more images, comments and links from family and friends via Facebook.</p>\n\n<p>Over time Facebook adjusted its timeline and went from a chronological based timeline to an algorithmic timeline, in fact all the popular social network services have ended up doing this, there has been some <a href=\"http://thoughtshrapnel.com/2018/04/06/death-newsfeed/\">discussion</a> that this is the only way to try and curate the amount of interactions we have to deal with. Its a vicious catch 22 situation.</p>\n\n<p>In 2014 media focussed on Facebook using this <a href=\"https://www.theguardian.com/technology/2014/jun/29/facebook-users-emotions-news-feeds\">manipulated timeline </a>to see if it effected peoples feelings and well sure enough it did, but they did this without letting anyone know, they played with peoples feelings to see what happened. The reality of this experiment could have resulted in suicide. Medical trials are governed by a sizeable amount of legal requirements and opt in details, yet it seemed we had all agreed in the terms and conditions that experiments like this where allowed via the Facebook platform. Of course this was and is just the tip of the iceberg, there are many experiments facebook have undertaken based on different segments of their users which have had real impact, such as changes to the news feed based on <a href=\"https://www.nytimes.com/2018/03/01/technology/facebook-end-news-feed-experiment-six-countries-that-magnified-fake-news.html\">geolocation</a> which amplified fake news. The latest revelation is that 3rd party use of the Facebook data has had impacts on the outcome of western elections as one company <a href=\"https://www.theguardian.com/uk-news/cambridge-analytica\">Cambridge Analytica</a> again manipulated the timelines of friends of friends by gathering a wealth of data and injecting specific types of adverting and curated news in the timelines of many users, a lot who didn’t event use the app that was involved, they happened to have a friend that did. None of these stories and I only pick a few are a surprise, I understand the model of business operated here is <a href=\"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2594754\">surveillance capitalism</a>.</p>\n\n<p>In a talk about making games, one question I often pose is that understanding that Google and Facebook are not technology companies but advertising companies changes your understanding of Games such as Candy Crush and Ingress.</p>\n\n<p>So we know Facebook harvests all the data you put into the site and we also know they use tracking to follow you out of facebook and around the web, and in and out of Apps. In fact we know that facebook also saves things you thing you discard, another study looking at self-censorship (2013) and recent archives reveals lots of data that was never posted (including <a href=\"http://nymag.com/selectall/2018/03/facebook-secretly-saved-videos-users-deleted.html\">videos</a>). All of these actions, tracking, storing, saving with you knowing is to ensure they can better curate your timeline which is so you spend more time in the Facebook eco system itself, as the more time spent on Facebook the more targeted the advertising can be and the more money that an be charged for that adverts spot. For some people Facebook is the web.</p>\n\n<p>So every often I would cut back on direct Facebook interactions. I have Firefox on my Mac and iOS set to block all trackers and have Firefox Focus Blocker turn on for iOS Safari, I use 3rd parties for other browsers on Mac and iOS including <a href=\"https://www.ghostery.com/\">Ghostery</a> (although I now understand Ghostery sells data to advertisers) and<a href=\"https://2017.ind.ie/blog/better/\">ind.ie’s Better</a>. I also use <a href=\"http://1.1.1.1\">1.1.1.1</a> a privacy based DNS. I now only cross post my content to Facebook  and Twitter. All the content I produce is stored where I have control over the data and it will not get removed due to changes in Terms and Conditions. However Facebook and Twitter are still gathering my data due to cross posting. Occasionally Facebook considers my cross posts from Micro.blog as Spam.</p>\n\n<p>Instagram is currently the worst offender in that their API does not allow any cross posting from any another source than the official app. So I currently post from instagram and use <a href=\"https://ownyourgram.com/\">Ownyourgram</a> to cross post and thus store the original content in micro.blog. All my photos are also uploaded to iCloud and Flickr. Videos don’t cross post so I use an <a href=\"https://ifttt.com/\">IFTTT</a> workflow that save these direct to dropbox. Twitter has recently killed off 3rd party app <a href=\"http://apps-of-a-feather.com/\">integration</a>.  So you have to ask why would these free services continue to allow any 3rd party style integration going forward?</p>\n\n<p>Actively deleting accounts is hard to do. Being less active on Facebook, Twitter, Instagram and Whats App is relatively easy to do but deleting you account loses you access to your friends and is thus much harder. Facebook knows this. Its called <a href=\"https://en.wikipedia.org/wiki/Network_effect\">The Network Effect</a>. Personally Instagram is one of the hardest for me to be less active on as I use it for both for myself and promoting the Games course I run, however since changes to the timeline and the like <a href=\"http://discursive.adamprocter.co.uk/2018/04/10/instagram-make-me.html\">anxiety</a> I have, I certainly will move away from the platform, I thought it would be hard with Twitter but that proved not to be the case.</p>\n\n<p>So I can recommend taking a look at some alternatives such as <a href=\"https://micro.blog/\">micro.blog</a> (twitter) <a href=\"https://www.signal.org/\">Signal</a> (what’s app) and <a href=\"http://sunlit.io/\">Sunlit</a> (instagram). As for a closed group sharing platform beyond a messaging app this is a little trickier but a perhaps a private <a href=\"https://joinmastodon.org/\">Mastodon</a> instance would be the way to go, although pretty tech heavy to setup. I know some <a href=\"https://aaronparecki.com/2018/03/12/17/building-an-indieweb-reader\">work</a> is being done by the awesome <a href=\"https://aaronparecki.com\">Aaron Parecki </a> that could allow you bring private blogs together in his app called <a href=\"https://indieweb.org/Monocle\">Monocle</a> which looks very interesting and could easily allow for small communities to come together in one space privately.</p>\n\n<p>Ill be slowly reducing my time on all services and will see how long I continue to syndicate to them, so please see my <a href=\"http://discursive.adamprocter.co.uk\">blog</a> , follow me on <a href=\"http://micro.blog/adamprocter\">micro.blog</a> and start conversations with me on <a href=\"http://discourse.adamprocter.co.uk\">discourse</a>.</p>\n\n<p>I am pleased the idea of the <a href=\"https://indieweb.org/\">indie web</a> has seen more focus by the wider web community in the last few  years, it makes total sense to me and I am glad things are finally starting to come together and may well help bring the web further away from the Silicon Valley data monetisation model.</p>\n",
+			"date_published": "2018-04-10T13:57:39+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/04/10/active-social-network.html"
 		},
 		
@@ -77,7 +77,7 @@
 			"id": "http://adamprocter.micro.blog/2018/04/10/just-a-reminder.html",
 	      	
 			"content_html": "<p>Just a reminder people the commercial microwaves at work are 1100W that’s a lot more powerful than you realise. Aka reduce your cooking times save the queues. #tuesdaytips</p>\n",
-			"date_published": "2018-04-10T12:50:00+01:00",
+			"date_published": "2018-04-10T12:50:58+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/04/10/just-a-reminder.html"
 		},
 		
@@ -87,7 +87,7 @@
 			"title": "Instagram makes me anxious 📷 ",
 			
 			"content_html": "<p>I get anxious when in real life friends don’t like an Instagram photo of mine, especially if it related to work I’m undertaking, I wonder why they didn’t spend 2 seconds pressing the heart, did they even see my photo? Don’t they know I like to get, well a like. It makes me worry.</p>\n\n<p>Sometimes I would have conversations about how many followers I had on Twitter and Instagram even knowing that most where bots or that I could game ways to grab followers. But sometimes I cared, why has he got more followers when I’ve been on twitter for years longer. It made me question my content. Should I have been more canny?</p>\n\n<p>So more and more I really appreciate that <a href=\"http://micro.blog\">micro.blog</a> doesn’t show or support any of this. People can favourite posts but you don’t know, you can’t tell how many people are following you. In fact the delay in extra JavaScript in headings and footers means I can’t install <a href=\"http://analytics.adamprocter.co.uk/\">Matomo</a> (analytics software thats not Google) and you know what the more I think about it the more I don’t want to now.</p>\n\n<p>When someone mentions me on micro.blog the interaction is so much more meaningful than a little heart, thumbs up or a like. Even a RT / Boosted style posting is not possible and so this is normally a mention with effort, real interaction.</p>\n\n<p>Thanks <a href=\"https://micro.blog/manton\">@manton</a> what a good default design decision.</p>\n\n<p>Wherever I can I’m turning off stats, likes and such that I don’t need to know. If you want to tell me you liked what I did. Well drop me a line on <a href=\"https://micro.blog/adamprocter\">micro.blog</a> or start a discussion on <a href=\"http://discourse.adamprocter.co.uk\">discourse</a>.</p>\n",
-			"date_published": "2018-04-10T09:41:00+01:00",
+			"date_published": "2018-04-10T09:41:06+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/04/10/instagram-make-me.html"
 		},
 		
@@ -95,7 +95,7 @@
 			"id": "http://adamprocter.micro.blog/2018/04/10/free-as-in.html",
 	      	
 			"content_html": "<blockquote>\n  <p>Free as in Facebook.</p>\n</blockquote>\n\n<p>Referring to any service offered without charge in exchange for behavioral tracking, ongoing surveillance, or other monitoring and sale of any such information to third parties.</p>\n\n<p><a href=\"http://dctr.pro/25l\">dctr.pro/25l</a></p>\n",
-			"date_published": "2018-04-10T09:17:00+01:00",
+			"date_published": "2018-04-10T09:17:38+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/04/10/free-as-in.html"
 		},
 		
@@ -103,7 +103,7 @@
 			"id": "http://adamprocter.micro.blog/2018/04/09/nice-mag-from.html",
 	      	
 			"content_html": "<p>Nice mag from Stack this month. Nice embossed text too. Should be a good read looks great.</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/8bb4447b36.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-09T23:09:00+01:00",
+			"date_published": "2018-04-09T23:09:35+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/04/09/nice-mag-from.html"
 		},
 		
@@ -111,7 +111,7 @@
 			"id": "http://adamprocter.micro.blog/2018/04/09/got-the-basic.html",
 	      	
 			"content_html": "<p>Got the basic web based (vue) markdown editor up and running - <a href=\"https://discourse.adamprocter.co.uk/t/basic-webbased-markdown-editor/207\">Try Editor</a></p>\n\n",
-			"date_published": "2018-04-09T15:50:00+01:00",
+			"date_published": "2018-04-09T15:50:18+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/04/09/got-the-basic.html"
 		},
 		
@@ -119,7 +119,7 @@
 			"id": "http://adamprocter.micro.blog/2018/04/09/team-all-back.html",
 	      	
 			"content_html": "<p>Team all back on campus today, had a great games meeting to fire us up for the final half of the semester #excitingtimesGDA @gamesdesignart</p>\n",
-			"date_published": "2018-04-09T12:15:00+01:00",
+			"date_published": "2018-04-09T12:15:56+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/04/09/team-all-back.html"
 		},
 		
@@ -129,7 +129,7 @@
 			"title": "Twitter strung out the death of 3rd Party Apps for 6 years",
 			
 			"content_html": "<p>3rd Party apps on twitter that survived to this day did very well after twitter changed its API back in 2012. I always thought that those that survived seemed to have found a loop hole and some had to request special excemption from limits set out by the new API. This move was to push people onto the official client and website to provide a more “consistent” twitter experience. Even embedding your own tweets in your own web page became a serious hassle, meaning the content started to become Silo’d almost overnight. So 3rd party use was never going to last but the final day has now <a href=\"http://apps-of-a-feather.com/\">really arrived.</a>.</p>\n\n<p>I had been struggling to keep up in any meaningful way with twitter for a while and last summer I was toying with curating numerous lists to survive, a conversation with other twitter friends suggested it was the only way anyone was dealing with twitter. I felt slightly better that this was a common issue. However it was all a bit of a kludge and since the release of micro.blog I don’t post from twitter anymore and rarely catch up on anything but @ mentions and DMs. Twitters revenue plans were always against 3rd party apps. The recently released Twitterific for Mac backed on Kickstarter will have just about seen a year of usefulness.</p>\n\n<p>I’ve always use 3rd party software, the awesome Twittelator was the first I used for a long time with its customisation but with the API changes it didn’t make it so I swapped to Tweetbot on iOS and macOS, the official clients were always terrible even before the adverts and promoted tweet nonsense.</p>\n\n<p>Yet another reason to grab onto the indieweb and own your data. For an awesome twitter like experience I suggest you get on <a href=\"http://micro.blog\">micro.blog</a> today. Not only does it have a social network timeline but every single post is a blog entry on your own domain and the data is all yours.</p>\n",
-			"date_published": "2018-04-08T18:55:00+01:00",
+			"date_published": "2018-04-08T18:55:21+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/04/08/twitter-strung-out.html"
 		},
 		
@@ -137,7 +137,7 @@
 			"id": "http://adamprocter.micro.blog/2018/04/08/165308.html",
 	      	
 			"content_html": "<p>Adding connections #procterphd spatial UI</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/318a1f8e45.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-08T17:53:00+01:00",
+			"date_published": "2018-04-08T17:53:08+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/04/08/165308.html"
 		},
 		
@@ -145,7 +145,7 @@
 			"id": "http://adamprocter.micro.blog/2018/04/08/adding-connections-procterphd.html",
 	      	
 			"content_html": "<p>Adding connections #procterphd</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/e01c885bd9.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-08T17:27:00+01:00",
+			"date_published": "2018-04-08T17:27:16+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/04/08/adding-connections-procterphd.html"
 		},
 		
@@ -153,7 +153,7 @@
 			"id": "http://adamprocter.micro.blog/2018/04/08/local-cat-shelter.html",
 	      	
 			"content_html": "<p>Local cat shelter 🐱 #notourcats #spotthecat</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/9b517032ab.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-08T12:45:00+01:00",
+			"date_published": "2018-04-08T12:45:53+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/04/08/local-cat-shelter.html"
 		},
 		
@@ -161,7 +161,7 @@
 			"id": "http://adamprocter.micro.blog/2018/04/07/mozilla-brings-firefox.html",
 	      	
 			"content_html": "<p>Mozilla Brings Firefox to Augmented and Virtual Reality - <a href=\"http://dctr.pro/25k\">dctr.pro/25k</a></p>\n",
-			"date_published": "2018-04-07T19:16:00+01:00",
+			"date_published": "2018-04-07T19:16:53+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/04/07/mozilla-brings-firefox.html"
 		},
 		
@@ -169,7 +169,7 @@
 			"id": "http://adamprocter.micro.blog/2018/04/06/night-all-bedtimefilmsorted.html",
 	      	
 			"content_html": "<p>Night all ! #bedtimefilmsorted</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/0dd4d082c0.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-06T22:47:00+01:00",
+			"date_published": "2018-04-06T22:47:59+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/04/06/night-all-bedtimefilmsorted.html"
 		},
 		
@@ -177,7 +177,7 @@
 			"id": "http://adamprocter.micro.blog/2018/04/06/thankshttpsyoutubegsikyjrq-for-the.html",
 	      	
 			"content_html": "<p><a href=\"https://youtu.be/3GSI8kYJRq4\">Thanks</a> for the various feedback across platforms already please keep it coming at <a href=\"http://discourse.adamprocter.co.uk\">discourse.adamprocter.co.uk</a></p>\n",
-			"date_published": "2018-04-06T20:25:00+01:00",
+			"date_published": "2018-04-06T20:25:47+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/04/06/thankshttpsyoutubegsikyjrq-for-the.html"
 		},
 		
@@ -185,7 +185,7 @@
 			"id": "http://adamprocter.micro.blog/2018/04/06/thanks-for-all.html",
 	      	
 			"content_html": "<p>Thanks for all your feedback so far. Please keep it coming #procterphd - <a href=\"http://discourse.adamprocter.co.uk\">discourse.adamprocter.co.uk</a> - also linked in bio #design #edutech</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/88e25cfa27.jpg\" width=\"600\" height=\"337\" /></p>\n",
-			"date_published": "2018-04-06T19:49:00+01:00",
+			"date_published": "2018-04-06T19:49:52+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/04/06/thanks-for-all.html"
 		},
 		
@@ -193,7 +193,7 @@
 			"id": "http://adamprocter.micro.blog/2018/04/06/160538.html",
 	      	
 			"content_html": "<p>Looks like an awesome UX designer role has just come up @greenpeace check it out - <a href=\"https://workfor.greenpeace.org/vacancies/details/user-experience-designer/\">workfor.greenpeace.org/vacancies…</a></p>\n",
-			"date_published": "2018-04-06T17:05:00+01:00",
+			"date_published": "2018-04-06T17:05:38+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/04/06/160538.html"
 		},
 		
@@ -201,7 +201,7 @@
 			"id": "http://adamprocter.micro.blog/2018/04/06/oh-itunes-why.html",
 	      	
 			"content_html": "<p>Oh iTunes why do you mock me. #onedayyouwillbereplaced</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/a40dc70d5f.jpg\" width=\"320\" height=\"320\" /></p>\n",
-			"date_published": "2018-04-06T11:46:00+01:00",
+			"date_published": "2018-04-06T11:46:26+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/04/06/oh-itunes-why.html"
 		},
 		
@@ -209,7 +209,7 @@
 			"id": "http://adamprocter.micro.blog/2018/04/06/excellent-new-video.html",
 	      	
 			"content_html": "<p>Excellent new video about some of the aspects of Research being undertake at Winchester School of Art, University of Southampton - <a href=\"https://www.youtube.com/watch?v=KR4WMgCW5Dc\">www.youtube.com/watch</a></p>\n",
-			"date_published": "2018-04-06T10:30:00+01:00",
+			"date_published": "2018-04-06T10:30:55+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/04/06/excellent-new-video.html"
 		}
 		
