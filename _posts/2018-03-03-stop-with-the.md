@@ -3,7 +3,7 @@ layout: post
 title: "Stop with the Arts v Science nonsense"
 microblog: false
 audio: 
-date: 2018-03-03 15:25 +0100
+date: 2018-03-03 15:25:20 +0100
 guid: http://adamprocter.micro.blog/2018/03/03/stop-with-the.html
 ---
 One proposal coming forward in the UK is to lower Arts course fees based on the median wage being lower after graduation. This divide is another out dated mode that tries to split creativity out of the ongoing promotion of STEM. 
