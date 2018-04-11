@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-06 22:46 +0100
+date: 2018-03-06 22:46:44 +0100
 guid: http://adamprocter.micro.blog/2018/03/06/video-playing-with.html
 ---
 VIDEO : Playing with some interface concepts #procterphd #spatialhypertext #dymanicspaces
