@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-20 09:17 +0100
+date: 2017-12-20 09:17:13 +0100
 guid: http://adamprocter.micro.blog/2017/12/20/microblog-is-open.html
 ---
 Micro.blog is open for everyone.  100 sign ups per day. Let’s take the web back #indieweb #ownyourcontent #blog #share #publishing
