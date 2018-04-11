@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-07 13:06 +0100
+date: 2018-01-07 13:06:13 +0100
 guid: http://adamprocter.micro.blog/2018/01/07/arrived-coyd-afcwimbledon.html
 ---
 Arrived #coyd @afc_wimbledon
