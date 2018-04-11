@@ -3,7 +3,7 @@ layout: post
 title: "What does an ‘Active Blended Learning’ programme look like? "
 microblog: false
 audio: 
-date: 2018-02-15 09:55 +0100
+date: 2018-02-15 09:55:31 +0100
 guid: http://adamprocter.micro.blog/2018/02/15/what-does-an.html
 ---
 > The programme is taught through student-centred activities that support the development of subject knowledge and understanding, independent learning and digital fluency.
