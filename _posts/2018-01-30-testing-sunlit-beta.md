@@ -3,7 +3,7 @@ layout: post
 title: "Testing Sunlit Beta swarm Location"
 microblog: false
 audio: 
-date: 2018-01-30 22:45 +0100
+date: 2018-01-30 22:45:30 +0100
 guid: http://adamprocter.micro.blog/2018/01/30/testing-sunlit-beta.html
 ---
 
