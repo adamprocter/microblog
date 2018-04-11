@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-14 21:45 +0100
+date: 2018-01-14 21:45:12 +0100
 guid: http://adamprocter.micro.blog/2018/01/14/poem-penned-by.html
 ---
 Poem penned by @amyburvall the day after she woke up to probably the worst push notification you can imagine…
