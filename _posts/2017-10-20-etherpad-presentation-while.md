@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-10-20 21:34 +0100
+date: 2017-10-20 21:34:32 +0100
 guid: http://adamprocter.micro.blog/2017/10/20/etherpad-presentation-while.html
 ---
 Etherpad presentation. While each student presents theme ideas everyone else contributes to the pad with quick fire of the top of the head comments and avenues of pursuit. Hard but good. Think fast. We then upvote presented themes with emoji (although emoji broke today)
