@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-12 14:38 +0100
+date: 2018-03-12 14:38:16 +0100
 guid: http://adamprocter.micro.blog/2018/03/12/new-week-new.html
 ---
 New week. New books #procterphd #hypermedia #spatialhypertext
