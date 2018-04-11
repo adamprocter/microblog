@@ -6,7 +6,7 @@ audio:
 date: 2018-04-10 13:57 +0100
 guid: http://adamprocter.micro.blog/2018/04/10/active-social-network.html
 ---
-Any of my “followers” will be acutely aware that I have been going on about privacy and the invasion of this by corporate Silicon Valley for a little while now.  Their albeit legal but unethical use of data mining has become the sole business model of the vast majority of internet technologies we use. Yet I have accounts on almost all of the services, my wife would say;   >Get out, leave us alone and shut the door behind you..  In fact she has numerous times. We only recently refriend on Facebook.
+Any of my “followers” will be acutely aware that I have been going on about privacy and the invasion of this by corporate Silicon Valley for a little while now.  Their albeit legal but unethical use of data mining has become the sole business model of the vast majority of internet technologies we use. Yet I have accounts on almost all of the services, my wife would say;   >Get out, leave us alone and shut the door behind you..  In fact she has numerous times. We only recently refriended on Facebook.
 
 I was I have to admit an addict to signing up to any new internet service which is why I have accounts nearly everywhere, back in the early days of the web this was pretty exciting and something I felt compelled to do. Also it was the one way to secure that precious username, some accounts lay very dormant and some I still use more regularly. 
 
