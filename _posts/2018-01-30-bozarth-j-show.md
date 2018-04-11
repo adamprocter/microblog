@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-30 16:49 +0100
+date: 2018-01-30 16:49:25 +0100
 guid: http://adamprocter.micro.blog/2018/01/30/bozarth-j-show.html
 ---
 Bozarth, J., 2014. Show Your Work, John Wiley & Sons.  📚
