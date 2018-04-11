@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-07 09:15 +0100
+date: 2018-01-07 09:15:40 +0100
 guid: http://adamprocter.micro.blog/2018/01/07/completely-agree-with.html
 ---
 Completely agree with this piece from the Guardian.
