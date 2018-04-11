@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-08-14 13:01 +0100
+date: 2017-08-14 13:01:17 +0100
 guid: http://adamprocter.micro.blog/2017/08/14/enjoying-the-work.html
 ---
 Enjoying the work @gamesdesignart graduates are doing @sennepldn in #sennep_holes!! @_silverbeat_ @errorwilliams #sneakpeak
