@@ -3,7 +3,7 @@ layout: post
 title: "Find a better Balance between Life & Tech"
 microblog: false
 audio: 
-date: 2017-12-06 00:45 +0100
+date: 2017-12-06 00:45:25 +0100
 guid: http://adamprocter.micro.blog/2017/12/05/find-a-better.html
 ---
 Inspiring talk indeed, Simon Sinek considers the overuse & instant gratification that has arisen from a variety of converging areas, specifically connected to millianials around environment and technology. 
