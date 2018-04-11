@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-20 23:03 +0100
+date: 2018-03-20 23:03:18 +0100
 guid: http://adamprocter.micro.blog/2018/03/20/this-wasnt-a.html
 ---
 > This wasn’t a breach in the technical sense. It is something even more troubling: an all-too-natural consequence of Facebook’s business model.
