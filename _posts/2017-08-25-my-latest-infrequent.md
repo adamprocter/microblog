@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-08-25 09:20 +0100
+date: 2017-08-25 09:20:22 +0100
 guid: http://adamprocter.micro.blog/2017/08/25/my-latest-infrequent.html
 ---
 My latest infrequent newsletter is out;
