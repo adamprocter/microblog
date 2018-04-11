@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-06 19:49 +0100
+date: 2018-04-06 19:49:52 +0100
 guid: http://adamprocter.micro.blog/2018/04/06/thanks-for-all.html
 ---
 Thanks for all your feedback so far. Please keep it coming #procterphd - [discourse.adamprocter.co.uk](http://discourse.adamprocter.co.uk) - also linked in bio #design #edutech
