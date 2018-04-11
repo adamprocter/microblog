@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-09-26 20:20 +0100
+date: 2017-09-26 20:20:05 +0100
 guid: http://adamprocter.micro.blog/2017/09/26/rsadesign-ideo-designthinking.html
 ---
 #rsadesign #ideo #designthinking #ideasofrevolt #humanitycentred
