@@ -3,7 +3,7 @@ layout: post
 title: "Re-rise of Indie web & Microblogging"
 microblog: false
 audio: 
-date: 2018-03-08 13:01 +0100
+date: 2018-03-08 13:01:03 +0100
 guid: http://adamprocter.micro.blog/2018/03/08/rerise-of-indie.html
 ---
 Am pulling together my own micro blogging talk for an Experimental Publishing module here at Winchester School of Art and am focusing on a brief introduction around the issue of control over the web.
