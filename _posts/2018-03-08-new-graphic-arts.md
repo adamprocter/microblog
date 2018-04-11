@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-08 17:21 +0100
+date: 2018-03-08 17:21:19 +0100
 guid: http://adamprocter.micro.blog/2018/03/08/new-graphic-arts.html
 ---
 New Graphic Arts Programme Leader Job has been advertised. Winchester School of Art, University of Southampton. 
