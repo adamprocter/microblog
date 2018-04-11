@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-09-25 21:53 +0100
+date: 2017-09-25 21:53:35 +0100
 guid: http://adamprocter.micro.blog/2017/09/25/great-insight-into.html
 ---
 Great insight into the work Garnet Hetrz has been doing talk today @winchesterart #designedu
