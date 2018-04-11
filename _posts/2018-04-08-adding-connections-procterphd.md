@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-08 17:27 +0100
+date: 2018-04-08 17:27:16 +0100
 guid: http://adamprocter.micro.blog/2018/04/08/adding-connections-procterphd.html
 ---
 Adding connections #procterphd
