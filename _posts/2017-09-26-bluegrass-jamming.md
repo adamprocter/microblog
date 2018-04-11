@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-09-26 21:32 +0100
+date: 2017-09-26 21:32:19 +0100
 guid: http://adamprocter.micro.blog/2017/09/26/bluegrass-jamming.html
 ---
 Bluegrass jamming 👍😊
