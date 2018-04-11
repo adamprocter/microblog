@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-21 11:08 +0100
+date: 2018-01-21 11:08:14 +0100
 guid: http://adamprocter.micro.blog/2018/01/21/excellent-essayhow-to.html
 ---
 Excellent essay.
