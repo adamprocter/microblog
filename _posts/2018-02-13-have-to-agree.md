@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-13 23:38 +0100
+date: 2018-02-13 23:38:15 +0100
 guid: http://adamprocter.micro.blog/2018/02/13/have-to-agree.html
 ---
 Have to agree with the Guardian this non-alcoholic beer is pretty good. 🍺 Purchased at tesco worth checking out. #nodrinkingduringtheweek #workarounds #partyhardprocter
