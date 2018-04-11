@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-15 23:29 +0100
+date: 2018-03-15 23:29:30 +0100
 guid: http://adamprocter.micro.blog/2018/03/15/arrived-rollerderby-rollerdisco.html
 ---
 Arrived. #rollerderby #rollerdisco
