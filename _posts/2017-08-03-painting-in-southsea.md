@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-08-03 14:45 +0100
+date: 2017-08-03 14:45:09 +0100
 guid: http://adamprocter.micro.blog/2017/08/03/painting-in-southsea.html
 ---
 Painting in southsea
