@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-11 22:14 +0100
+date: 2018-03-11 22:14:13 +0100
 guid: http://adamprocter.micro.blog/2018/03/11/dance-day-irishdancing.html
 ---
 Dance day. #irishdancing ☘️. Progress completely won out and now into Prelims.
