@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-18 22:58 +0100
+date: 2018-03-18 22:58:36 +0100
 guid: http://adamprocter.micro.blog/2018/03/18/nice-graphics-for.html
 ---
 Nice graphics for WWDC 2018
