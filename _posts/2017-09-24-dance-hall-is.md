@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-09-24 15:32 +0100
+date: 2017-09-24 15:32:15 +0100
 guid: http://adamprocter.micro.blog/2017/09/24/dance-hall-is.html
 ---
 Dance hall is very hot today indeed #barnet
