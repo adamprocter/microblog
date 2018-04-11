@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-29 13:03 +0100
+date: 2018-03-29 13:03:01 +0100
 guid: http://adamprocter.micro.blog/2018/03/29/creative-industries-sector.html
 ---
 Creative Industries Sector Deal launched [GOV.UK](http://dctr.pro/25b) 
