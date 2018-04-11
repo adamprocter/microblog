@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-08 23:28 +0100
+date: 2018-03-08 23:28:42 +0100
 guid: http://adamprocter.micro.blog/2018/03/08/lagom-magazine-inspiring.html
 ---
 Lagom Magazine - 10 Inspiring Women
