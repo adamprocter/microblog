@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-09-22 13:11 +0100
+date: 2017-09-22 13:11:00 +0100
 guid: http://adamprocter.micro.blog/2017/09/22/did-someone-say.html
 ---
 Did someone say SUSU.WSA model? Yep
