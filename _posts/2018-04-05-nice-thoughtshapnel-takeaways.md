@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-05 18:29 +0100
+date: 2018-04-05 18:29:55 +0100
 guid: http://adamprocter.micro.blog/2018/04/05/nice-thoughtshapnel-takeaways.html
 ---
 nice @thoughtshrapnel takeaways from Stephen Downes’ talk on [personal learning ](http://dctr.pro/25j) 
