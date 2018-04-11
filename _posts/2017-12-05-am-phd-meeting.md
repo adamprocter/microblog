@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-05 20:26 +0100
+date: 2017-12-05 20:26:44 +0100
 guid: http://adamprocter.micro.blog/2017/12/05/am-phd-meeting.html
 ---
 AM PhD Meeting with my supervisors great. PM Less productive but made little Sketch file & failed to work out Principles animation tools (yet) #procterphd #openphd - a little reading AM / no writing PM.
