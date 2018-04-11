@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-24 18:34 +0100
+date: 2018-03-24 18:34:43 +0100
 guid: http://adamprocter.micro.blog/2018/03/24/even-more-so.html
 ---
 Even more so today Mr Brown even more so. 🎧🎼
