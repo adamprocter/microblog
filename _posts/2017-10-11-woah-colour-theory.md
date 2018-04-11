@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-10-11 10:56 +0100
+date: 2017-10-11 10:56:35 +0100
 guid: http://adamprocter.micro.blog/2017/10/11/woah-colour-theory.html
 ---
 Woah colour theory mega depth lecture ! “We will revisit yellow later” 😳
