@@ -3,7 +3,7 @@ layout: post
 title: "Twitter strung out the death of 3rd Party Apps for 6 years"
 microblog: false
 audio: 
-date: 2018-04-08 18:55 +0100
+date: 2018-04-08 18:55:21 +0100
 guid: http://adamprocter.micro.blog/2018/04/08/twitter-strung-out.html
 ---
 3rd Party apps on twitter that survived to this day did very well after twitter changed its API back in 2012. I always thought that those that survived seemed to have found a loop hole and some had to request special excemption from limits set out by the new API. This move was to push people onto the official client and website to provide a more “consistent” twitter experience. Even embedding your own tweets in your own web page became a serious hassle, meaning the content started to become Silo’d almost overnight. So 3rd party use was never going to last but the final day has now [really arrived.](http://apps-of-a-feather.com/). 
