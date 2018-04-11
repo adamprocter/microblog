@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-27 15:23 +0100
+date: 2018-03-27 15:23:11 +0100
 guid: http://adamprocter.micro.blog/2018/03/27/achtung-decentralize-decentralize.html
 ---
 Achtung! Decentralize, decentralize, decentralize! 
