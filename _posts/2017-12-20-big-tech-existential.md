@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-20 23:10 +0100
+date: 2017-12-20 23:10:17 +0100
 guid: http://adamprocter.micro.blog/2017/12/20/big-tech-existential.html
 ---
 Big Tech, Existential threat, Knowledge Monopolies… hello! 100% up my street instant place gained on wish list - World Without Mind, Franklin Foer, 2017 - [dctr.pro/22r](http://dctr.pro/22r)
