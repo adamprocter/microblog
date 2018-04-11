@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-07 14:29 +0100
+date: 2017-12-07 14:29:38 +0100
 guid: http://adamprocter.micro.blog/2017/12/07/post-each-week.html
 ---
 Post each week the task I tell them Post each week don’t leave it till the end you should respond to material each week. That’s what I tell them! WordPress stats revealing true student activity. #excitingtimesatwsa first 1st year hand in (or should I say Blog in)
