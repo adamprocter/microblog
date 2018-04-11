@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-07-17 16:06 +0100
+date: 2017-07-17 16:06:34 +0100
 guid: http://adamprocter.micro.blog/2017/07/17/arrived-fbla-bbq.html
 ---
 Arrived. FBLA BBQ
