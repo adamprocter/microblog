@@ -3,7 +3,7 @@ layout: post
 title: "Instagram makes me anxious 📷 "
 microblog: false
 audio: 
-date: 2018-04-10 09:41 +0100
+date: 2018-04-10 09:41:06 +0100
 guid: http://adamprocter.micro.blog/2018/04/10/instagram-make-me.html
 ---
 I get anxious when in real life friends don’t like an Instagram photo of mine, especially if it related to work I’m undertaking, I wonder why they didn’t spend 2 seconds pressing the heart, did they even see my photo? Don’t they know I like to get, well a like. It makes me worry. 
