@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-09-27 20:46 +0100
+date: 2017-09-27 20:46:44 +0100
 guid: http://adamprocter.micro.blog/2017/09/27/characters.html
 ---
 139 characters 💥
