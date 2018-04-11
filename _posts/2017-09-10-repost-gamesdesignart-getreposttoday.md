@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-09-10 20:16 +0100
+date: 2017-09-10 20:16:00 +0100
 guid: http://adamprocter.micro.blog/2017/09/10/repost-gamesdesignart-getreposttoday.html
 ---
 #Repost @gamesdesignart (@get_repost)
