@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-29 13:10 +0100
+date: 2018-01-29 13:10:53 +0100
 guid: http://adamprocter.micro.blog/2018/01/29/yeah-game-is.html
 ---
 Yeah Game 3.0 is so interesting and good to see it back in the media. I often reference this talk in 2007 on @gamesdesignart @edgethings
