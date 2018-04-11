@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-06 13:22 +0100
+date: 2018-01-06 13:22:26 +0100
 guid: http://adamprocter.micro.blog/2018/01/06/they-see-you.html
 ---
 “They see you when you’re sleeping, they know when you’re awake” #bigdata #surveillancecapitalism
