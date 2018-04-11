@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-11-18 17:57 +0100
+date: 2017-11-18 17:57:49 +0100
 guid: http://adamprocter.micro.blog/2017/11/18/selfies-also-on.html
 ---
 Selfies also on the banned list but this camera is cool #donttell@manthyprocter
