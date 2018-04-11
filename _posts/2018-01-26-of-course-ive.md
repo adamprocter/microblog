@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-26 23:19 +0100
+date: 2018-01-26 23:19:02 +0100
 guid: http://adamprocter.micro.blog/2018/01/26/of-course-ive.html
 ---
 Of course I’ve just been wearing this “random” games tshirt since I picked it up at Women in Games event. Today grabbed it random and it was the day to wear it. kudos from students until I was like “oh it’s monster hunter hahaha didn’t know” and don’t even talk to me about the fall out top mistake. #gamesgamesgames 😂
