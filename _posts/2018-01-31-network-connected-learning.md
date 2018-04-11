@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-31 22:26 +0100
+date: 2018-01-31 22:26:14 +0100
 guid: http://adamprocter.micro.blog/2018/01/31/network-connected-learning.html
 ---
 Network connected learning object #procterphd
