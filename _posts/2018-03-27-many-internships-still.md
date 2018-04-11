@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-27 09:46 +0100
+date: 2018-03-27 09:46:39 +0100
 guid: http://adamprocter.micro.blog/2018/03/27/many-internships-still.html
 ---
 Many Internships still clearly unethical; 
