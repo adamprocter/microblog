@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-11-28 23:27 +0100
+date: 2017-11-28 23:27:53 +0100
 guid: http://adamprocter.micro.blog/2017/11/28/fragmentumadamproctercouk-episode-microcast.html
 ---
 fragmentum.adamprocter.co.uk Episode 9 microcast our now - search and subscribe in your favourite podcatcher #overcastfm
