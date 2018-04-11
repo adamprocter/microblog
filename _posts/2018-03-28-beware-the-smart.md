@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-28 12:21 +0100
+date: 2018-03-28 12:21:48 +0100
 guid: http://adamprocter.micro.blog/2018/03/28/beware-the-smart.html
 ---
 Beware the smart toaster: 18 tips for surviving the surveillance age. 
