@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-09 23:09 +0100
+date: 2018-04-09 23:09:35 +0100
 guid: http://adamprocter.micro.blog/2018/04/09/nice-mag-from.html
 ---
 Nice mag from Stack this month. Nice embossed text too. Should be a good read looks great.
