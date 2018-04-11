@@ -3,7 +3,7 @@ layout: post
 title: "Projects, Passion, Peers and Play"
 microblog: false
 audio: 
-date: 2017-12-10 14:38 +0100
+date: 2017-12-10 14:38:58 +0100
 guid: http://adamprocter.micro.blog/2017/12/10/projects-passion-peers.html
 ---
 Great way to sum up excellent curriculum development. 
