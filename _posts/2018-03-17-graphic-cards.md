@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-17 21:45 +0100
+date: 2018-03-17 21:45:56 +0100
 guid: http://adamprocter.micro.blog/2018/03/17/graphic-cards.html
 ---
 Graphic cards
