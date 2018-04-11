@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-02 20:08 +0100
+date: 2018-01-02 20:08:18 +0100
 guid: http://adamprocter.micro.blog/2018/01/02/able-to-screen.html
 ---
 Able to screen capture from an iOS device now and thus preview front camera but not scaling the input or landscape yet ☹️close #procterphd
