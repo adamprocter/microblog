@@ -3,7 +3,7 @@ layout: post
 title: "Short internal PhD Presentation Feb 2018"
 microblog: false
 audio: 
-date: 2018-02-22 12:36 +0100
+date: 2018-02-22 12:36:07 +0100
 guid: http://adamprocter.micro.blog/2018/02/22/short-internal-phd.html
 ---
 <iframe src="//slides.com/adamprocter/deck-1/embed" width="100%" height="100%" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
