@@ -15,6 +15,7 @@ baseurl: ""
 url: "https://discursive.adamprocter.co.uk"
 markdown: "kramdown"
 username: "adamprocter"
+microblog_user: "adamprocter"
 permalink: "/:year/:month/:day/:title.html"
 relative_permalinks: false
 author: "Adam Procter"
