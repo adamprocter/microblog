@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2018/05/16/london-studio-trip.html",
+	      	
+			"title": "London Studio Trip ",
+			
+			"content_html": "<p><a href=\"http://discursive.adamprocter.co.uk/uploads/2018/57cebd2914.jpg\"><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/57cebd2914.jpg\" width=\"600\" height=\"367\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://discursive.adamprocter.co.uk/uploads/2018/d10bec36bb.jpg\"><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/d10bec36bb.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>Busy day in London to meet up with @ustwoadventure @studiolovesong @lastseenonline and @sennep_games discussing future potential projects and our graduate showcase pop up arcade events #WSAxARCADE woooo</p>\n\n",
+			"date_published": "2018-05-16T19:03:09+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/05/16/london-studio-trip.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2018/05/15/framing-facebook-its.html",
 	      	
 			"content_html": "<p><a href=\"http://dctr.pro/271\">Framing Facebook: It’s not about technology</a> – Bill Bennett</p>\n\n<p>This is important, Facebook is not a technology company. I would also argue same for Google mind.</p>\n",
@@ -199,14 +209,6 @@
 			"content_html": "<p>Excellent intro. Hopefully the rest of the texts will be as great. 📚</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/af03ad8c0d.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-05-03T18:24:39+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/05/03/excellent-intro-hopefully.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/05/03/if-we-teach.html",
-	      	
-			"content_html": "<blockquote>\n  <p>If we teach today the way we taught yesterday, we rob our children of tomorrow.</p>\n</blockquote>\n\n<p>(Dewey, 1916)</p>\n",
-			"date_published": "2018-05-03T12:56:37+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/05/03/if-we-teach.html"
 		}
 		
 	]
