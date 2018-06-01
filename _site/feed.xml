@@ -4,8 +4,26 @@
     <title>Adam Procter</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/adamprocter&quot;&gt;@adamprocter on Micro.blog&lt;/a&gt;.</description>
     <link>https://discursive.adamprocter.co.uk/</link>
-    <pubDate>Thu, 31 May 2018 10:36:47 +0100</pubDate>
-    <lastBuildDate>Thu, 31 May 2018 10:36:47 +0100</lastBuildDate>
+    <pubDate>Fri, 01 Jun 2018 09:29:17 +0100</pubDate>
+    <lastBuildDate>Fri, 01 Jun 2018 09:29:17 +0100</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;In Firefox’s addressbar, you can limit results by typing special characters before or after your term&lt;/p&gt;
+
+&lt;p&gt;^ for matches in your browsing history.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;for matches in your bookmarks.
+% for matches in your currently open tabs.
+    &lt;h1 id=&quot;for-matches-in-page-titles&quot;&gt;for matches in page titles.&lt;/h1&gt;
+    &lt;p&gt;@ for matches in web addresses.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 01 Jun 2018 09:29:14 +0100</pubDate>
+        <link>https://discursive.adamprocter.co.uk/2018/06/01/in-firefoxs-addressbar.html</link>
+        <guid isPermaLink="true">http://adamprocter.micro.blog/2018/06/01/in-firefoxs-addressbar.html</guid>
+      </item>
     
       <item>
       	
@@ -564,25 +582,6 @@
         <pubDate>Sat, 28 Apr 2018 13:41:58 +0100</pubDate>
         <link>https://discursive.adamprocter.co.uk/2018/04/28/another-reason-algorithm.html</link>
         <guid isPermaLink="true">http://adamprocter.micro.blog/2018/04/28/another-reason-algorithm.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;h1 id=&quot;overcast-42-the-privacy-update&quot;&gt;Overcast 4.2: The privacy update&lt;/h1&gt;
-
-&lt;p&gt;Enhances privacy in two major areas:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Anonymous sync by default&lt;/li&gt;
-  &lt;li&gt;Blocking ad-tracking images&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://dctr.pro/26h&quot;&gt;dctr.pro/26h&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Thanks @macro awesome update&lt;/p&gt;
-</description>
-        <pubDate>Sat, 28 Apr 2018 13:37:49 +0100</pubDate>
-        <link>https://discursive.adamprocter.co.uk/2018/04/28/overcast-the-privacy.html</link>
-        <guid isPermaLink="true">http://adamprocter.micro.blog/2018/04/28/overcast-the-privacy.html</guid>
       </item>
     
   </channel>
