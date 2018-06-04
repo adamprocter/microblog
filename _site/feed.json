@@ -6,9 +6,17 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2018/06/03/when-i-was.html",
+	      	
+			"content_html": "<p>When I was coding / playing with my ZX Spectrum I didnt ever think we would have hand held devices that unlock via facial recognition, it’s pretty mind blowing how quickly computing has moved on. Can we keep the Silicon Valley capitalist system away as much as we can please.</p>\n",
+			"date_published": "2018-06-03T19:44:53+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/06/03/when-i-was.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2018/06/03/here-is-a.html",
 	      	
-			"content_html": "<p>Here is a short montage clip of some game play footage from a recent Year 2 project (vertical slice made in Unity) Bugs Ahoy on the course I run at Winchester School of Art, BA (Hons) Games Design &amp; Art. <a href=\"https://vimeo.com/273093870\">vimeo.com/273093870</a></p>\n",
+			"content_html": "<p>Here is a short montage clip of some game play footage from a recent Year 2 project (vertical slice made in Unity) Bugs Ahoy from the course I run at Winchester School of Art, BA (Hons) Games Design &amp; Art. <a href=\"https://vimeo.com/273093870\">vimeo.com/273093870</a></p>\n",
 			"date_published": "2018-06-03T14:38:29+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/06/03/here-is-a.html"
 		},
@@ -199,14 +207,6 @@
 			"content_html": "<p><a href=\"http://dctr.pro/271\">Framing Facebook: It’s not about technology</a> – Bill Bennett</p>\n\n<p>This is important, Facebook is not a technology company. I would also argue same for Google mind.</p>\n",
 			"date_published": "2018-05-15T22:32:24+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/05/15/framing-facebook-its.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/05/15/how-about-changing.html",
-	      	
-			"content_html": "<blockquote>\n  <p>How about changing? Changing from passive, to active. From scroll to search, from react to rethink, from like and retweet to write and link. Take the power back.</p>\n</blockquote>\n\n<ul>\n  <li><a href=\"http://dctr.pro/270\">dctr.pro/270</a></li>\n</ul>\n",
-			"date_published": "2018-05-15T19:01:03+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/05/15/how-about-changing.html"
 		}
 		
 	]
