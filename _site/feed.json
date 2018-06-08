@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2018/06/08/huge-student-debts.html",
+	      	
+			"content_html": "<p>Huge student debts are unfair. Let’s move towards a graduate contribution - Chris Husbands - Vice-chancellor of Sheffield Hallam University - <a href=\"http://dctr.pro/27g\">Guardian</a></p>\n",
+			"date_published": "2018-06-08T15:04:14+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/06/08/huge-student-debts.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2018/06/05/193958.html",
 	      	
 			"content_html": "<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/5a1626395e.jpg\" width=\"363\" height=\"600\" /></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Onboarding: A College Student Discovers A List Apart <a href=\"http://dctr.pro/279\">dctr.pro/279</a> via @alistapart</p>\n",
 			"date_published": "2018-05-30T23:46:58+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/05/30/onboarding-a-college.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/05/30/ios-just-before.html",
-	      	
-			"content_html": "<p>iOS 11.4 just before iOS 12 is announced we finally get Messages in the Cloud happy but also wish Apple would just iterate and not big reveal release those days are over. WWDC could then be much more… let see what happens in the next couple of weeks…</p>\n",
-			"date_published": "2018-05-30T22:30:43+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/05/30/ios-just-before.html"
 		}
 		
 	]
