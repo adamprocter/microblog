@@ -6,6 +6,38 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2018/06/13/as-over-the.html",
+	      	
+			"content_html": "<p>As over the last weeks I’ve been much more portable than normal and I’ve realised my MacBook Pro 15” 2016 is really really terrible on battery life which has been driving me barmy</p>\n",
+			"date_published": "2018-06-13T22:37:10+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/06/13/as-over-the.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/06/12/today-was-mainly.html",
+	      	
+			"content_html": "<p>Today was mainly spent directing students for our <a href=\"https://micro.blog/gamesdesignart\">@gamesdesignart</a> show opening on Thursday at Winchester School of Art by painting Arcade Cabinets and climbing ladders.</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/b6fe2007c4.jpg\" width=\"600\" height=\"600\" /><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/ae0f0459be.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-13T00:49:15+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/06/13/today-was-mainly.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/06/12/e-showcase-nothing.html",
+	      	
+			"content_html": "<p>E3 Showcase nothing that really interests or excites me. Show me the innovative games, well dreams was slotted in between…</p>\n",
+			"date_published": "2018-06-13T00:43:15+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/06/13/e-showcase-nothing.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/06/12/finally-catching-up.html",
+	      	
+			"content_html": "<p>Finally catching up with E3.</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/e70b35965b.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-12T23:32:49+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/06/12/finally-catching-up.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2018/06/11/and-relax-assessment.html",
 	      	
 			"content_html": "<p>And relax. Assessment all done.</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/a7e59b2714.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -173,38 +205,6 @@
 			"content_html": "<p>Ah ha Workflow is now Siri Shortcuts by the looks of it #wwdc18</p>\n",
 			"date_published": "2018-06-04T18:36:51+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/06/04/ah-ha-workflow.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/06/04/wwdc-wooooo-good.html",
-	      	
-			"content_html": "<p>WWDC. wooooo. Good job we had awesome 4K screen installed in the Games studio 😊 - welcome home developers</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/9085075555.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-06-04T18:05:36+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/06/04/wwdc-wooooo-good.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/06/03/when-i-was.html",
-	      	
-			"content_html": "<p>When I was coding / playing with my ZX Spectrum I didnt ever think we would have hand held devices that unlocks via facial recognition, it’s pretty mind blowing how quickly computing has moved on. Can we keep the Silicon Valley capitalist system away as much as we can please.</p>\n",
-			"date_published": "2018-06-03T19:44:53+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/06/03/when-i-was.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/06/03/here-is-a.html",
-	      	
-			"content_html": "<p>Here is a short montage clip of some game play footage from a recent Year 2 project (vertical slice made in Unity) Bugs Ahoy from the course I run at Winchester School of Art, BA (Hons) Games Design &amp; Art. <a href=\"https://vimeo.com/273093870\">vimeo.com/273093870</a></p>\n",
-			"date_published": "2018-06-03T14:38:29+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/06/03/here-is-a.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/06/03/the-best-teams.html",
-	      	
-			"content_html": "<p>The best teams are cognitively diverse and psychologically safe - <a href=\"http://dctr.pro/27c\">dctr.pro/27c</a> via <a href=\"https://micro.blog/thoughtshrapnel\">@thoughtshrapnel</a></p>\n",
-			"date_published": "2018-06-03T13:17:30+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/06/03/the-best-teams.html"
 		}
 		
 	]
