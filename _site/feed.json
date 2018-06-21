@@ -6,11 +6,27 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2018/06/21/selfie-day-newcastle.html",
+	      	
+			"content_html": "<p>Selfie Day - Newcastle bound</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/03d1b76adb.jpg\" width=\"450\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-21T15:35:23+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/06/21/selfie-day-newcastle.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2018/06/19/its-not-every.html",
 	      	
 			"content_html": "<p>It’s not every day you are quoted in the Guardian - <a href=\"https://www.theguardian.com/games/2018/jun/18/truth-gaming-addiction-world-health-organization-disorder-games\">‘It consumed my life’: inside a gaming addiction treatment centre</a></p>\n",
 			"date_published": "2018-06-19T13:16:41+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/06/19/its-not-every.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/06/19/074626.html",
+	      	
+			"content_html": "<p>#Repost <a href=\"https://micro.blog/gamesdesignart\">@gamesdesignart</a> with @get_repost\n・・・\nOne week until we move our show to London. Hoxton Arches 6pm Tuesday 26th .\n.\n.\n.\n.\n#madewithgodot #madewithunity #WSAxARCADE #excitingtimesatwsa #designthinking #gamesdesign #art #changingtheworldonegameatatime \n#artschool\n#graduateshowcase\n#wsa_ba\n#gdafam \n#gdawsa</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/f38a5d3ad1.jpg\" width=\"600\" height=\"600\" /><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/02ea46a995.jpg\" width=\"600\" height=\"600\" /><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/30254e4a8f.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-19T08:46:26+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/06/19/074626.html"
 		},
 		
 		{
@@ -191,22 +207,6 @@
 			"content_html": "<p>Huge student debts are unfair. Let’s move towards a graduate contribution - Chris Husbands - Vice-chancellor of Sheffield Hallam University - <a href=\"http://dctr.pro/27g\">Guardian</a></p>\n",
 			"date_published": "2018-06-08T15:04:14+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/06/08/huge-student-debts.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/06/05/193958.html",
-	      	
-			"content_html": "<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/5a1626395e.jpg\" width=\"363\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-05T20:39:58+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/06/05/193958.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/06/05/the-ethics-of.html",
-	      	
-			"content_html": "<p>The Ethics of Persuasion - <a href=\"http://dctr.pro/27f\">Smashing Magazine</a></p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/681cdfdd77.jpg\" width=\"600\" height=\"403\" /></p>\n",
-			"date_published": "2018-06-05T12:58:48+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/06/05/the-ethics-of.html"
 		}
 		
 	]
