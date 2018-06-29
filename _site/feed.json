@@ -6,6 +6,24 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2018/06/29/measuring-a-university.html",
+	      	
+			"title": "Measuring a University Degree. ",
+			
+			"content_html": "<p>Totally agree and was only taking about this last week a focus on wages as the measure of University education is fundementally missing the point of University education.</p>\n\n<blockquote>\n  <p><a href=\"http://dctr.pro/27r\">Linda Drew</a>, the vice-chancellor of Ravensbourne - the UK’s newest university - warned that using graduate salaries to measure the success of higher education is a “cold, grim way” of looking at it. She argued that the current government emphasis on Stem subjects neglects the fact that many industrial and tech companies value input from the arts and humanities for the new, creative perspectives they bring.</p>\n</blockquote>\n",
+			"date_published": "2018-06-29T13:24:37+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/06/29/measuring-a-university.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/06/29/a-neat-way.html",
+	      	
+			"content_html": "<p>A <a href=\"http://dctr.pro/27q\">neat way</a> to quickly organise your to dos into a little more detail, could easily be mixed with Kanban using any board system like Trello or Glo boards.</p>\n",
+			"date_published": "2018-06-29T08:07:46+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/06/29/a-neat-way.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2018/06/28/i-have-to.html",
 	      	
 			"content_html": "<p>I have to wonder how London actually functions 4 days travelling and I think only 1 train has been on schedule… I can only hope it’s just I happen to find the bad trains @swtrains</p>\n",
@@ -191,22 +209,6 @@
 			"content_html": "<p>Forget this VAR rubbish. Let’s real-time 3D scan the pitch and run algorithms against every movement to see if there is anything that might slightly infringe the rules… #ohboy</p>\n",
 			"date_published": "2018-06-18T19:46:24+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/06/18/forget-this-var.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/06/18/this-is-probably.html",
-	      	
-			"content_html": "<p>This is probably going to tip me over the edge to get PSVR. Just wow and from what I have read it almost perfectly executed. In development for 6 years (10+ as an idea)</p>\n\n<p>YouTube - <a href=\"https://youtu.be/Mr8fVT_Ds4Q\">Tetris Effect</a></p>\n",
-			"date_published": "2018-06-18T18:36:27+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/06/18/this-is-probably.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/06/17/switzerland-great-goal.html",
-	      	
-			"content_html": "<p>Switzerland Great goal - Brazil blooming asking for VAR grrrr ⚽️ This is one of my many issues with VAR</p>\n",
-			"date_published": "2018-06-17T20:11:53+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/06/17/switzerland-great-goal.html"
 		}
 		
 	]
