@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2018/06/30/i-dont-like.html",
+	      	
+			"content_html": "<p>‘I don’t like the stress of dying’: the game for people who don’t want to fight <a href=\"http://dctr.pro/27s\">Games The Guardian</a></p>\n",
+			"date_published": "2018-06-30T12:00:39+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/06/30/i-dont-like.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2018/06/29/measuring-a-university.html",
 	      	
 			"title": "Measuring a University Degree. ",
@@ -201,14 +209,6 @@
 			"content_html": "<p>#Repost <a href=\"https://micro.blog/gamesdesignart\">@gamesdesignart</a> with @get_repost\n・・・\nOne week until we move our show to London. Hoxton Arches 6pm Tuesday 26th .\n.\n.\n.\n.\n#madewithgodot #madewithunity #WSAxARCADE #excitingtimesatwsa #designthinking #gamesdesign #art #changingtheworldonegameatatime \n#artschool\n#graduateshowcase\n#wsa_ba\n#gdafam \n#gdawsa</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/f38a5d3ad1.jpg\" width=\"600\" height=\"600\" /><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/02ea46a995.jpg\" width=\"600\" height=\"600\" /><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/30254e4a8f.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-06-19T08:46:26+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/06/19/074626.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/06/18/forget-this-var.html",
-	      	
-			"content_html": "<p>Forget this VAR rubbish. Let’s real-time 3D scan the pitch and run algorithms against every movement to see if there is anything that might slightly infringe the rules… #ohboy</p>\n",
-			"date_published": "2018-06-18T19:46:24+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/06/18/forget-this-var.html"
 		}
 		
 	]
