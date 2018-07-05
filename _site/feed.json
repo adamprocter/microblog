@@ -6,6 +6,72 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2018/07/05/filtering-not-search.html",
+	      	
+			"title": "Filtering not search or lists -  viewing your feeds",
+			
+			"content_html": "<p>I wonder if <a href=\"https://micro.blog/manton\">@manton</a> could bring in more filters for your timeline that you can use to turn on and off (in app) such as Emoji so turn all 📚 on / off / integrated etc. Would be nice to see a different approach to lists / search for sure.</p>\n\n<p>I’ve gone into the web settings and turned off people you don’t follow mentions option but would be cool to flick them back on perhaps filters are;</p>\n\n<table>\n  <tbody>\n    <tr>\n      <td>solo</td>\n      <td>hide</td>\n      <td>intergrate (default)</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>UI would need to be nice and quick. Been thinking a little about filtering in other contexts maybe an idea 💡</p>\n\n<p>Also could be good for organing your own posts and filtering for review / reuse. Note to self need to look how a markdown doc keeps emoji.</p>\n",
+			"date_published": "2018-07-05T22:43:07+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/07/05/filtering-not-search.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/07/05/nhs-years-on.html",
+	      	
+			"content_html": "<p>NHS 70 years on ! Excellent service but needs so much more support and funding.  👩‍⚕️👨‍⚕️</p>\n",
+			"date_published": "2018-07-05T22:18:20+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/07/05/nhs-years-on.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/07/05/the-creator-of.html",
+	      	
+			"content_html": "<p>The creator of the World Wide Web is fighting to reclaim it from the Duopoly - <a href=\"http://dctr.pro/27u\">dctr.pro/27u</a></p>\n",
+			"date_published": "2018-07-05T12:57:33+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/07/05/the-creator-of.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/07/05/ok-seriously-just.html",
+	      	
+			"content_html": "<p>ok seriously just follow <a href=\"https://micro.blog/adders\">@adders</a> some amazing links today. thank you</p>\n",
+			"date_published": "2018-07-05T12:55:43+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/07/05/ok-seriously-just.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/07/05/tech-companies-are.html",
+	      	
+			"content_html": "<p>Tech companies are turning to tabletop games for team building. - <a href=\"http://dctr.pro/27t\">dctr.pro/27t</a> thanks again <a href=\"https://micro.blog/adders\">@adders</a></p>\n",
+			"date_published": "2018-07-05T12:55:06+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/07/05/tech-companies-are.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/07/05/for-focused-writing.html",
+	      	
+			"content_html": "<p><a href=\"https://amp.fastcompany.com/40586767/for-focused-writing-markdown-is-your-best-friend\">For focused writing, Markdown is your best friend</a> I love markdown and here is a quick update to date primer on why its awesome for writing via <a href=\"https://micro.blog/adders\">@adders</a></p>\n",
+			"date_published": "2018-07-05T12:53:21+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/07/05/for-focused-writing.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/07/04/almost-everything-will.html",
+	      	
+			"content_html": "<blockquote>\n  <p>Almost everything will work again if you unplug it for a few minutes, including you.</p>\n</blockquote>\n\n<ul>\n  <li>Anne Lamott</li>\n</ul>\n\n<p>via <a href=\"https://micro.blog/thoughtshrapnel\">@thoughtshrapnel</a>\nHoping to unplug in August myself.</p>\n",
+			"date_published": "2018-07-04T21:27:37+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/07/04/almost-everything-will.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/07/04/writing-a-medium.html",
+	      	
+			"content_html": "<p>Writing a medium size blog post with inline images for Micro.blog. Started in my fav fast editor FoldingText need to move to Ulysses but that won’t publish to MB (atm) probably going to have to get MarsEdit now to be fair. You can’t have too many markdown editors can you?</p>\n",
+			"date_published": "2018-07-04T20:47:04+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/07/04/writing-a-medium.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2018/07/04/our-international-summer.html",
 	      	
 			"content_html": "<p>Our International Summer School numbers are super positive so am now rapidly trying to pull this all together.</p>\n\n<h1 id=\"remix-pac-man-design-project\">Remix Pac-Man Design Project</h1>\n\n<p>GNU AFFERO licensed code and Creative Commons licence resources located <a href=\"https://gitlab.adamprocter.co.uk/adamprocter/pacmac_wsa\">here</a></p>\n",
@@ -143,70 +209,6 @@
 			"content_html": "<p>#Repost <a href=\"https://micro.blog/gamesdesignart\">@gamesdesignart</a> with @get_repost\n・・・\nHoxton Arches today and tomorrow 10am-8pm #WSAxARCADE future game makers and game designers showcasing graduating game projects. Pop by and say hello 😊👾</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/017c61bac1.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-06-27T14:11:24+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/06/27/131124.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/06/26/123356.html",
-	      	
-			"content_html": "<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/fc0bf8769c.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-26T13:33:56+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/06/26/123356.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/06/26/ah-ha-network.html",
-	      	
-			"content_html": "<p>Ah ha network rail card off peak is different to normal off peak. 🚂 Expensive enough as it is in UK but even more annoying when the discount card you pay for is overly restrictive. ☹️</p>\n",
-			"date_published": "2018-06-26T09:43:34+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/06/26/ah-ha-network.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/06/25/wow-facebook-are.html",
-	      	
-			"content_html": "<p>Wow Facebook are really trying to claim they are changing with their new adverts oh boy what a load of lies</p>\n",
-			"date_published": "2018-06-26T00:15:42+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/06/26/wow-facebook-are.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/06/25/not-so-great.html",
-	      	
-			"content_html": "<p>Not so great at photographing our awesome publication but Ill try - limited edition available tomorrow (Tuesday 26th June) at our Private View Hoxton Arches London. 6-9pm. #WSAxARCADE</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/ab067e2012.jpg\" width=\"599\" height=\"600\" /><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/158dd69cf7.jpg\" width=\"600\" height=\"600\" /><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/9a0d8a104c.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-25T23:14:41+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/06/25/not-so-great.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/06/25/monument-valley-open.html",
-	      	
-			"content_html": "<p>Monument Valley - Open data from 2 years related to downloads and revenue. This open data continues to be very useful and informative for Indie Game Makers. FYI the initial investment was £1.4million. It has now made 10x that.</p>\n\n<ul>\n  <li><a href=\"http://dctr.pro/27o\">dctr.pro/27o</a></li>\n</ul>\n",
-			"date_published": "2018-06-25T17:34:57+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/06/25/monument-valley-open.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/06/25/today-has-been.html",
-	      	
-			"content_html": "<p>Today has been super bumpy in terms of getting to London unfortunately this was due to major delays but will soon be at Hoxton Arches to help guide set up of our <a href=\"https://micro.blog/gamesdesignart\">@gamesdesignart</a> London show opening tomorrow 26th June at 6-9pm.</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/968f79f619.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-25T17:03:22+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/06/25/today-has-been.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/06/24/just-heard-a.html",
-	      	
-			"content_html": "<p>Just heard a Vice Chancellor (not ours) say this;</p>\n\n<blockquote>\n  <p>Growth is a pre condition of remaining competitive</p>\n</blockquote>\n\n<p>Totally disagree with this statement.</p>\n",
-			"date_published": "2018-06-24T11:52:18+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/06/24/just-heard-a.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/06/23/this-guy-has.html",
-	      	
-			"content_html": "<p>This guy has some things to say about the Germany, Sweden game…</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/7ffe3604d8.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-23T20:48:15+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/06/23/this-guy-has.html"
 		}
 		
 	]
