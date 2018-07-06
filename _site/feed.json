@@ -6,11 +6,35 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2018/07/06/albums-are-starting.html",
+	      	
+			"content_html": "<p>Albums are starting to be patched like software updates. Intresting. - <a href=\"http://dctr.pro/27x\">dctr.pro/27x</a></p>\n",
+			"date_published": "2018-07-06T09:06:33+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/07/06/albums-are-starting.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/07/06/facebook-doesnt-have.html",
+	      	
+			"content_html": "<blockquote>\n  <p>Facebook doesn’t have a mind-control problem, it has a corruption problem. Cambridge Analytica didn’t convince decent people to become racists; they convinced racists to become voters.</p>\n</blockquote>\n\n<p><a href=\"http://dctr.pro/27w\">dctr.pro/27w</a></p>\n",
+			"date_published": "2018-07-06T08:56:58+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/07/06/facebook-doesnt-have.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/07/05/oh-i-dont.html",
+	      	
+			"content_html": "<p>Oh I don’t look at Discover feed too much / enough but I found myself on there wooohooo #madeit</p>\n",
+			"date_published": "2018-07-06T00:27:35+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/07/06/oh-i-dont.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2018/07/05/filtering-not-search.html",
 	      	
-			"title": "Filtering not search or lists -  viewing your feeds",
+			"title": "Filtering, not search or lists -  viewing your feeds",
 			
-			"content_html": "<p>I wonder if <a href=\"https://micro.blog/manton\">@manton</a> could bring in more filters for your timeline that you can use to turn on and off (in app) such as Emoji so turn all 📚 on / off / integrated etc. Would be nice to see a different approach to lists / search for sure.</p>\n\n<p>I’ve gone into the web settings and turned off people you don’t follow mentions option but would be cool to flick them back on perhaps filters are;</p>\n\n<table>\n  <tbody>\n    <tr>\n      <td>solo</td>\n      <td>hide</td>\n      <td>intergrate (default)</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>UI would need to be nice and quick. Been thinking a little about filtering in other contexts maybe an idea 💡</p>\n\n<p>Also could be good for organing your own posts and filtering for review / reuse. Note to self need to look how a markdown doc keeps emoji.</p>\n",
+			"content_html": "<p>I wonder if <a href=\"https://micro.blog/manton\">@manton</a> could bring in more filters for your timeline that you can use to turn on and off (in app) such as Emoji so turn all 📚 on / off / integrated etc. Would be nice to see a different approach to lists / search for sure.</p>\n\n<p>I’ve gone into the web settings and turned off people you don’t follow mentions option but would be cool to flick them back on perhaps filters are;</p>\n\n<p>solo / hide / intergrate (default)</p>\n\n<p>UI would need to be nice and quick. Been thinking a little about filtering in other contexts maybe an idea 💡</p>\n\n<p>Also could be good for organsing your own posts and filtering for review / reuse. Note to self need to look how a markdown doc keeps emoji.</p>\n",
 			"date_published": "2018-07-05T22:43:07+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/07/05/filtering-not-search.html"
 		},
@@ -183,32 +207,6 @@
 			"content_html": "<p>Current state of the <a href=\"http://dctr.pro/27p\">Web</a></p>\n",
 			"date_published": "2018-06-28T09:24:36+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/06/28/current-state-of.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/06/27/albums-are-a.html",
-	      	
-			"title": "Albums are a thing",
-			
-			"content_html": "<p>My good friend has Spotify &amp; I have Apple Music I have to have the Spotify iOS app to be able to send her links to records I think she would like, this is pretty terrible due to no open options, and no scripts via IFTTT or workflow to do a search and convert are available. But wow recently opening Spotify it is totally confusing if you want to share a record/ LP its all about playlists from what I can tell.</p>\n\n<p>Thankfully Apple Music has not gone down this route. I think the Album is important and the order selected by the Artist is important that’s how I want to hear my music so please Apple if your doing one thing well in Apple Music it is by ensuring Albums are a thing. Thank you. 🎧</p>\n",
-			"date_published": "2018-06-27T23:21:26+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/06/27/albums-are-a.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/06/27/games-design-students.html",
-	      	
-			"content_html": "<p>Games Design Students and Studio 3015 have ensured an amazing show. Well done everyone!</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/64fd1c12e6.jpg\" width=\"600\" height=\"599\" /><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/437196fb5e.jpg\" width=\"600\" height=\"600\" /><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/8e5e33b45c.jpg\" width=\"600\" height=\"600\" /><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/16eb84dbca.jpg\" width=\"600\" height=\"600\" /><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/e1feeafc82.jpg\" width=\"600\" height=\"600\" /><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/0a9a696a2b.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-06-27T22:40:47+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/06/27/games-design-students.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/06/27/131124.html",
-	      	
-			"content_html": "<p>#Repost <a href=\"https://micro.blog/gamesdesignart\">@gamesdesignart</a> with @get_repost\n・・・\nHoxton Arches today and tomorrow 10am-8pm #WSAxARCADE future game makers and game designers showcasing graduating game projects. Pop by and say hello 😊👾</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/017c61bac1.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-27T14:11:24+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/06/27/131124.html"
 		}
 		
 	]
