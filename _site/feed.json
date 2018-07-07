@@ -6,6 +6,46 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2018/07/07/finally-pinged-up.html",
+	      	
+			"content_html": "<p>Finally pinged up some more Vue projects to <a href=\"gitlab.adamprocter.co.uk\">gitlab.adamprocter.co.uk</a> - also met up with friend who has suddenly gotten into Vue so am pretty excited.</p>\n",
+			"date_published": "2018-07-07T09:11:30+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/07/07/finally-pinged-up.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/07/06/114703.html",
+	      	
+			"content_html": "<p>Anyone know if iOS 12 lets you choose a different default browser yet 😊</p>\n",
+			"date_published": "2018-07-06T12:47:03+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/07/06/114703.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/07/06/had-a-thought.html",
+	      	
+			"content_html": "<p>Had a thought to create <a href=\"https://push.adamprocter.co.uk\">push.adamprocter.co.uk</a> so people can sign up for silly push notifications from me. Looked at Service Workers, gave up, hahaha the web is much harder to build for these days. Project put in backburner 🔥 (added emoji for future filter fun 😉 <a href=\"https://micro.blog/manton\">@manton</a>)</p>\n",
+			"date_published": "2018-07-06T12:38:38+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/07/06/had-a-thought.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/07/06/youtube-premium-is.html",
+	      	
+			"content_html": "<p>YouTube Premium is great (includes YouTube music) I love no adverts but the pricing is insane. Kinda gives an indication of how much they must make in Ad revenue if the can charge 3 times NetFlix. (I’m in 3 month trial)</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/d24ef1194c.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-06T12:32:32+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/07/06/youtube-premium-is.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/07/06/five-centuries-ago.html",
+	      	
+			"content_html": "<p>Five centuries ago, the world’s longest rave took place in Strasbourg - <a href=\"http://dctr.pro/27y\">dctr.pro/27y</a></p>\n",
+			"date_published": "2018-07-06T09:50:28+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/07/06/five-centuries-ago.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2018/07/06/albums-are-starting.html",
 	      	
 			"content_html": "<p>Albums are starting to be patched like software updates. Intresting. - <a href=\"http://dctr.pro/27x\">dctr.pro/27x</a></p>\n",
@@ -165,48 +205,6 @@
 			"content_html": "<p>Worse thing about the MacBook Pro 2016 is the Battery, it’s a total wind up.</p>\n",
 			"date_published": "2018-06-30T18:08:14+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/06/30/worse-thing-about.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/06/30/i-dont-like.html",
-	      	
-			"content_html": "<p>‘I don’t like the stress of dying’: the game for people who don’t want to fight <a href=\"http://dctr.pro/27s\">Games The Guardian</a></p>\n",
-			"date_published": "2018-06-30T12:00:39+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/06/30/i-dont-like.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/06/29/measuring-a-university.html",
-	      	
-			"title": "Measuring a University Degree. ",
-			
-			"content_html": "<p>Totally agree and was only taking about this last week a focus on wages as the measure of University education is fundementally missing the point of University education.</p>\n\n<blockquote>\n  <p><a href=\"http://dctr.pro/27r\">Linda Drew</a>, the vice-chancellor of Ravensbourne - the UK’s newest university - warned that using graduate salaries to measure the success of higher education is a “cold, grim way” of looking at it. She argued that the current government emphasis on Stem subjects neglects the fact that many industrial and tech companies value input from the arts and humanities for the new, creative perspectives they bring.</p>\n</blockquote>\n",
-			"date_published": "2018-06-29T13:24:37+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/06/29/measuring-a-university.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/06/29/a-neat-way.html",
-	      	
-			"content_html": "<p>A <a href=\"http://dctr.pro/27q\">neat way</a> to quickly organise your to dos into a little more detail, could easily be mixed with Kanban using any board system like Trello or Glo boards.</p>\n",
-			"date_published": "2018-06-29T08:07:46+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/06/29/a-neat-way.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/06/28/i-have-to.html",
-	      	
-			"content_html": "<p>I have to wonder how London actually functions 4 days travelling and I think only 1 train has been on schedule… I can only hope it’s just I happen to find the bad trains @swtrains</p>\n",
-			"date_published": "2018-06-28T19:49:05+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/06/28/i-have-to.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/06/28/current-state-of.html",
-	      	
-			"content_html": "<p>Current state of the <a href=\"http://dctr.pro/27p\">Web</a></p>\n",
-			"date_published": "2018-06-28T09:24:36+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/06/28/current-state-of.html"
 		}
 		
 	]
