@@ -1,10 +1,9 @@
 ---
+layout: page
 title: About
 permalink: /about/
-layout: page
 order: 0
 ---
-
 I am a designer-practitioner-researcher at Winchester School of Art, University of Southampton, UK. 
 
 I run the BA Games Design &amp; Art programme, a progressive games course utilising indie style collaborative projects to build new types of games, games for purposes, games as art and highly employable students. 
