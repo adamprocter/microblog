@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2018/07/10/latest-version-of.html",
+	      	
+			"content_html": "<p>Latest version of my quarterly periodical is out, its a mash up as this one was actually started in Jan, added to in April and finally sent in July…</p>\n\n<p><a href=\"http://dctr.pro/27z\">web version</a> and you can subscribe + see any previous edition <a href=\"http://periodical.adamprocter.co.uk\">here</a></p>\n",
+			"date_published": "2018-07-10T15:48:35+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/07/10/latest-version-of.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/07/09/im-a-pretty.html",
+	      	
+			"content_html": "<p>I’m a pretty hardcore @afcwimbledon fan &amp; English so people expect me to follow England but I don’t for a number of reasons, my international team is Spain. I hope England do well and this is likely the biggest opportunity they have had so I hope that grab it by both hands ⚽️</p>\n",
+			"date_published": "2018-07-09T22:37:47+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/07/09/im-a-pretty.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2018/07/09/ah-good-ill.html",
 	      	
 			"content_html": "<p>Ah good. I’ll probably take my keyboard back as B key fails at lot <a href=\"https://www.wired.com/story/apple-will-fix-broken-macbook-keyboards/\">Apple Keyboard Repair Programme</a></p>\n",
@@ -64,7 +80,7 @@
 		{
 			"id": "http://adamprocter.micro.blog/2018/07/06/albums-are-starting.html",
 	      	
-			"content_html": "<p>Albums are starting to be patched like software updates. Intresting. - <a href=\"http://dctr.pro/27x\">dctr.pro/27x</a></p>\n",
+			"content_html": "<p>Albums are starting to be patched like software updates. Interesting. - <a href=\"http://dctr.pro/27x\">dctr.pro/27x</a></p>\n",
 			"date_published": "2018-07-06T09:06:33+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/07/06/albums-are-starting.html"
 		},
@@ -189,22 +205,6 @@
 			"content_html": "<p>Best thing about ITV World Cup coverage is the Peter Gabriel background music. 😂⚽️</p>\n",
 			"date_published": "2018-07-03T18:45:38+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/07/03/best-thing-about.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/07/02/071306.html",
-	      	
-			"content_html": "<p><a href=\"http://discursive.adamprocter.co.uk/uploads/2018/930cadc18e.jpg\"><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/930cadc18e.jpg\" width=\"600\" height=\"450\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Testing Sunlit beta</p>\n\n",
-			"date_published": "2018-07-02T08:13:06+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/07/02/071306.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/07/01/dam-spain-are.html",
-	      	
-			"content_html": "<p>Dam Spain are out ☹️</p>\n",
-			"date_published": "2018-07-01T18:31:18+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/07/01/dam-spain-are.html"
 		}
 		
 	]
