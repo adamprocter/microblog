@@ -1,11 +1,8 @@
-.footer{
-padding-top:10px;
+body{
+ font-size:1.2em; 
 }
 
-.footer:after{
-  content: "a micro.blog - All content on this site, unless otherwise stated, is released under creative commons attribution 1.0 england & wales."
-}
-
-.copyright{
- display:none;
+#footer{
+  padding:1em;
+  margin:0px, auto,0px, auto;
 }
