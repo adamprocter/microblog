@@ -6,6 +6,38 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2018/07/12/office-move-set.html",
+	      	
+			"content_html": "<p>Office move &amp; 95% set up.</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/95bcb53282.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-07-12T17:21:59+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/07/12/office-move-set.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/07/12/so-the-question.html",
+	      	
+			"content_html": "<p>So the question is will my Macbook Pro (2016) get a replacement keyboard as in the 2018 versions if I take it to be replaced under the replacement programme (3rd gen keyboard)</p>\n\n<blockquote>\n  <p>MacBook Pro (2018): First look, listen, and feel!</p>\n</blockquote>\n\n<p><a href=\"http://dctr.pro/282\">dctr.pro/282</a></p>\n",
+			"date_published": "2018-07-12T16:31:15+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/07/12/so-the-question.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/07/12/this-makes-me.html",
+	      	
+			"content_html": "<p>This makes me even more excited to play “Tetris Effect” in PSVR</p>\n\n<blockquote>\n  <p>10 Minutes of TETRIS EFFECT Music and Gameplay - YouTube</p>\n</blockquote>\n\n<ul>\n  <li><a href=\"http://dctr.pro/281\">dctr.pro/281</a></li>\n</ul>\n",
+			"date_published": "2018-07-12T16:18:35+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/07/12/this-makes-me.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/07/12/side-by-side.html",
+	      	
+			"content_html": "<p>Side by side view in Firefox. Intresting. <a href=\"http://dctr.pro/280\">dctr.pro/280</a></p>\n",
+			"date_published": "2018-07-12T14:51:24+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/07/12/side-by-side.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2018/07/10/latest-version-of.html",
 	      	
 			"content_html": "<p>Latest version of my quarterly periodical is out, its a mash up as this one was actually started in Jan, added to in April and finally sent in July…</p>\n\n<p><a href=\"http://dctr.pro/27z\">web version</a> and you can subscribe + see any previous edition <a href=\"http://periodical.adamprocter.co.uk\">here</a></p>\n",
@@ -173,38 +205,6 @@
 			"content_html": "<p>Our International Summer School numbers are super positive so am now rapidly trying to pull this all together.</p>\n\n<h1 id=\"remix-pac-man-design-project\">Remix Pac-Man Design Project</h1>\n\n<p>GNU AFFERO licensed code and Creative Commons licence resources located <a href=\"https://gitlab.adamprocter.co.uk/adamprocter/pacmac_wsa\">here</a></p>\n",
 			"date_published": "2018-07-04T19:31:27+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/07/04/our-international-summer.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/07/03/license-fee-worth.html",
-	      	
-			"content_html": "<p>License fee worth every penny. BBC VR I am in the Stadium. ITV can barely make out the ball. Quality streaming service !!</p>\n",
-			"date_published": "2018-07-03T19:54:37+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/07/03/license-fee-worth.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/07/03/itv-hub-quality.html",
-	      	
-			"content_html": "<p>ITV Hub quality absolutely terrible BBC VR on the same web connection amazing … hmmm not impressed ⚽️</p>\n",
-			"date_published": "2018-07-03T19:08:42+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/07/03/itv-hub-quality.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/07/03/175233.html",
-	      	
-			"content_html": "<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/6073f86414.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-07-03T18:52:33+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/07/03/175233.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/07/03/best-thing-about.html",
-	      	
-			"content_html": "<p>Best thing about ITV World Cup coverage is the Peter Gabriel background music. 😂⚽️</p>\n",
-			"date_published": "2018-07-03T18:45:38+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/07/03/best-thing-about.html"
 		}
 		
 	]
