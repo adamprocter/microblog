@@ -6,6 +6,40 @@
 	"items": [
 		
 		{
+			"id": "http://adamprocter.micro.blog/2018/07/13/225214.html",
+	      	
+			"content_html": "<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/cd3e071426.jpg\" width=\"385\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-13T23:52:14+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/07/13/225214.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/07/13/lost-about-hours.html",
+	      	
+			"content_html": "<p>Lost about 6/7 hours after Mac went totally bananas back up and running now. ☹️</p>\n",
+			"date_published": "2018-07-13T23:18:58+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/07/13/lost-about-hours.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/07/13/microblog-is-a.html",
+	      	
+			"content_html": "<p>Micro.blog is a small, friendly community and platform that understands the need for people to own their data but still freely express themselves on the web. A beacon of light in the darkness.</p>\n",
+			"date_published": "2018-07-13T23:18:03+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/07/13/microblog-is-a.html"
+		},
+		
+		{
+			"id": "http://adamprocter.micro.blog/2018/07/13/apfs-broke-on.html",
+	      	
+			"title": "APFS broke on my Mac",
+			
+			"content_html": "<p>Amazing end to my stressful week my MacBook Pro (2016) appears to have corrupted its drive. Edging closer to a full Back Blaze restore nightmare. Finder went mad and disk util said snapshot meta data was invalid. Cleared dateless snap shots. Run disk until in Single users says disk ok. But it’s not. Safe mode now booting. Restore maybe next. Having one of those weeks.</p>\n",
+			"date_published": "2018-07-13T16:48:46+01:00",
+			"url": "https://discursive.adamprocter.co.uk/2018/07/13/apfs-broke-on.html"
+		},
+		
+		{
 			"id": "http://adamprocter.micro.blog/2018/07/12/office-move-set.html",
 	      	
 			"content_html": "<p>Office move &amp; 95% set up.</p>\n\n<p><img src=\"http://discursive.adamprocter.co.uk/uploads/2018/95bcb53282.jpg\" width=\"600\" height=\"450\" /></p>\n",
@@ -173,38 +207,6 @@
 			"content_html": "<p>Tech companies are turning to tabletop games for team building. - <a href=\"http://dctr.pro/27t\">dctr.pro/27t</a> thanks again <a href=\"https://micro.blog/adders\">@adders</a></p>\n",
 			"date_published": "2018-07-05T12:55:06+01:00",
 			"url": "https://discursive.adamprocter.co.uk/2018/07/05/tech-companies-are.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/07/05/for-focused-writing.html",
-	      	
-			"content_html": "<p><a href=\"https://amp.fastcompany.com/40586767/for-focused-writing-markdown-is-your-best-friend\">For focused writing, Markdown is your best friend</a> I love markdown and here is a quick update to date primer on why its awesome for writing via <a href=\"https://micro.blog/adders\">@adders</a></p>\n",
-			"date_published": "2018-07-05T12:53:21+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/07/05/for-focused-writing.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/07/04/almost-everything-will.html",
-	      	
-			"content_html": "<blockquote>\n  <p>Almost everything will work again if you unplug it for a few minutes, including you.</p>\n</blockquote>\n\n<ul>\n  <li>Anne Lamott</li>\n</ul>\n\n<p>via <a href=\"https://micro.blog/thoughtshrapnel\">@thoughtshrapnel</a>\nHoping to unplug in August myself.</p>\n",
-			"date_published": "2018-07-04T21:27:37+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/07/04/almost-everything-will.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/07/04/writing-a-medium.html",
-	      	
-			"content_html": "<p>Writing a medium size blog post with inline images for Micro.blog. Started in my fav fast editor FoldingText need to move to Ulysses but that won’t publish to MB (atm) probably going to have to get MarsEdit now to be fair. You can’t have too many markdown editors can you?</p>\n",
-			"date_published": "2018-07-04T20:47:04+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/07/04/writing-a-medium.html"
-		},
-		
-		{
-			"id": "http://adamprocter.micro.blog/2018/07/04/our-international-summer.html",
-	      	
-			"content_html": "<p>Our International Summer School numbers are super positive so am now rapidly trying to pull this all together.</p>\n\n<h1 id=\"remix-pac-man-design-project\">Remix Pac-Man Design Project</h1>\n\n<p>GNU AFFERO licensed code and Creative Commons licence resources located <a href=\"https://gitlab.adamprocter.co.uk/adamprocter/pacmac_wsa\">here</a></p>\n",
-			"date_published": "2018-07-04T19:31:27+01:00",
-			"url": "https://discursive.adamprocter.co.uk/2018/07/04/our-international-summer.html"
 		}
 		
 	]
